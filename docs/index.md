@@ -34,4 +34,14 @@ Any contributions toward any of these languages — or any other languages not l
 
 # How to contribute
 
-The easiest way to contribute is through this repository. To make changes or add localisations, just clone the repository, make whatever additions you would like to make, and then send those in as a merge requests. Accepted contributions will then be merged and visible to users of the website.
+The easiest way to contribute is through GitHub with this repository.
+
+To add a new language, duplicate one of the existing `.json` files, renaming it to the language code of the language you are adding. Then translate each line from the original language to the new one. Once done, you can submit it back here to be added to the master branch.
+
+To make changes or corrections to an existing localisation, simply fix what you think needs to be fixed and submit those changes.
+
+Approved changes will be merged into the master branch.
+
+## Note
+
+Never change the structure of the `.json` files, and always be sure to validate before submitting. You can validate at [a site like https://jsonlint.com](https://jsonlint.com) to make sure that there are no errors in the document structure.
