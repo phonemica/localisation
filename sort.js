@@ -1,12 +1,9 @@
-/*
-  simple script to sort alphabetically sort languages.json and add missing languages
-*/
-
-var fs = require('fs')
-var obj
+const fs = require('fs')
+const parseJson = require('parse-json');
 
 let locales = ["auto", "en", "zh_TW", "zh_CN", "ko", "jp"]
 
+let obj
 let demo = {
   "en": "",
   "zh_TW": {
@@ -44,11 +41,11 @@ function saveFile(obj) {
   fs.writeFile('sorted.json', JSON.stringify(sortObject(obj), null, 2), (err) => {
     if (err) throw err;
     console.log('saved');
-});
+  });
 }
 
-fs.readFile('unsorted.json', 'utf8', function(err, data) {
-  if (err) throw err;
+fs.readFile('sorted.json', 'utf8', function(err, data) {
+  parseJson(data);
   data = JSON.parse(data)
   saveFile(data)
 });
