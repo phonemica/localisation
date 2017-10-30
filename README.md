@@ -70,3 +70,5 @@ Unlike the rest of the localisation files, the languages data is kept in one pla
 ```
 
 We are super-family agnostic. Thus while the Sal languages are Tibetoburman, they need not fall under a `tibetoburman` node. For langauge families which are diverse enough on their own, inclusion under another higher order classification is not necessary. Instead the grouping should reflect magnitude of diversity, salience of the language group among a wider population and therefore also popularity of a given grouping. As an example, Formosan has some extra significance to the area, and so would not need to be classified under a massive `austronesian` node. This may change down the road, but at the present time the current structure is sufficient.
+
+Finally, languages which may not yet exist as site-wide localisations can be included in the `languages.json` trees where relevant. It may be significant to include standard Thai names for various Tai-Kadai languages, for example, despite there not currently being a Thai version of the site.
