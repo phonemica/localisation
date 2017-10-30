@@ -12,11 +12,11 @@ This directory contains almost all localised terms and texts. Each localisation 
 
 The keys for each node in the JSON file reflect the structure of the site, and each is given a name meant to make clear to editors what the given text is referring to. 
 
-The easiest way to contribute new localisations is to simply copy one of the existing files, rename it to the language code, and start translating. Using Spanish as an example, the steps are as follows:
+The easiest way to contribute new localisations is to simply copy one of the existing files, rename it to the ISO 639-1 language code, and start translating. Using Spanish as an example, the steps are as follows:
 
 1. Fork this repository
 2. Clone the forked repo to your own system
-3. Rename `/ui/en.json` to `/ui/es.json`, `es` being the language code for Spanish
+3. Rename `/ui/en.json` to `/ui/es.json`, `es` being the ISO 639-1 language code for Spanish
 4. Translate everything that needs to be translated
 5. Push your changes to your forked repo
 6. Make a merge request.
