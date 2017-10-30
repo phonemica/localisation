@@ -14,7 +14,7 @@ Corrections to the tree structure should not be made. If, for example, one belie
 
 The structure of `languages.json` for a single entry is as follows:
 
-```json
+```javascript
 "sinitic":{
   "_": {
     "en":"Sinitic",
@@ -24,10 +24,10 @@ The structure of `languages.json` for a single entry is as follows:
     "auto":"漢語系"
   },
   "yue": {
-    ...
+    // et cetera
   },
   "wu": {
-    ...
+    // et cetera
   },
 }
 ```
@@ -38,7 +38,7 @@ To add another language to the user interface, such as to make the site availabl
 
 Unlike the rest of the localisation files, the languages data is kept in one place to make it easier to add a single submission language without breaking the tree for pages that heavily depend on it. For languages which are not included in this file, such as `zh_HK`, one of the existing languages is set as a fallback. Thus if someone with Hong Kong Chinese set as the localisation comes to the site, they will see the Hong Kong localisation for everything but the list of languages, which will instead be shown based on the `zh_TW` values, since there will not be significant difference in language names as compared to other things. These fallbacks are determined at the start of the document, and others may be added as necessary:
 
-```json
+```javascript
 {
   "fallbacks": {
     "zh_HK": "zh_TW",
@@ -49,5 +49,5 @@ Unlike the rest of the localisation files, the languages data is kept in one pla
       "_": {
         "en": "",
         "zh_TW": "",
-...
+        // et cetera
 ```
