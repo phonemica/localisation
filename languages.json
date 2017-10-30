@@ -1,0 +1,811 @@
+{
+	"_": {
+		"en":"",
+		"zh_TW":"",
+		"zh_CN":"",
+		"ko":"",
+		"auto":"",
+		"slug":""
+	},
+	"sinitic": {
+		"_": {
+			"en":"",
+			"zh_TW":"",
+			"zh_CN":"",
+			"ko":"",
+			"auto":"",
+			"slug":"sinitic"
+		}
+		"-": "漢語系",
+		"wu": {
+			"_": {
+				"en":"",
+				"zh_TW":"吳語",
+				"zh_CN":"",
+				"ko":"",
+				"auto":"",
+				"slug":"wu"
+			}
+			"taihu": {
+				"_": {
+					"en":"",
+					"zh_TW":"太湖片",
+					"zh_CN":"",
+					"ko":"",
+					"auto":"太湖片",
+					"slug":"taihu"
+				},
+				"hangzhou": {
+					"_": {
+						"en":"",
+						"zh_TW":"杭州小片",
+						"zh_CN":"杭州小片",
+						"ko":"",
+						"auto":"杭州小片",
+						"slug":"hangzhou"
+					}
+				},
+				"linshao": {
+					"_": {
+						"en":"",
+						"zh_TW":"臨紹小片",
+						"zh_CN":"臨紹小片",
+						"ko":"",
+						"auto":"",
+						"slug":"linshao"
+					},
+				},
+				"piling": {
+					"_": "毗陵小片"
+				},
+				"shaoxi": {
+					"_": "苕溪小片"
+				},
+				"suhujia": {
+					"_": "蘇滬嘉小片"
+				},
+				"yongjiang": {
+					"_": "甬江小片"
+				}
+			},
+			"wuzhou": {
+				"_": "婺州片"
+			},
+			"xuanzhou": {
+				"_": "宣州片",
+				"shiling": {
+					"_": "石陵小片"
+				},
+				"taigao": {
+					"_": "太高小片"
+				},
+				"tongjing": {
+					"_": "銅涇小片"
+				}
+			},
+			"oujiang": {
+				"_": "甌江片"
+			},
+			"taizhou": {
+				"_": "臺州片"
+			},
+			"chuqu": {
+				"_": "處衢片",
+				"chuzhou": {
+					"_": "麗水小片"
+				},
+				"longqu": {
+					"_": "龍衢小片"
+				}
+			}
+		},
+		"guanhua": {
+			"_": "官話",
+			"central plains": {
+				"_": "中原官話",
+				"dungan" {
+					"_":"东干"
+				}
+				"cailu": {
+					"_": "蔡鲁片"
+				},
+				"fenhe": {
+					"_": "汾河片",
+					"pingyang": {
+						"_": "平阳小片"
+					},
+					"jiangzhou": {
+						"_": "绛州小片"
+					},
+					"jiezhou": {
+						"_": "解州小片"
+					}
+				},
+				"guanzhong": {
+					"_": "關中片"
+				},
+				"longzhong": {
+					"_": "隴中片"
+				},
+				"luoxu": {
+					"_": "洛徐片"
+				},
+				"qinlong": {
+					"_": "秦隴片"
+				},
+				"xinbang": {
+					"_": "信蚌片"
+				},
+				"zhengcao": {
+					"_": "鄭曹片"
+				}
+			},
+			"jilu": {
+				"_": "冀魯官話",
+				"baotang": {
+					"_": "保唐片",
+					"tianjin": {
+						"_": "天津小片"
+					},
+					"dingba": {
+						"_": "定霸小片"
+					},
+					"fulong": {
+						"_": "撫龍小片"
+					},
+					"laifu": {
+						"_": "涞阜小片"
+					},
+					"luanchang": {
+						"_": "滦昌小片"
+					},
+					"jizun": {
+						"_": "蓟遵小片"
+					}
+				},
+				"canghui": {
+					"_": "沧惠片",
+					"yangshou": {
+						"_": "陽壽小片"
+					},
+					"huangle": {
+						"_": "黃樂小片"
+					}
+				},
+				"shiji": {
+					"_": "石济片",
+					"liaotai": {
+						"_": "聊泰小片"
+					},
+					"zhaoshen": {
+						"_": "趙深小片"
+					},
+					"xingheng": {
+						"_": "邢衡小片"
+					}
+				},
+				"zhangli": {
+					"_": "章利片"
+				}
+			},
+			"beijing": {
+				"_": "北京官話",
+				"jingshi": {
+					"_": "京師片"
+				}
+			},
+			"modern standard": {
+				"_": "普通話"
+			},
+			"northeastern": {
+				"_": "東北官話",
+				"hafu": {
+					"_": "哈阜片",
+					"zhaofu": {
+						"_": "肇扶小片"
+					},
+					"zhangjin": {
+						"_": "长锦小片"
+					}
+				},
+				"heisong": {
+					"_": "黑松片",
+					"jiafu": {
+						"_": "佳富小片"
+					},
+					"nenke": {
+						"_": "嫩克小片"
+					},
+					"zhanhua": {
+						"_": "站話小片"
+					}
+				},
+				"jishen": {
+					"_": "吉瀋片",
+					"yanji": {
+						"_": "延吉小片"
+					},
+					"jiaoning": {
+						"_": "蛟寧小片"
+					},
+					"tongxi": {
+						"_": "通溪小片"
+					}
+				}
+			},
+			"jianghuai": {
+				"_": "江淮官話",
+				"hongchao": {
+					"_": "洪巢片"
+				},
+				"huangxiao": {
+					"_": "黃孝片"
+				},
+				"tairu": {
+					"_": "泰如片"
+				}
+			},
+			"localputonghua": {
+				"_": "當地普通話"
+			},
+			"jiaoliao": {
+				"_": "膠遼官話",
+				"denglian": {
+					"_": "登连片"
+				},
+				"qingzhou": {
+					"_": "青州片"
+				},
+				"yingtong": {
+					"_": "营通片"
+				}
+			},
+			"lanyin": {
+				"_": "蘭銀官話",
+				"beijiang": {
+					"_": "北疆片"
+				},
+				"hexi": {
+					"_": "河西片"
+				},
+				"jincheng": {
+					"_": "金城片"
+				},
+				"yinwu": {
+					"_": "銀吳片"
+				}
+			},
+			"southwestern": {
+				"_": "西南官話",
+				"cenjiang": {
+					"_": "岑江片"
+				},
+				"changhe": {
+					"_": "常鹤片"
+				},
+				"chengyu": {
+					"_": "成渝片"
+				},
+				"dianxi": {
+					"_": "滇西片"
+				},
+				"ebei": {
+					"_": "鄂北片"
+				},
+				"guanchi": {
+					"_": "灌赤片",
+					"lichuan": {
+						"_": "丽川小片"
+					},
+					"renfu": {
+						"_": "仁富小片"
+					},
+					"minjiang": {
+						"_": "岷江小片"
+					},
+					"yamian": {
+						"_": "雅棉小片"
+					}
+				},
+				"guiliu": {
+					"_": "桂柳片"
+				},
+				"jiyong": {
+					"_": "吉永片"
+				},
+				"kungui": {
+					"_": "昆貴片"
+				},
+				"qianbei": {
+					"_": "黔北片"
+				},
+				"qiannan": {
+					"_": "黔南片"
+				},
+				"wutian": {
+					"_": "武天片"
+				},
+				"xiangnan": {
+					"_": "湘南片"
+				}
+			}
+		},
+		"hakka": {
+			"_": "客家話",
+			"unclassified": {
+				"_": "(不分片)"
+			},
+			"sixian": {
+				"_": "四縣片"
+			},
+			"ninglong": {
+				"_": "寧龍片"
+			},
+			"huizhou": {
+				"_": "惠州片",
+				"hailu": {
+					"_": "海陸腔"
+				}
+			},
+			"yugui": {
+				"_": "於桂片"
+			},
+			"tingzhou": {
+				"_": "汀州片"
+			},
+			"yuezhong": {
+				"_": "粵中片"
+			},
+			"yuebei": {
+				"_": "粵北片"
+			},
+			"yuetai": {
+				"_": "粵臺片",
+				"jiaying": {
+					"_": "嘉應",
+					"南靖腔": {
+						"_": "南靖腔"
+					},
+					"sixian": {
+						"_": "四縣腔"
+					},
+					"大埔": {
+						"_": "大埔腔"
+					},
+					"平和腔": {
+						"_": "平和腔"
+					},
+					"yongding": {
+						"_": "永定腔"
+					},
+					"詔安腔": {
+						"_": "詔安腔"
+					},
+					"长乐腔": {
+						"_": "長樂腔"
+					},
+					"饒平腔": {
+						"_": "饒平腔"
+					}
+				},
+				"shaonan": {
+					"_": "紹南"
+				},
+				"xinghua": {
+					"_": "興華"
+				},
+				"xinhui": {
+					"_": "新惠"
+				}
+			},
+			"tonggu": {
+				"_": "銅鼓片"
+			}
+		},
+		"hui": {
+			"_": "徽州",
+			"xiuyi": {
+				"_": "休黟"
+			},
+			"yanzhou": {
+				"_": "嚴州"
+			},
+			"jingzhan": {
+				"_": "旌占"
+			},
+			"qiwu": {
+				"_": "祁婺"
+			},
+			"jishe": {
+				"_": "績歙"
+			}
+		},
+		"jin": {
+			"_": "晉語",
+			"shangdang": {
+				"_": "上黨"
+			},
+			"wutai": {
+				"_": "五台"
+			},
+			"luliang": {
+				"_": "呂梁",
+				"": {
+					"_": "汾州小片"
+				}
+			},
+			"dabao": {
+				"_": "大包"
+			},
+			"bingzhou": {
+				"_": "并州"
+			},
+			"zhanghu": {
+				"_": "張呼"
+			},
+			"zhiyan": {
+				"_": "志延"
+			},
+			"hanxin": {
+				"_": "邯新",
+				"cizhangxiao": {
+					"_": "慈漳小片"
+				},
+				"huojixiao": {
+					"_": "獲濟小片"
+				}
+			}
+		},
+		"xiang": {
+			"_": "湘語",
+			"jishou": {
+				"_": "吉首"
+			},
+			"loushao": {
+				"_": "婁邵"
+			},
+			"yongquan": {
+				"_": "永全"
+			},
+			"changyi": {
+				"_": "長益"
+			}
+		},
+		"yue": {
+			"_": "粵語",
+			"danzhou": {
+				"_": "儋州话"
+			},
+			"goulou": {
+				"_": "勾漏片"
+			},
+			"wuhua": {
+				"_": "吳化片"
+			},
+			"siyi": {
+				"_": "四邑片"
+			},
+			"guangfu": {
+				"_": "廣府片"
+			},
+			"qinlian": {
+				"_": "欽廉片"
+			},
+			"yongxun": {
+				"_": "邕潯片"
+			},
+			"gaoyang": {
+				"_": "高陽片"
+			}
+		},
+		"gan": {
+			"_": "贛語",
+			"jicha": {
+				"_": "吉茶片"
+			},
+			"datong": {
+				"_": "大通片"
+			},
+			"yiliu": {
+				"_": "宜瀏片"
+			},
+			"huaiyue": {
+				"_": "懷嶽片"
+			},
+			"fuguang": {
+				"_": "撫廣片"
+			},
+			"changjing": {
+				"_": "昌精片"
+			},
+			"dongsui": {
+				"_": "洞綏片"
+			},
+			"yingyi": {
+				"_": "鷹弋片"
+			}
+		},
+		"min": {
+			"_": "閩語",
+			"qiongwen": {
+				"_": "瓊文"
+			},
+			"puxian": {
+				"_": "莆仙"
+			},
+			"shaojiang": {
+				"_": "邵將"
+			},
+			"minzhong": {
+				"_": "閩中"
+			},
+			"minbei": {
+				"_": "閩北"
+			},
+			"minnan": {
+				"_": "閩南",
+				"chaoshan": {
+					"_": "湖汕片"
+				},
+				"datian": {
+					"_": "大田片"
+				},
+				"hainanese": {
+					"_": "琼文片"
+				},
+				"leizhou": {
+					"_": "雷州片"
+				},
+				"quanzhang": {
+					"_": "泉漳片"
+				}
+			},
+			"mindong": {
+				"_": "閩東",
+				"funing": {
+					"_": "福寧"
+				},
+				"houguan": {
+					"_": "侯官"
+				},
+				"mihua": {
+					"_": "密話"
+				}
+			}
+		}
+	},
+	"koreanic": {
+		"_": "한국어족",
+		"central": {
+			"_": "중부",
+			"seoul-gyeonggi": {
+				"_": "서울"
+			},
+			"yeongseo": {
+				"_": "영서"
+			},
+			"chungcheong": {
+				"_": "충청"
+			}
+		},
+		"gyeongsang": {
+			"_": "경상"
+		},
+		"russia": {
+			"_": "고려말 (러시아)"
+		},
+		"northwest": {
+			"_": "서북",
+			"yukchin": {
+				"_": "륙진"
+			},
+			"pyongyang": {
+				"_": "평안"
+			},
+			"hwanghae": {
+				"_": "황해"
+			}
+		},
+		"yeongdong": {
+			"_": "영동"
+		},
+		"zainichi": {
+			"_": "재일어"
+		},
+		"jeolla": {
+			"_": "전라"
+		},
+		"jeju": {
+			"_": "제주"
+		},
+		"northeast": {
+			"_": "함경",
+			"": {
+				"_": ""
+			}
+		}
+	},
+	"taikadai": {
+		"_": "Tai-Kadai",
+		"kra": {
+			"_": "Kra"
+		},
+		"kamsui": {
+			"_": "Kam-Sui"
+		},
+		"lakkja": {
+			"_": "Lakkja"
+		},
+		"hlai": {
+			"_": "Hlai"
+		},
+		"ongbe": {
+			"_": "Ong Be"
+		},
+		"tai": {
+			"_": "Tai-Zhuang",
+			"tai": {
+				"_": "Tai",
+				"ahom": {
+					"_": "Ahom"
+				},
+				"phake": {
+					"_": "Phake"
+				},
+				"shan": {
+					"_": "Shan"
+				}
+			},
+			"zhuang": {
+				"_": "Vahcuengh",
+				"north": {
+					"_": "Běizhuang",
+					"yongbei": {
+						"_": "Yōngběi",
+						"wuming": {
+							"_": "Wuming"
+						},
+						"binyang": {
+							"_": "Binyang"
+						},
+						"hengxian": {
+							"_": "Hengxian"
+						},
+						"pingguo": {
+							"_": "Pingguo"
+						}
+					}
+				}
+			}
+		}
+	},
+	"formosan": {
+		"_": "Formosan",
+		"atayal": {
+			"_": "Atayal",
+			"c`uli`": {
+				"_": "Cʔuliʔ",
+				"mayrinax": {
+					"_": "Matu’uwal"
+				},
+				"skikun": {
+					"_": "Skikun/Mnibuʔ"
+				},
+				"mnawyan": {
+					"_": "Mnawyan"
+				},
+				"mabatuan": {
+					"_": "Mabatuʔan"
+				},
+				"matabalay": {
+					"_": "Matabalay"
+				},
+				"sakuxan": {
+					"_": "Sakuxan"
+				},
+				"palnawan": {
+					"_": "Palŋawan"
+				},
+				"mkgugut": {
+					"_": "Mkgugut"
+				},
+				"pyahaw": {
+					"_": "Pyahaw"
+				},
+				"ryuhing": {
+					"_": "Ryuhiŋ"
+				},
+				"mtlangan": {
+					"_": "Mtlaŋan"
+				},
+				"knnyan": {
+					"_": "Knŋyan"
+				}
+			},
+			"squliq": {
+				"_": "Squliq",
+				"maspazi": {
+					"_": "Maspaziʔ"
+				},
+				"pyanan": {
+					"_": "Pyanan"
+				},
+				"lmuan": {
+					"_": "Lmuan"
+				},
+				"habun": {
+					"_": "Habun Bazinuq"
+				},
+				"syanuh": {
+					"_": "Syanuh"
+				},
+				"kulu": {
+					"_": "Kulu"
+				},
+				"ngupa": {
+					"_": "Ŋŋupa"
+				},
+				"haga": {
+					"_": "Haga-Paris"
+				},
+				"kubaboo": {
+					"_": "Kubaboo"
+				},
+				"rgayung": {
+					"_": "Rghayuŋ"
+				}
+			}
+		},
+		"seediq": {
+			"_": "Seediq",
+			"tongan": {
+				"_": "Toŋan"
+			},
+			"toda": {
+				"_": "Toda"
+			},
+			"truwan": {
+				"_": "Truwan"
+			},
+			"inago": {
+				"_": "Inago"
+			}
+		},
+		"bunun": {
+			"_": "Bunun"
+		},
+		"amis": {
+			"_": "Amis"
+		},
+		"kanakanabu": {
+			"_": "Kanakanabu"
+		},
+		"kavalan": {
+			"_": "Kavalan"
+		},
+		"paiwan": {
+			"_": "Paiwan"
+		},
+		"saisiyat": {
+			"_": "Saisiyat"
+		},
+		"puyuma": {
+			"_": "Puyuma"
+		},
+		"rukai": {
+			"_": "Rukai"
+		},
+		"saaroa": {
+			"_": "Saaroa"
+		},
+		"thao": {
+			"_": "RuThaokai"
+		},
+		"tsou": {
+			"_": "Tsou"
+		},
+		"siraya": {
+			"_": "Siraya"
+		}
+	}
+}
