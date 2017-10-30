@@ -1,2310 +1,2418 @@
 {
-	"fallbacks": {
-		"zh_HK": "zh_TW",
-		"zh_SG": "zh_CN"
-	},
-	"languages": {
-		"sinitic": {
-			"_": {
-				"en": "Sinitic",
-				"zh_TW": "漢語系",
-				"zh_CN": "汉语系",
-				"ko": "중국어파",
-				"auto": ""
-			},
-			"wu": {
-				"_": {
-					"en": "Wú",
-					"zh_TW": "吳語",
-					"zh_CN": "吴语",
-					"ko": "오어",
-					"auto": ""
-				},
-				"taihu": {
-					"_": {
-						"en": "Tàihú",
-						"zh_TW": "太湖片",
-						"zh_CN": "太湖片",
-						"ko": "태호",
-						"auto": ""
-					},
-					"hangzhou": {
-						"_": {
-							"en": "Hángzhōu",
-							"zh_TW": "杭州小片",
-							"zh_CN": "杭州小片",
-							"ko": "항저우",
-							"auto": ""
-						}
-					},
-					"linshao": {
-						"_": {
-							"en": "Línshào",
-							"zh_TW": "臨紹小片",
-							"zh_CN": "临绍小片",
-							"ko": "림소",
-							"auto": ""
-						}
-					},
-					"piling": {
-						"_": {
-							"en": "Pílíng",
-							"zh_TW": "毗陵小片",
-							"zh_CN": "毗陵小片",
-							"ko": "피링",
-							"auto": ""
-						}
-					},
-					"shaoxi": {
-						"_": {
-							"en": "Sháoxī",
-							"zh_TW": "苕溪小片",
-							"zh_CN": "苕溪小片",
-							"ko": "초계",
-							"auto": ""
-						}
-					},
-					"suhujia": {
-						"_": {
-							"en": "Sū-hù-jiā",
-							"zh_TW": "蘇滬嘉小片",
-							"zh_CN": "苏沪嘉小片",
-							"ko": "소호가",
-							"auto": ""
-						}
-					},
-					"yongjiang": {
-						"_": {
-							"en": "Yǒngjiāng",
-							"zh_TW": "甬江小片",
-							"zh_CN": "甬江小片",
-							"ko": "용강",
-							"auto": ""
-						}
-					}
-				},
-				"wuzhou": {
-					"_": {
-						"en": "Wùzhōu",
-						"zh_TW": "婺州片",
-						"zh_CN": "婺州片",
-						"ko": "우주",
-						"auto": ""
-					}
-				},
-				"xuanzhou": {
-					"_": {
-						"en": "Xuānzhōu",
-						"zh_TW": "宣州片",
-						"zh_CN": "宣州片",
-						"ko": "선주",
-						"auto": ""
-					},
-					"shiling": {
-						"_": {
-							"en": "Shílíng",
-							"zh_TW": "石陵小片",
-							"zh_CN": "石陵小片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"taigao": {
-						"_": {
-							"en": "Tàigāo",
-							"zh_TW": "太高小片",
-							"zh_CN": "太高小片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"tongjing": {
-						"_": {
-							"en": "Tóngjīng",
-							"zh_TW": "铜泾小片",
-							"zh_CN": "銅涇小片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"oujiang": {
-					"_": {
-						"en": "Ōujiāng",
-						"zh_TW": "瓯江片",
-						"zh_CN": "甌江片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"taizhou": {
-					"_": {
-						"en": "Táizhōu",
-						"zh_TW": "台州片",
-						"zh_CN": "台州片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"chuqu": {
-					"_": {
-						"en": "Chùqú",
-						"zh_TW": "處衢片",
-						"zh_CN": "处衢片",
-						"ko": "",
-						"auto": ""
-					},
-					"chuzhou": {
-						"_": {
-							"en": "Lìshuǐ",
-							"zh_TW": "麗水小片",
-							"zh_CN": "丽水小片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"longqu": {
-						"_": {
-							"en": "Lóngqú",
-							"zh_TW": "龙衢小片",
-							"zh_CN": "龍衢小片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				}
-			},
-			"guanhua": {
-				"_": {
-					"en": "Mandarin",
-					"zh_TW": "官話",
-					"zh_CN": "官话",
-					"ko": "",
-					"auto": ""
-				},
-				"central plains": {
-					"_": {
-						"en": "Zhōngyuán",
-						"zh_TW": "中原官話",
-						"zh_CN": "中原官话",
-						"ko": "",
-						"auto": ""
-					},
-					"dungan": {
-						"_": {
-							"en": "Dungan",
-							"zh_TW": "東干",
-							"zh_CN": "东干",
-							"ko": "",
-							"auto": "Хуэйзў"
-						}
-					},
-					"cailu": {
-						"_": {
-							"en": "Càilǔ",
-							"zh_TW": "蔡魯片",
-							"zh_CN": "蔡鲁片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"fenhe": {
-						"_": {
-							"en": "Fénhé",
-							"zh_TW": "汾河片",
-							"zh_CN": "汾河片",
-							"ko": "",
-							"auto": ""
-						},
-						"pingyang": {
-							"_": {
-								"en": "Píngyáng",
-								"zh_TW": "平陽小片",
-								"zh_CN": "平阳小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"jiangzhou": {
-							"_": {
-								"en": "Jiàngzhōu",
-								"zh_TW": "絳州小片",
-								"zh_CN": "绛州小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"jiezhou": {
-							"_": {
-								"en": "Jiězhōu",
-								"zh_TW": "解州小片",
-								"zh_CN": "解州小片",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					},
-					"guanzhong": {
-						"_": {
-							"en": "Guānzhōng",
-							"zh_TW": "關中片",
-							"zh_CN": "关中片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"longzhong": {
-						"_": {
-							"en": "Lǒngzhōng",
-							"zh_TW": "陇中片",
-							"zh_CN": "隴中片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"luoxu": {
-						"_": {
-							"en": "Luòxú",
-							"zh_TW": "洛徐片",
-							"zh_CN": "洛徐片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"qinlong": {
-						"_": {
-							"en": "Qínlǒng",
-							"zh_TW": "秦隴片",
-							"zh_CN": "秦陇片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"xinbang": {
-						"_": {
-							"en": "Xìnbàng",
-							"zh_TW": "信蚌片",
-							"zh_CN": "信蚌片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"zhengcao": {
-						"_": {
-							"en": "Zhèngcáo",
-							"zh_TW": "鄭曹片",
-							"zh_CN": "郑曹片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"jilu": {
-					"_": {
-						"en": "Jìlǔ",
-						"zh_TW": "冀魯",
-						"zh_CN": "冀鲁",
-						"ko": "",
-						"auto": ""
-					},
-					"baotang": {
-						"_": {
-							"en": "Bǎotáng",
-							"zh_TW": "保唐片",
-							"zh_CN": "保唐片",
-							"ko": "",
-							"auto": ""
-						},
-						"tianjin": {
-							"_": {
-								"en": "Tiānjīn",
-								"zh_TW": "天津小片",
-								"zh_CN": "天津小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"dingba": {
-							"_": {
-								"en": "Dìngbà",
-								"zh_TW": "定霸小片",
-								"zh_CN": "定霸小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"fulong": {
-							"_": {
-								"en": "Fǔlóng",
-								"zh_TW": "撫龍小片",
-								"zh_CN": "抚龙小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"laifu": {
-							"_": {
-								"en": "Láifù",
-								"zh_TW": "淶阜小片",
-								"zh_CN": "涞阜小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"luanchang": {
-							"_": {
-								"en": "Luánchāng",
-								"zh_TW": "灤昌小片",
-								"zh_CN": "滦昌小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"jizun": {
-							"_": {
-								"en": "Jìzūn",
-								"zh_TW": "薊遵小片",
-								"zh_CN": "蓟遵小片",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					},
-					"canghui": {
-						"_": {
-							"en": "Cānghuì",
-							"zh_TW": "滄惠片",
-							"zh_CN": "沧惠片",
-							"ko": "",
-							"auto": ""
-						},
-						"yangshou": {
-							"_": {
-								"en": "Yángshòu",
-								"zh_TW": "陽壽小片",
-								"zh_CN": "阳寿小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"huangle": {
-							"_": {
-								"en": "Huánglè",
-								"zh_TW": "黃樂小片",
-								"zh_CN": "黄乐小片",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					},
-					"shiji": {
-						"_": {
-							"en": "Shíjì",
-							"zh_TW": "石濟片",
-							"zh_CN": "石济片",
-							"ko": "",
-							"auto": ""
-						},
-						"liaotai": {
-							"_": {
-								"en": "Liáotài",
-								"zh_TW": "聊泰小片",
-								"zh_CN": "聊泰小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"zhaoshen": {
-							"_": {
-								"en": "Zhàoshēn",
-								"zh_TW": "趙深小片",
-								"zh_CN": "赵深小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"xingheng": {
-							"_": {
-								"en": "Xínghéng",
-								"zh_TW": "邢衡小片",
-								"zh_CN": "邢衡小片",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					},
-					"zhangli": {
-						"_": {
-							"en": "Zhānglì",
-							"zh_TW": "章利片",
-							"zh_CN": "章利片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"beijing": {
-					"_": {
-						"en": "Běijīng",
-						"zh_TW": "北京官話",
-						"zh_CN": "北京官话",
-						"ko": "",
-						"auto": ""
-					},
-					"jingshi": {
-						"_": {
-							"en": "Jīngshī",
-							"zh_TW": "京師片",
-							"zh_CN": "京师片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"modern standard": {
-					"_": {
-						"en": "Pǔtōnghuà",
-						"zh_TW": "普通話",
-						"zh_CN": "普通话",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"northeast": {
-					"_": {
-						"en": "Dōngběi",
-						"zh_TW": "東北官話",
-						"zh_CN": "东北官话",
-						"ko": "",
-						"auto": ""
-					},
-					"hafu": {
-						"_": {
-							"en": "Hāfù",
-							"zh_TW": "哈阜片",
-							"zh_CN": "哈阜片",
-							"ko": "",
-							"auto": ""
-						},
-						"zhaofu": {
-							"_": {
-								"en": "Zhàofú",
-								"zh_TW": "肇扶小片",
-								"zh_CN": "肇扶小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"zhangjin": {
-							"_": {
-								"en": "Zhǎngjǐn",
-								"zh_TW": "長錦小片",
-								"zh_CN": "长锦小片",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					},
-					"heisong": {
-						"_": {
-							"en": "Hēisōng",
-							"zh_TW": "黑松片",
-							"zh_CN": "黑松片",
-							"ko": "",
-							"auto": ""
-						},
-						"jiafu": {
-							"_": {
-								"en": "Jiāfù",
-								"zh_TW": "佳富小片",
-								"zh_CN": "佳富小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"nenke": {
-							"_": {
-								"en": "Nènkè",
-								"zh_TW": "嫩克小片",
-								"zh_CN": "嫩克小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"zhanhua": {
-							"_": {
-								"en": "Zhànhuà",
-								"zh_TW": "站話小片",
-								"zh_CN": "站话小片",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					},
-					"jishen": {
-						"_": {
-							"en": "Jíshěn",
-							"zh_TW": "吉瀋片",
-							"zh_CN": "吉沈片",
-							"ko": "",
-							"auto": ""
-						},
-						"yanji": {
-							"_": {
-								"en": "Yánjí",
-								"zh_TW": "延吉小片",
-								"zh_CN": "延吉小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"jiaoning": {
-							"_": {
-								"en": "Jiāoníng",
-								"zh_TW": "蛟寧小片",
-								"zh_CN": "蛟宁小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"tongxi": {
-							"_": {
-								"en": "Tōngxī",
-								"zh_TW": "通溪小片",
-								"zh_CN": "通溪小片",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					}
-				},
-				"jianghuai": {
-					"_": {
-						"en": "Jiānghuái",
-						"zh_TW": "江淮官話",
-						"zh_CN": "江淮官话",
-						"ko": "",
-						"auto": ""
-					},
-					"hongchao": {
-						"_": {
-							"en": "Hóngcháo",
-							"zh_TW": "洪巢片",
-							"zh_CN": "洪巢片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"huangxiao": {
-						"_": {
-							"en": "Huángxiào",
-							"zh_TW": "黃孝片",
-							"zh_CN": "黄孝片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"tairu": {
-						"_": {
-							"en": "Tàirú",
-							"zh_TW": "泰如片",
-							"zh_CN": "泰如片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"localputonghua": {
-					"_": {
-						"en": "Local Pǔtōnghuà",
-						"zh_TW": "當地普通話",
-						"zh_CN": "当地普通话",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"jiaoliao": {
-					"_": {
-						"en": "Jiāoliáo",
-						"zh_TW": "膠遼官話",
-						"zh_CN": "胶辽官话",
-						"ko": "",
-						"auto": ""
-					},
-					"denglian": {
-						"_": {
-							"en": "Dēnglián",
-							"zh_TW": "登連片",
-							"zh_CN": "登连片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"qingzhou": {
-						"_": {
-							"en": "Qīngzhōu",
-							"zh_TW": "青州片",
-							"zh_CN": "青州片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"yingtong": {
-						"_": {
-							"en": "Yíngtōng",
-							"zh_TW": "營通片",
-							"zh_CN": "营通片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"lanyin": {
-					"_": {
-						"en": "Lányín",
-						"zh_TW": "蘭銀官話",
-						"zh_CN": "兰银官话",
-						"ko": "",
-						"auto": ""
-					},
-					"beijiang": {
-						"_": {
-							"en": "Běijiāng",
-							"zh_TW": "北疆片",
-							"zh_CN": "北疆片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"hexi": {
-						"_": {
-							"en": "Héxī",
-							"zh_TW": "河西片",
-							"zh_CN": "河西片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"jincheng": {
-						"_": {
-							"en": "Jīnchéng",
-							"zh_TW": "金城片",
-							"zh_CN": "金城片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"yinwu": {
-						"_": {
-							"en": "Yínwú",
-							"zh_TW": "銀吳片",
-							"zh_CN": "银吴片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"southwest": {
-					"_": {
-						"en": "Southwest",
-						"zh_TW": "西南官話",
-						"zh_CN": "西南官话",
-						"ko": "",
-						"auto": ""
-					},
-					"cenjiang": {
-						"_": {
-							"en": "Cénjiāng",
-							"zh_TW": "岑江片",
-							"zh_CN": "岑江片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"changhe": {
-						"_": {
-							"en": "Chánghè",
-							"zh_TW": "常鶴片",
-							"zh_CN": "常鹤片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"chengyu": {
-						"_": {
-							"en": "Chéngyú",
-							"zh_TW": "成渝片",
-							"zh_CN": "成渝片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"dianxi": {
-						"_": {
-							"en": "Diānxī",
-							"zh_TW": "滇西片",
-							"zh_CN": "滇西片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"ebei": {
-						"_": {
-							"en": "Èběi",
-							"zh_TW": "鄂北片",
-							"zh_CN": "鄂北片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"guanchi": {
-						"_": {
-							"en": "Guànchì",
-							"zh_TW": "灌赤片",
-							"zh_CN": "灌赤片",
-							"ko": "",
-							"auto": ""
-						},
-						"lichuan": {
-							"_": {
-								"en": "Lìchuān",
-								"zh_TW": "麗川小片",
-								"zh_CN": "丽川小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"renfu": {
-							"_": {
-								"en": "Rénfù",
-								"zh_TW": "仁富小片",
-								"zh_CN": "仁富小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"minjiang": {
-							"_": {
-								"en": "Mínjiāng",
-								"zh_TW": "岷江小片",
-								"zh_CN": "岷江小片",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"yamian": {
-							"_": {
-								"en": "Yǎmián",
-								"zh_TW": "雅棉小片",
-								"zh_CN": "雅棉小片",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					},
-					"guiliu": {
-						"_": {
-							"en": "Guìliǔ",
-							"zh_TW": "桂柳片",
-							"zh_CN": "桂柳片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"jiyong": {
-						"_": {
-							"en": "Jíyǒng",
-							"zh_TW": "吉永片",
-							"zh_CN": "吉永片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"kungui": {
-						"_": {
-							"en": "Kūnguì",
-							"zh_TW": "昆贵片",
-							"zh_CN": "昆貴片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"qianbei": {
-						"_": {
-							"en": "Qiánběi",
-							"zh_TW": "黔北片",
-							"zh_CN": "黔北片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"qiannan": {
-						"_": {
-							"en": "Qiánnán",
-							"zh_TW": "黔南片",
-							"zh_CN": "黔南片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"wutian": {
-						"_": {
-							"en": "Wǔtiān",
-							"zh_TW": "武天片",
-							"zh_CN": "武天片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"xiangnan": {
-						"_": {
-							"en": "Xiāngnán",
-							"zh_TW": "湘南片",
-							"zh_CN": "湘南片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				}
-			},
-			"hakka": {
-				"_": {
-					"en": "Hakka",
-					"zh_TW": "客語",
-					"zh_CN": "客语",
-					"ko": "객가어",
-					"auto": ""
-				},
-				"unclassified": {
-					"_": {
-						"en": "(unidentified)",
-						"zh_TW": "(不分片)",
-						"zh_CN": "(不分片)",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"meixian": {
-					"_": {
-						"en": "Méixiàn",
-						"zh_TW": "梅縣片",
-						"zh_CN": "梅县片",
-						"ko": "",
-						"auto": "Moiyan"
-					}
-				},
-				"ninglong": {
-					"_": {
-						"en": "Nínglóng",
-						"zh_TW": "寧龍片",
-						"zh_CN": "宁龙片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"huizhou": {
-					"_": {
-						"en": "Huìzhōu",
-						"zh_TW": "惠州片",
-						"zh_CN": "惠州片",
-						"ko": "",
-						"auto": ""
-					},
-					"hailu": {
-						"_": {
-							"en": "",
-							"zh_TW": "海陸腔",
-							"zh_CN": "海陸腔",
-							"ko": "",
-							"auto": "Hoiliuk"
-						}
-					}
-				},
-				"yugui": {
-					"_": {
-						"en": "Yúguì",
-						"zh_TW": "于桂片",
-						"zh_CN": "於桂片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"tingzhou": {
-					"_": {
-						"en": "Tīngzhōu",
-						"zh_TW": "汀州片",
-						"zh_CN": "汀州片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"yuezhong": {
-					"_": {
-						"en": "Yuè zhōng",
-						"zh_TW": "粵中片",
-						"zh_CN": "粤中片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"yuebei": {
-					"_": {
-						"en": "Yuèběi",
-						"zh_TW": "粵北片",
-						"zh_CN": "粤北片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"yuetai": {
-					"_": {
-						"en": "Yuètái",
-						"zh_TW": "粵臺片",
-						"zh_CN": "粤台片",
-						"ko": "",
-						"auto": ""
-					},
-					"jiaying": {
-						"_": {
-							"en": "Jiāyīng",
-							"zh_TW": "嘉應",
-							"zh_CN": "嘉应",
-							"ko": "",
-							"auto": ""
-						},
-						"nanjing": {
-							"_": {
-								"en": "Nánjìng",
-								"zh_TW": "南靖腔",
-								"zh_CN": "南靖腔",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"sixian": {
-							"_": {
-								"en": "Sìxiàn",
-								"zh_TW": "四縣腔",
-								"zh_CN": "四县腔",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"dabu": {
-							"_": {
-								"en": "Dàbù",
-								"zh_TW": "大埔腔",
-								"zh_CN": "大埔腔",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"pinghe": {
-							"_": {
-								"en": "Pínghé",
-								"zh_TW": "平和腔",
-								"zh_CN": "平和腔",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"yongding": {
-							"_": {
-								"en": "Yǒngdìng",
-								"zh_TW": "永定腔",
-								"zh_CN": "永定腔",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"zhaoan": {
-							"_": {
-								"en": "Zhàoān",
-								"zh_TW": "詔安腔",
-								"zh_CN": "诏安腔",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"changle": {
-							"_": {
-								"en": "Chǎnglè",
-								"zh_TW": "長樂腔",
-								"zh_CN": "长乐腔",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"raoping": {
-							"_": {
-								"en": "Ráopíng",
-								"zh_TW": "饒平腔",
-								"zh_CN": "饶平腔",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					},
-					"shaonan": {
-						"_": {
-							"en": "Shàonán",
-							"zh_TW": "紹南",
-							"zh_CN": "绍南",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"xinghua": {
-						"_": {
-							"en": "Xìnghuá",
-							"zh_TW": "興華",
-							"zh_CN": "兴华",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"xinhui": {
-						"_": {
-							"en": "Xīnhuì",
-							"zh_TW": "新惠",
-							"zh_CN": "新惠",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"tonggu": {
-					"_": {
-						"en": "Tónggǔ",
-						"zh_TW": "銅鼓片",
-						"zh_CN": "铜鼓片",
-						"ko": "",
-						"auto": ""
-					}
-				}
-			},
-			"hui": {
-				"_": {
-					"en": "Huizhou",
-					"zh_TW": "徽語",
-					"zh_CN": "徽语",
-					"ko": "후이어",
-					"auto": ""
-				},
-				"xiuyi": {
-					"_": {
-						"en": "Xiūyī",
-						"zh_TW": "休黟",
-						"zh_CN": "休黟",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"yanzhou": {
-					"_": {
-						"en": "Yánzhōu",
-						"zh_TW": "嚴州",
-						"zh_CN": "严州",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"jingzhan": {
-					"_": {
-						"en": "Jīngzhàn",
-						"zh_TW": "旌占",
-						"zh_CN": "旌占",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"qiwu": {
-					"_": {
-						"en": "Qíwù",
-						"zh_TW": "祁婺",
-						"zh_CN": "祁婺",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"jishe": {
-					"_": {
-						"en": "Jīshè",
-						"zh_TW": "績歙",
-						"zh_CN": "绩歙",
-						"ko": "",
-						"auto": ""
-					}
-				}
-			},
-			"jin": {
-				"_": {
-					"en": "Jìnyǔ",
-					"zh_TW": "晉語",
-					"zh_CN": "晋语",
-					"ko": "진어",
-					"auto": ""
-				},
-				"shangdang": {
-					"_": {
-						"en": "Shàngdǎng",
-						"zh_TW": "上黨",
-						"zh_CN": "上党",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"wutai": {
-					"_": {
-						"en": "Wǔtái",
-						"zh_TW": "五台",
-						"zh_CN": "五台",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"luliang": {
-					"_": {
-						"en": "Lǚliáng",
-						"zh_TW": "呂梁",
-						"zh_CN": "吕梁",
-						"ko": "",
-						"auto": ""
-					},
-					"fenzhou": {
-						"_": {
-							"en": "Fénzhōu",
-							"zh_TW": "汾州小片",
-							"zh_CN": "汾州小片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"dabao": {
-					"_": {
-						"en": "Dàbāo",
-						"zh_TW": "大包",
-						"zh_CN": "大包",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"bingzhou": {
-					"_": {
-						"en": "Bìngzhōu",
-						"zh_TW": "并州",
-						"zh_CN": "并州",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"zhanghu": {
-					"_": {
-						"en": "Zhānghū",
-						"zh_TW": "張呼",
-						"zh_CN": "张呼",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"zhiyan": {
-					"_": {
-						"en": "Zhìyán",
-						"zh_TW": "志延",
-						"zh_CN": "志延",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"hanxin": {
-					"_": {
-						"en": "Hánxīn",
-						"zh_TW": "邯新",
-						"zh_CN": "邯新",
-						"ko": "",
-						"auto": ""
-					},
-					"cizhangxiao": {
-						"_": {
-							"en": "Cízhāng",
-							"zh_TW": "慈漳小片",
-							"zh_CN": "慈漳小片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"huoji": {
-						"_": {
-							"en": "Huòjì",
-							"zh_TW": "獲濟小片",
-							"zh_CN": "获济小片",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				}
-			},
-			"xiang": {
-				"_": {
-					"en": "Xiāng",
-					"zh_TW": "湘語",
-					"zh_CN": "湘语",
-					"ko": "샹어",
-					"auto": ""
-				},
-				"jishou": {
-					"_": {
-						"en": "Jíshǒu",
-						"zh_TW": "吉首",
-						"zh_CN": "吉首",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"loushao": {
-					"_": {
-						"en": "Lóushào",
-						"zh_TW": "婁邵",
-						"zh_CN": "娄邵",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"yongquan": {
-					"_": {
-						"en": "Yǒngquán",
-						"zh_TW": "永全",
-						"zh_CN": "永全",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"changyi": {
-					"_": {
-						"en": "Zhǎngyì",
-						"zh_TW": "長益",
-						"zh_CN": "长益",
-						"ko": "",
-						"auto": ""
-					}
-				}
-			},
-			"ping": {
-				"_": {
-					"en": "Píng",
-					"zh_TW": "平語",
-					"zh_CN": "平语",
-					"ko": "평어",
-					"auto": ""
-				},
-			},
-			"yue": {
-				"_": {
-					"en": "Yuè",
-					"zh_TW": "粵語",
-					"zh_CN": "粤语",
-					"ko": "월어",
-					"auto": ""
-				},
-				"danzhou": {
-					"_": {
-						"en": "Dānzhōu",
-						"zh_TW": "儋州話",
-						"zh_CN": "儋州话",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"goulou": {
-					"_": {
-						"en": "Gōulòu",
-						"zh_TW": "勾漏片",
-						"zh_CN": "勾漏片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"wuhua": {
-					"_": {
-						"en": "Wúhuà",
-						"zh_TW": "吳化片",
-						"zh_CN": "吴化片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"siyi": {
-					"_": {
-						"en": "Sìyì",
-						"zh_TW": "四邑片",
-						"zh_CN": "四邑片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"guangfu": {
-					"_": {
-						"en": "Guǎngfǔ",
-						"zh_TW": "廣府片",
-						"zh_CN": "广府片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"qinlian": {
-					"_": {
-						"en": "Qīnlián",
-						"zh_TW": "欽廉片",
-						"zh_CN": "钦廉片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"yongxun": {
-					"_": {
-						"en": "Yōngxún",
-						"zh_TW": "邕潯片",
-						"zh_CN": "邕浔片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"gaoyang": {
-					"_": {
-						"en": "Gāoyáng",
-						"zh_TW": "高陽片",
-						"zh_CN": "高阳片",
-						"ko": "",
-						"auto": ""
-					}
-				}
-			},
-			"gan": {
-				"_": {
-					"en": "Gàn",
-					"zh_TW": "贛語",
-					"zh_CN": "赣语",
-					"ko": "감어",
-					"auto": ""
-				},
-				"jicha": {
-					"_": {
-						"en": "Jíchá",
-						"zh_TW": "吉茶片",
-						"zh_CN": "吉茶片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"datong": {
-					"_": {
-						"en": "Dàtōng",
-						"zh_TW": "大通片",
-						"zh_CN": "大通片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"yiliu": {
-					"_": {
-						"en": "Yíliú",
-						"zh_TW": "宜瀏片",
-						"zh_CN": "宜浏片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"huaiyue": {
-					"_": {
-						"en": "Huáiyuè",
-						"zh_TW": "懷嶽片",
-						"zh_CN": "怀岳片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"fuguang": {
-					"_": {
-						"en": "Fǔguǎng",
-						"zh_TW": "撫廣片",
-						"zh_CN": "抚广片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"changjing": {
-					"_": {
-						"en": "Chāngjīng",
-						"zh_TW": "昌精片",
-						"zh_CN": "昌精片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"dongsui": {
-					"_": {
-						"en": "Dòngsuí",
-						"zh_TW": "洞綏片",
-						"zh_CN": "洞绥片",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"yingyi": {
-					"_": {
-						"en": "Yīngyì",
-						"zh_TW": "鷹弋片",
-						"zh_CN": "鹰弋片",
-						"ko": "",
-						"auto": ""
-					}
-				}
-			},
-			"min": {
-				"_": {
-					"en": "Mǐn",
-					"zh_TW": "閩語",
-					"zh_CN": "闽语",
-					"ko": "민어",
-					"auto": ""
-				},
-				"qiongwen": {
-					"_": {
-						"en": "Qióngwén",
-						"zh_TW": "瓊文",
-						"zh_CN": "琼文",
-						"ko": "해남어",
-						"auto": "",
-						"alias": "Hainanese"
-					}
-				},
-				"puxian": {
-					"_": {
-						"en": "Púxiān",
-						"zh_TW": "莆仙",
-						"zh_CN": "莆仙",
-						"ko": "보선어",
-						"auto": ""
-					}
-				},
-				"shaojiang": {
-					"_": {
-						"en": "Shàojiāng",
-						"zh_TW": "邵將",
-						"zh_CN": "邵将",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"central": {
-					"_": {
-						"en": "Central",
-						"zh_TW": "閩中",
-						"zh_CN": "闽中",
-						"ko": "민중어",
-						"auto": ""
-					}
-				},
-				"northern": {
-					"_": {
-						"en": "Northern",
-						"zh_TW": "閩北",
-						"zh_CN": "闽北",
-						"ko": "민북어",
-						"auto": ""
-					}
-				},
-				"southern": {
-					"_": {
-						"en": "Southern",
-						"zh_TW": "閩南",
-						"zh_CN": "闽南",
-						"ko": "",
-						"auto": ""
-					},
-					"chaoshan": {
-						"_": {
-							"en": "Húshàn",
-							"zh_TW": "湖汕片",
-							"zh_CN": "湖汕片",
-							"ko": "조주어",
-							"auto": ""
-						}
-					},
-					"datian": {
-						"_": {
-							"en": "Dàtián",
-							"zh_TW": "大田片",
-							"zh_CN": "大田片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"leizhou": {
-						"_": {
-							"en": "Léizhōu",
-							"zh_TW": "雷州片",
-							"zh_CN": "雷州片",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"quanzhang": {
-						"_": {
-							"en": "Quánzhāng",
-							"zh_TW": "泉漳片",
-							"zh_CN": "泉漳片",
-							"ko": "천주어",
-							"auto": ""
-						}
-					}
-				},
-				"eastern": {
-					"_": {
-						"en": "Eastern",
-						"zh_TW": "閩東",
-						"zh_CN": "闽东",
-						"ko": "민동어",
-						"auto": ""
-					},
-					"funing": {
-						"_": {
-							"en": "Fúníng",
-							"zh_TW": "福寧",
-							"zh_CN": "福宁",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"houguan": {
-					"_": {
-						"en": "Hóuguān",
-						"zh_TW": "侯官",
-						"zh_CN": "侯官",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"mihua": {
-					"_": {
-						"en": "Mìhuà",
-						"zh_TW": "密話",
-						"zh_CN": "密话",
-						"ko": "",
-						"auto": ""
-					}
-				}
-			}
-		},
-		"bai": {
-			"northern": {
-				"gongxing": "",
-				"enqi": "",
-				"tuoluo": "",
-				"ega": ""
-			},
-			"southern": {
-				"mazhelong": "",
-				"jinxing": "",
-				"dashi": "",
-				"zhoucheng": "",
-			}
-		},
-		"koreanic": {
-			"_": {
-				"en": "Koreanic",
-				"zh_TW": "",
-				"zh_CN": "",
-				"ko": "한국어족",
-				"auto": ""
-			},
-			"central": {
-				"_": {
-					"en": "Central",
-					"zh_TW": "中部",
-					"zh_CN": "中部",
-					"ko": "중부",
-					"auto": ""
-				},
-				"seoul-gyeonggi": {
-					"_": {
-						"en": "Seoul/Gyeonggi",
-						"zh_TW": "首爾",
-						"zh_CN": "首尔",
-						"ko": "서울",
-						"auto": ""
-					}
-				},
-				"yeongseo": {
-					"_": {
-						"en": "Yeongseo",
-						"zh_TW": "嶺西",
-						"zh_CN": "岭西",
-						"ko": "영서",
-						"auto": ""
-					}
-				},
-				"chungcheong": {
-					"_": {
-						"en": "Chungcheong",
-						"zh_TW": "忠清",
-						"zh_CN": "忠清",
-						"ko": "충청",
-						"auto": ""
-					}
-				}
-			},
-			"gyeongsang": {
-				"_": {
-					"en": "Gyeongsang",
-					"zh_TW": "慶尙",
-					"zh_CN": "庆尙",
-					"ko": "경상",
-					"auto": ""
-				}
-			},
-			"russia": {
-				"_": {
-					"en": "Russian",
-					"zh_TW": "俄羅斯朝鮮族",
-					"zh_CN": "俄罗斯朝鲜族",
-					"ko": "고려말 (러시아)",
-					"hanaja":"高麗말"
-					"auto": ""
-				}
-			},
-			"northwest": {
-				"_": {
-					"en": "Northwest",
-					"zh_TW": "西北",
-					"zh_CN": "西北",
-					"ko": "서북",
-					"auto": ""
-				},
-				"yukchin": {
-					"_": {
-						"en": "Yukchin",
-						"zh_TW": "六鎮",
-						"zh_CN": "六镇",
-						"ko": "륙진",
-						"hanja": "六鎭",
-						"auto": ""
-					}
-				},
-				"hamgyeong": {
-					"_": {
-						"en": "Hamgyeong",
-						"zh_TW": "咸鏡",
-						"zh_CN": "咸镜",
-						"ko": "함경",
-						"auto": ""
-					}
-				},
-				"pyongyang": {
-					"_": {
-						"en": "Pyeongyang",
-						"zh_TW": "平壤",
-						"zh_CN": "平壤",
-						"ko": "평안",
-						"auto": ""
-					}
-				},
-				"hwanghae": {
-					"_": {
-						"en": "Hwanghae",
-						"zh_TW": "黃海",
-						"zh_CN": "黄海",
-						"ko": "황해",
-						"auto": ""
-					}
-				}
-			},
-			"yeongdong": {
-				"_": {
-					"en": "Yeongdong",
-					"zh_TW": "嶺東",
-					"zh_CN": "岭东",
-					"ko": "영동",
-					"auto": ""
-				}
-			},
-			"zainichi": {
-				"_": {
-					"en": "Zainichi",
-					"zh_TW": "在日韓國人",
-					"zh_CN": "在日韓国人",
-					"ko": "재일어",
-					"auto": ""
-				}
-			},
-			"jeolla": {
-				"_": {
-					"en": "Jeolla",
-					"zh_TW": "全羅",
-					"zh_CN": "全罗",
-					"ko": "전라",
-					"auto": ""
-				}
-			},
-			"jeju": {
-				"_": {
-					"en": "Jeju",
-					"zh_TW": "濟州",
-					"zh_CN": "济州",
-					"ko": "제주",
-					"auto": ""
-				}
-			}
-		},
-		"taikadai": {
-			"_": {
-				"en": "Tai-Kadai",
-				"zh_TW": "",
-				"zh_CN": "",
-				"ko": "",
-				"auto": ""
-			},
-			"kra": {
-				"_": {
-					"en": "Kra",
-					"zh_TW": "",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"kamsui": {
-				"_": {
-					"en": "",
-					"zh_TW": "",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"lakkja": {
-				"_": {
-					"en": "Lakkja",
-					"zh_TW": "",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"hlai": {
-				"_": {
-					"en": "Hlai",
-					"zh_TW": "",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"ongbe": {
-				"_": {
-					"en": "Ong Be",
-					"zh_TW": "",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"tai": {
-				"_": {
-					"en": "Tai-Zhuang",
-					"zh_TW": "",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				},
-				"tai": {
-					"_": {
-						"en": "Tai",
-						"zh_TW": "",
-						"zh_CN": "",
-						"ko": "",
-						"auto": ""
-					},
-					"ahom": {
-						"_": {
-							"en": "Ahom",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"phake": {
-						"_": {
-							"en": "Phake",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"shan": {
-						"_": {
-							"en": "Shan",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"zhuang": {
-					"_": {
-						"en": "Zhuang",
-						"zh_TW": "",
-						"zh_CN": "",
-						"ko": "",
-						"auto": "Vahcuengh"
-					},
-					"north": {
-						"_": {
-							"en": "Běizhuang",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						},
-						"yongbei": {
-							"_": {
-								"en": "Yōngběi",
-								"zh_TW": "",
-								"zh_CN": "",
-								"ko": "",
-								"auto": ""
-							},
-							"wuming": {
-								"_": {
-									"en": "Wuming",
-									"zh_TW": "",
-									"zh_CN": "",
-									"ko": "",
-									"auto": ""
-								}
-							},
-							"binyang": {
-								"en": "Binyang",
-								"zh_TW": "",
-								"zh_CN": "",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"hengxian": {
-							"_": {
-								"en": "Hengxian",
-								"zh_TW": "",
-								"zh_CN": "",
-								"ko": "",
-								"auto": ""
-							}
-						},
-						"pingguo": {
-							"_": {
-								"en": "Pingguo",
-								"zh_TW": "",
-								"zh_CN": "",
-								"ko": "",
-								"auto": ""
-							}
-						}
-					}
-				}
-			}
-		},
-		"formosan": {
-			"_": {
-				"en": "Formosan",
-				"zh_TW": "",
-				"zh_CN": "",
-				"ko": "",
-				"auto": ""
-			},
-			"atayal": {
-				"_": {
-					"en": "Atayal",
-					"zh_TW": "",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				},
-				"c`uli`": {
-					"_": {
-						"en": "Cʔuliʔ",
-						"zh_TW": "",
-						"zh_CN": "",
-						"ko": "",
-						"auto": ""
-					},
-					"mayrinax": {
-						"_": {
-							"en": "Matu’uwal",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"skikun": {
-						"_": {
-							"en": "Skikun/Mnibuʔ",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"mnawyan": {
-						"_": {
-							"en": "Mnawyan",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"mabatuan": {
-						"_": {
-							"en": "Mabatuʔan",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"matabalay": {
-						"_": {
-							"en": "Matabalay",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"sakuxan": {
-						"_": {
-							"en": "Sakuxan",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"palnawan": {
-						"_": {
-							"en": "Palŋawan",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"mkgugut": {
-						"_": {
-							"en": "Mkgugut",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"pyahaw": {
-						"_": {
-							"en": "Pyahaw",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"ryuhing": {
-						"_": {
-							"en": "Ryuhiŋ",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"mtlangan": {
-						"_": {
-							"en": "Mtlaŋan",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"knnyan": {
-						"_": {
-							"en": "Knŋyan",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				},
-				"squliq": {
-					"_": {
-						"en": "Squliq",
-						"zh_TW": "",
-						"zh_CN": "",
-						"ko": "",
-						"auto": ""
-					},
-					"maspazi": {
-						"_": {
-							"en": "Maspaziʔ",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"pyanan": {
-						"_": {
-							"en": "Pyanan",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"lmuan": {
-						"_": {
-							"en": "Lmuan",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"habun": {
-						"_": {
-							"en": "abun Bazinuq",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"syanuh": {
-						"_": {
-							"en": "Syanuh",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"kulu": {
-						"_": {
-							"en": "Kulu",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"ngupa": {
-						"_": {
-							"en": "Ŋŋupa",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"haga": {
-						"_": {
-							"en": "Haga-Paris",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"kubaboo": {
-						"_": {
-							"en": "Kubaboo",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					},
-					"rgayung": {
-						"_": {
-							"en": "Rghayuŋ",
-							"zh_TW": "",
-							"zh_CN": "",
-							"ko": "",
-							"auto": ""
-						}
-					}
-				}
-			},
-			"seediq": {
-				"_": {
-					"en": "Seediq",
-					"zh_TW": "",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				},
-				"tongan": {
-					"_": {
-						"en": "Toŋan",
-						"zh_TW": "",
-						"zh_CN": "",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"toda": {
-					"_": {
-						"en": "Toda",
-						"zh_TW": "",
-						"zh_CN": "",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"truwan": {
-					"_": {
-						"en": "Truwan",
-						"zh_TW": "",
-						"zh_CN": "",
-						"ko": "",
-						"auto": ""
-					}
-				},
-				"inago": {
-					"_": {
-						"en": "Inago",
-						"zh_TW": "",
-						"zh_CN": "",
-						"ko": "",
-						"auto": ""
-					}
-				}
-			},
-			"bunun": {
-				"_": {
-					"en": "Bunun",
-					"zh_TW": "布農語",
-					"zh_CN": "布农语",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"amis": {
-				"_": {
-					"en": "Amis",
-					"zh_TW": "阿美語",
-					"zh_CN": "阿美语",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"kanakanavu": {
-				"_": {
-					"en": "Kanakanavu",
-					"zh_TW": "卡那卡那富語",
-					"zh_CN": "卡那卡那富语",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"kavalan": {
-				"_": {
-					"en": "Kavalan",
-					"zh_TW": "噶瑪蘭語",
-					"zh_CN": "噶玛兰语",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"paiwan": {
-				"_": {
-					"en": "Paiwan",
-					"zh_TW": "排灣語",
-					"zh_CN": "排湾语",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"saisiyat": {
-				"_": {
-					"en": "Saisiyat",
-					"zh_TW": "賽夏語",
-					"zh_CN": "赛夏语",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"puyuma": {
-				"_": {
-					"en": "Puyuma",
-					"zh_TW": "卑南語",
-					"zh_CN": "卑南语",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"rukai": {
-				"_": {
-					"en": "Rukai",
-					"zh_TW": "魯凱語",
-					"zh_CN": "鲁凯语",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"saaroa": {
-				"_": {
-					"en": "Saaroa",
-					"zh_TW": "沙阿魯阿語",
-					"zh_CN": "沙阿鲁阿语",
-					"ko": "",
-					"auto": "",
-					"alias":"Hla'alua"
-				}
-			},
-			"thao": {
-				"_": {
-					"en": "Thao",
-					"zh_TW": "邵語",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"tsou": {
-				"_": {
-					"en": "Tsou",
-					"zh_TW": "鄒語",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				}
-			},
-			"siraya": {
-				"_": {
-					"en": "Siraya",
-					"zh_TW": "西拉雅語",
-					"zh_CN": "",
-					"ko": "",
-					"auto": ""
-				}
-			}
-		}
-	}
+  "fallbacks": {
+    "zh_HK": "zh_TW",
+    "zh_SG": "zh_CN"
+  },
+  "languages": {
+    "bai": {
+      "northern": {
+        "ega": "",
+        "enqi": "",
+        "gongxing": "",
+        "tuoluo": ""
+      },
+      "southern": {
+        "dashi": "",
+        "jinxing": "",
+        "mazhelong": "",
+        "zhoucheng": ""
+      }
+    },
+    "formosan": {
+      "_": {
+        "auto": "",
+        "en": "Formosan",
+        "ko": "",
+        "zh_CN": "",
+        "zh_TW": ""
+      },
+      "amis": {
+        "_": {
+          "auto": "",
+          "en": "Amis",
+          "ko": "",
+          "zh_CN": "阿美语",
+          "zh_TW": "阿美語"
+        }
+      },
+      "atayal": {
+        "_": {
+          "auto": "",
+          "en": "Atayal",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": ""
+        },
+        "cquliq": {
+          "_": {
+            "auto": "",
+            "en": "Cʔuliʔ",
+            "ko": "",
+            "zh_CN": "",
+            "zh_TW": ""
+          },
+          "knnyan": {
+            "_": {
+              "auto": "",
+              "en": "Knŋyan",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "mabatuan": {
+            "_": {
+              "auto": "",
+              "en": "Mabatuʔan",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "matabalay": {
+            "_": {
+              "auto": "",
+              "en": "Matabalay",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "mayrinax": {
+            "_": {
+              "auto": "",
+              "en": "Matu’uwal",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "mkgugut": {
+            "_": {
+              "auto": "",
+              "en": "Mkgugut",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "mnawyan": {
+            "_": {
+              "auto": "",
+              "en": "Mnawyan",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "mtlangan": {
+            "_": {
+              "auto": "",
+              "en": "Mtlaŋan",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "palnawan": {
+            "_": {
+              "auto": "",
+              "en": "Palŋawan",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "pyahaw": {
+            "_": {
+              "auto": "",
+              "en": "Pyahaw",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "ryuhing": {
+            "_": {
+              "auto": "",
+              "en": "Ryuhiŋ",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "sakuxan": {
+            "_": {
+              "auto": "",
+              "en": "Sakuxan",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "skikun": {
+            "_": {
+              "auto": "",
+              "en": "Skikun/Mnibuʔ",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          }
+        },
+        "squliq": {
+          "_": {
+            "auto": "",
+            "en": "Squliq",
+            "ko": "",
+            "zh_CN": "",
+            "zh_TW": ""
+          },
+          "habun": {
+            "_": {
+              "auto": "",
+              "en": "abun Bazinuq",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "haga": {
+            "_": {
+              "auto": "",
+              "en": "Haga-Paris",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "kubaboo": {
+            "_": {
+              "auto": "",
+              "en": "Kubaboo",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "kulu": {
+            "_": {
+              "auto": "",
+              "en": "Kulu",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "lmuan": {
+            "_": {
+              "auto": "",
+              "en": "Lmuan",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "maspazi": {
+            "_": {
+              "auto": "",
+              "en": "Maspaziʔ",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "ngupa": {
+            "_": {
+              "auto": "",
+              "en": "Ŋŋupa",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "pyanan": {
+            "_": {
+              "auto": "",
+              "en": "Pyanan",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "rgayung": {
+            "_": {
+              "auto": "",
+              "en": "Rghayuŋ",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "syanuh": {
+            "_": {
+              "auto": "",
+              "en": "Syanuh",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          }
+        }
+      },
+      "bunun": {
+        "_": {
+          "auto": "",
+          "en": "Bunun",
+          "ko": "",
+          "zh_CN": "布农语",
+          "zh_TW": "布農語"
+        }
+      },
+      "kanakanavu": {
+        "_": {
+          "auto": "",
+          "en": "Kanakanavu",
+          "ko": "",
+          "zh_CN": "卡那卡那富语",
+          "zh_TW": "卡那卡那富語"
+        }
+      },
+      "kavalan": {
+        "_": {
+          "auto": "",
+          "en": "Kavalan",
+          "ko": "",
+          "zh_CN": "噶玛兰语",
+          "zh_TW": "噶瑪蘭語"
+        }
+      },
+      "paiwan": {
+        "_": {
+          "auto": "",
+          "en": "Paiwan",
+          "ko": "",
+          "zh_CN": "排湾语",
+          "zh_TW": "排灣語"
+        }
+      },
+      "puyuma": {
+        "_": {
+          "auto": "",
+          "en": "Puyuma",
+          "ko": "",
+          "zh_CN": "卑南语",
+          "zh_TW": "卑南語"
+        }
+      },
+      "rukai": {
+        "_": {
+          "auto": "",
+          "en": "Rukai",
+          "ko": "",
+          "zh_CN": "鲁凯语",
+          "zh_TW": "魯凱語"
+        }
+      },
+      "saaroa": {
+        "_": {
+          "alias": "Hla'alua",
+          "auto": "",
+          "en": "Saaroa",
+          "ko": "",
+          "zh_CN": "沙阿鲁阿语",
+          "zh_TW": "沙阿魯阿語"
+        }
+      },
+      "saisiyat": {
+        "_": {
+          "auto": "",
+          "en": "Saisiyat",
+          "ko": "",
+          "zh_CN": "赛夏语",
+          "zh_TW": "賽夏語"
+        }
+      },
+      "seediq": {
+        "_": {
+          "auto": "",
+          "en": "Seediq",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": ""
+        },
+        "inago": {
+          "_": {
+            "auto": "",
+            "en": "Inago",
+            "ko": "",
+            "zh_CN": "",
+            "zh_TW": ""
+          }
+        },
+        "toda": {
+          "_": {
+            "auto": "",
+            "en": "Toda",
+            "ko": "",
+            "zh_CN": "",
+            "zh_TW": ""
+          }
+        },
+        "tongan": {
+          "_": {
+            "auto": "",
+            "en": "Toŋan",
+            "ko": "",
+            "zh_CN": "",
+            "zh_TW": ""
+          }
+        },
+        "truwan": {
+          "_": {
+            "auto": "",
+            "en": "Truwan",
+            "ko": "",
+            "zh_CN": "",
+            "zh_TW": ""
+          }
+        }
+      },
+      "siraya": {
+        "_": {
+          "auto": "",
+          "en": "Siraya",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": "西拉雅語"
+        }
+      },
+      "thao": {
+        "_": {
+          "auto": "",
+          "en": "Thao",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": "邵語"
+        }
+      },
+      "tsou": {
+        "_": {
+          "auto": "",
+          "en": "Tsou",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": "鄒語"
+        }
+      }
+    },
+    "koreanic": {
+      "_": {
+        "auto": "",
+        "en": "Koreanic",
+        "ko": "한국어족",
+        "zh_CN": "",
+        "zh_TW": ""
+      },
+      "central": {
+        "_": {
+          "auto": "",
+          "en": "Central",
+          "ko": "중부",
+          "zh_CN": "中部",
+          "zh_TW": "中部"
+        },
+        "chungcheong": {
+          "_": {
+            "auto": "",
+            "en": "Chungcheong",
+            "ko": "충청",
+            "zh_CN": "忠清",
+            "zh_TW": "忠清"
+          }
+        },
+        "seoul-gyeonggi": {
+          "_": {
+            "auto": "",
+            "en": "Seoul/Gyeonggi",
+            "ko": "서울",
+            "zh_CN": "首尔",
+            "zh_TW": "首爾"
+          }
+        },
+        "yeongseo": {
+          "_": {
+            "auto": "",
+            "en": "Yeongseo",
+            "ko": "영서",
+            "zh_CN": "岭西",
+            "zh_TW": "嶺西"
+          }
+        }
+      },
+      "gyeongsang": {
+        "_": {
+          "auto": "",
+          "en": "Gyeongsang",
+          "ko": "경상",
+          "zh_CN": "庆尙",
+          "zh_TW": "慶尙"
+        }
+      },
+      "jeju": {
+        "_": {
+          "auto": "",
+          "en": "Jeju",
+          "ko": "제주",
+          "zh_CN": "济州",
+          "zh_TW": "濟州"
+        }
+      },
+      "jeolla": {
+        "_": {
+          "auto": "",
+          "en": "Jeolla",
+          "ko": "전라",
+          "zh_CN": "全罗",
+          "zh_TW": "全羅"
+        }
+      },
+      "northwest": {
+        "_": {
+          "auto": "",
+          "en": "Northwest",
+          "ko": "서북",
+          "zh_CN": "西北",
+          "zh_TW": "西北"
+        },
+        "hamgyeong": {
+          "_": {
+            "auto": "",
+            "en": "Hamgyeong",
+            "ko": "함경",
+            "zh_CN": "咸镜",
+            "zh_TW": "咸鏡"
+          }
+        },
+        "hwanghae": {
+          "_": {
+            "auto": "",
+            "en": "Hwanghae",
+            "ko": "황해",
+            "zh_CN": "黄海",
+            "zh_TW": "黃海"
+          }
+        },
+        "pyongyang": {
+          "_": {
+            "auto": "",
+            "en": "Pyeongyang",
+            "ko": "평안",
+            "zh_CN": "平壤",
+            "zh_TW": "平壤"
+          }
+        },
+        "yukchin": {
+          "_": {
+            "auto": "",
+            "en": "Yukchin",
+            "hanja": "六鎭",
+            "ko": "륙진",
+            "zh_CN": "六镇",
+            "zh_TW": "六鎮"
+          }
+        }
+      },
+      "russia": {
+        "_": {
+          "auto": "",
+          "en": "Russian",
+          "hanaja": "高麗말",
+          "ko": "고려말 (러시아)",
+          "zh_CN": "俄罗斯朝鲜族",
+          "zh_TW": "俄羅斯朝鮮族"
+        }
+      },
+      "yeongdong": {
+        "_": {
+          "auto": "",
+          "en": "Yeongdong",
+          "ko": "영동",
+          "zh_CN": "岭东",
+          "zh_TW": "嶺東"
+        }
+      },
+      "zainichi": {
+        "_": {
+          "auto": "",
+          "en": "Zainichi",
+          "ko": "재일어",
+          "zh_CN": "在日韓国人",
+          "zh_TW": "在日韓國人"
+        }
+      }
+    },
+    "sinitic": {
+      "_": {
+        "auto": "",
+        "en": "Sinitic",
+        "ko": "중국어파",
+        "zh_CN": "汉语系",
+        "zh_TW": "漢語系"
+      },
+      "gan": {
+        "_": {
+          "auto": "",
+          "en": "Gàn",
+          "ko": "감어",
+          "zh_CN": "赣语",
+          "zh_TW": "贛語"
+        },
+        "changjing": {
+          "_": {
+            "auto": "",
+            "en": "Chāngjīng",
+            "ko": "",
+            "zh_CN": "昌精片",
+            "zh_TW": "昌精片"
+          }
+        },
+        "datong": {
+          "_": {
+            "auto": "",
+            "en": "Dàtōng",
+            "ko": "",
+            "zh_CN": "大通片",
+            "zh_TW": "大通片"
+          }
+        },
+        "dongsui": {
+          "_": {
+            "auto": "",
+            "en": "Dòngsuí",
+            "ko": "",
+            "zh_CN": "洞绥片",
+            "zh_TW": "洞綏片"
+          }
+        },
+        "fuguang": {
+          "_": {
+            "auto": "",
+            "en": "Fǔguǎng",
+            "ko": "",
+            "zh_CN": "抚广片",
+            "zh_TW": "撫廣片"
+          }
+        },
+        "huaiyue": {
+          "_": {
+            "auto": "",
+            "en": "Huáiyuè",
+            "ko": "",
+            "zh_CN": "怀岳片",
+            "zh_TW": "懷嶽片"
+          }
+        },
+        "jicha": {
+          "_": {
+            "auto": "",
+            "en": "Jíchá",
+            "ko": "",
+            "zh_CN": "吉茶片",
+            "zh_TW": "吉茶片"
+          }
+        },
+        "yiliu": {
+          "_": {
+            "auto": "",
+            "en": "Yíliú",
+            "ko": "",
+            "zh_CN": "宜浏片",
+            "zh_TW": "宜瀏片"
+          }
+        },
+        "yingyi": {
+          "_": {
+            "auto": "",
+            "en": "Yīngyì",
+            "ko": "",
+            "zh_CN": "鹰弋片",
+            "zh_TW": "鷹弋片"
+          }
+        }
+      },
+      "guanhua": {
+        "_": {
+          "auto": "",
+          "en": "Mandarin",
+          "ko": "",
+          "zh_CN": "官话",
+          "zh_TW": "官話"
+        },
+        "beijing": {
+          "_": {
+            "auto": "",
+            "en": "Běijīng",
+            "ko": "",
+            "zh_CN": "北京官话",
+            "zh_TW": "北京官話"
+          },
+          "jingshi": {
+            "_": {
+              "auto": "",
+              "en": "Jīngshī",
+              "ko": "",
+              "zh_CN": "京师片",
+              "zh_TW": "京師片"
+            }
+          }
+        },
+        "central plains": {
+          "_": {
+            "auto": "",
+            "en": "Zhōngyuán",
+            "ko": "",
+            "zh_CN": "中原官话",
+            "zh_TW": "中原官話"
+          },
+          "cailu": {
+            "_": {
+              "auto": "",
+              "en": "Càilǔ",
+              "ko": "",
+              "zh_CN": "蔡鲁片",
+              "zh_TW": "蔡魯片"
+            }
+          },
+          "dungan": {
+            "_": {
+              "auto": "Хуэйзў",
+              "en": "Dungan",
+              "ko": "",
+              "zh_CN": "东干",
+              "zh_TW": "東干"
+            }
+          },
+          "fenhe": {
+            "_": {
+              "auto": "",
+              "en": "Fénhé",
+              "ko": "",
+              "zh_CN": "汾河片",
+              "zh_TW": "汾河片"
+            },
+            "jiangzhou": {
+              "_": {
+                "auto": "",
+                "en": "Jiàngzhōu",
+                "ko": "",
+                "zh_CN": "绛州小片",
+                "zh_TW": "絳州小片"
+              }
+            },
+            "jiezhou": {
+              "_": {
+                "auto": "",
+                "en": "Jiězhōu",
+                "ko": "",
+                "zh_CN": "解州小片",
+                "zh_TW": "解州小片"
+              }
+            },
+            "pingyang": {
+              "_": {
+                "auto": "",
+                "en": "Píngyáng",
+                "ko": "",
+                "zh_CN": "平阳小片",
+                "zh_TW": "平陽小片"
+              }
+            }
+          },
+          "guanzhong": {
+            "_": {
+              "auto": "",
+              "en": "Guānzhōng",
+              "ko": "",
+              "zh_CN": "关中片",
+              "zh_TW": "關中片"
+            }
+          },
+          "longzhong": {
+            "_": {
+              "auto": "",
+              "en": "Lǒngzhōng",
+              "ko": "",
+              "zh_CN": "隴中片",
+              "zh_TW": "陇中片"
+            }
+          },
+          "luoxu": {
+            "_": {
+              "auto": "",
+              "en": "Luòxú",
+              "ko": "",
+              "zh_CN": "洛徐片",
+              "zh_TW": "洛徐片"
+            }
+          },
+          "qinlong": {
+            "_": {
+              "auto": "",
+              "en": "Qínlǒng",
+              "ko": "",
+              "zh_CN": "秦陇片",
+              "zh_TW": "秦隴片"
+            }
+          },
+          "xinbang": {
+            "_": {
+              "auto": "",
+              "en": "Xìnbàng",
+              "ko": "",
+              "zh_CN": "信蚌片",
+              "zh_TW": "信蚌片"
+            }
+          },
+          "zhengcao": {
+            "_": {
+              "auto": "",
+              "en": "Zhèngcáo",
+              "ko": "",
+              "zh_CN": "郑曹片",
+              "zh_TW": "鄭曹片"
+            }
+          }
+        },
+        "jianghuai": {
+          "_": {
+            "auto": "",
+            "en": "Jiānghuái",
+            "ko": "",
+            "zh_CN": "江淮官话",
+            "zh_TW": "江淮官話"
+          },
+          "hongchao": {
+            "_": {
+              "auto": "",
+              "en": "Hóngcháo",
+              "ko": "",
+              "zh_CN": "洪巢片",
+              "zh_TW": "洪巢片"
+            }
+          },
+          "huangxiao": {
+            "_": {
+              "auto": "",
+              "en": "Huángxiào",
+              "ko": "",
+              "zh_CN": "黄孝片",
+              "zh_TW": "黃孝片"
+            }
+          },
+          "tairu": {
+            "_": {
+              "auto": "",
+              "en": "Tàirú",
+              "ko": "",
+              "zh_CN": "泰如片",
+              "zh_TW": "泰如片"
+            }
+          }
+        },
+        "jiaoliao": {
+          "_": {
+            "auto": "",
+            "en": "Jiāoliáo",
+            "ko": "",
+            "zh_CN": "胶辽官话",
+            "zh_TW": "膠遼官話"
+          },
+          "denglian": {
+            "_": {
+              "auto": "",
+              "en": "Dēnglián",
+              "ko": "",
+              "zh_CN": "登连片",
+              "zh_TW": "登連片"
+            }
+          },
+          "qingzhou": {
+            "_": {
+              "auto": "",
+              "en": "Qīngzhōu",
+              "ko": "",
+              "zh_CN": "青州片",
+              "zh_TW": "青州片"
+            }
+          },
+          "yingtong": {
+            "_": {
+              "auto": "",
+              "en": "Yíngtōng",
+              "ko": "",
+              "zh_CN": "营通片",
+              "zh_TW": "營通片"
+            }
+          }
+        },
+        "jilu": {
+          "_": {
+            "auto": "",
+            "en": "Jìlǔ",
+            "ko": "",
+            "zh_CN": "冀鲁",
+            "zh_TW": "冀魯"
+          },
+          "baotang": {
+            "_": {
+              "auto": "",
+              "en": "Bǎotáng",
+              "ko": "",
+              "zh_CN": "保唐片",
+              "zh_TW": "保唐片"
+            },
+            "dingba": {
+              "_": {
+                "auto": "",
+                "en": "Dìngbà",
+                "ko": "",
+                "zh_CN": "定霸小片",
+                "zh_TW": "定霸小片"
+              }
+            },
+            "fulong": {
+              "_": {
+                "auto": "",
+                "en": "Fǔlóng",
+                "ko": "",
+                "zh_CN": "抚龙小片",
+                "zh_TW": "撫龍小片"
+              }
+            },
+            "jizun": {
+              "_": {
+                "auto": "",
+                "en": "Jìzūn",
+                "ko": "",
+                "zh_CN": "蓟遵小片",
+                "zh_TW": "薊遵小片"
+              }
+            },
+            "laifu": {
+              "_": {
+                "auto": "",
+                "en": "Láifù",
+                "ko": "",
+                "zh_CN": "涞阜小片",
+                "zh_TW": "淶阜小片"
+              }
+            },
+            "luanchang": {
+              "_": {
+                "auto": "",
+                "en": "Luánchāng",
+                "ko": "",
+                "zh_CN": "滦昌小片",
+                "zh_TW": "灤昌小片"
+              }
+            },
+            "tianjin": {
+              "_": {
+                "auto": "",
+                "en": "Tiānjīn",
+                "ko": "",
+                "zh_CN": "天津小片",
+                "zh_TW": "天津小片"
+              }
+            }
+          },
+          "canghui": {
+            "_": {
+              "auto": "",
+              "en": "Cānghuì",
+              "ko": "",
+              "zh_CN": "沧惠片",
+              "zh_TW": "滄惠片"
+            },
+            "huangle": {
+              "_": {
+                "auto": "",
+                "en": "Huánglè",
+                "ko": "",
+                "zh_CN": "黄乐小片",
+                "zh_TW": "黃樂小片"
+              }
+            },
+            "yangshou": {
+              "_": {
+                "auto": "",
+                "en": "Yángshòu",
+                "ko": "",
+                "zh_CN": "阳寿小片",
+                "zh_TW": "陽壽小片"
+              }
+            }
+          },
+          "shiji": {
+            "_": {
+              "auto": "",
+              "en": "Shíjì",
+              "ko": "",
+              "zh_CN": "石济片",
+              "zh_TW": "石濟片"
+            },
+            "liaotai": {
+              "_": {
+                "auto": "",
+                "en": "Liáotài",
+                "ko": "",
+                "zh_CN": "聊泰小片",
+                "zh_TW": "聊泰小片"
+              }
+            },
+            "xingheng": {
+              "_": {
+                "auto": "",
+                "en": "Xínghéng",
+                "ko": "",
+                "zh_CN": "邢衡小片",
+                "zh_TW": "邢衡小片"
+              }
+            },
+            "zhaoshen": {
+              "_": {
+                "auto": "",
+                "en": "Zhàoshēn",
+                "ko": "",
+                "zh_CN": "赵深小片",
+                "zh_TW": "趙深小片"
+              }
+            }
+          },
+          "zhangli": {
+            "_": {
+              "auto": "",
+              "en": "Zhānglì",
+              "ko": "",
+              "zh_CN": "章利片",
+              "zh_TW": "章利片"
+            }
+          }
+        },
+        "lanyin": {
+          "_": {
+            "auto": "",
+            "en": "Lányín",
+            "ko": "",
+            "zh_CN": "兰银官话",
+            "zh_TW": "蘭銀官話"
+          },
+          "beijiang": {
+            "_": {
+              "auto": "",
+              "en": "Běijiāng",
+              "ko": "",
+              "zh_CN": "北疆片",
+              "zh_TW": "北疆片"
+            }
+          },
+          "hexi": {
+            "_": {
+              "auto": "",
+              "en": "Héxī",
+              "ko": "",
+              "zh_CN": "河西片",
+              "zh_TW": "河西片"
+            }
+          },
+          "jincheng": {
+            "_": {
+              "auto": "",
+              "en": "Jīnchéng",
+              "ko": "",
+              "zh_CN": "金城片",
+              "zh_TW": "金城片"
+            }
+          },
+          "yinwu": {
+            "_": {
+              "auto": "",
+              "en": "Yínwú",
+              "ko": "",
+              "zh_CN": "银吴片",
+              "zh_TW": "銀吳片"
+            }
+          }
+        },
+        "localputonghua": {
+          "_": {
+            "auto": "",
+            "en": "Local Pǔtōnghuà",
+            "ko": "",
+            "zh_CN": "当地普通话",
+            "zh_TW": "當地普通話"
+          }
+        },
+        "modern standard": {
+          "_": {
+            "auto": "",
+            "en": "Pǔtōnghuà",
+            "ko": "",
+            "zh_CN": "普通话",
+            "zh_TW": "普通話"
+          }
+        },
+        "northeast": {
+          "_": {
+            "auto": "",
+            "en": "Dōngběi",
+            "ko": "",
+            "zh_CN": "东北官话",
+            "zh_TW": "東北官話"
+          },
+          "hafu": {
+            "_": {
+              "auto": "",
+              "en": "Hāfù",
+              "ko": "",
+              "zh_CN": "哈阜片",
+              "zh_TW": "哈阜片"
+            },
+            "zhangjin": {
+              "_": {
+                "auto": "",
+                "en": "Zhǎngjǐn",
+                "ko": "",
+                "zh_CN": "长锦小片",
+                "zh_TW": "長錦小片"
+              }
+            },
+            "zhaofu": {
+              "_": {
+                "auto": "",
+                "en": "Zhàofú",
+                "ko": "",
+                "zh_CN": "肇扶小片",
+                "zh_TW": "肇扶小片"
+              }
+            }
+          },
+          "heisong": {
+            "_": {
+              "auto": "",
+              "en": "Hēisōng",
+              "ko": "",
+              "zh_CN": "黑松片",
+              "zh_TW": "黑松片"
+            },
+            "jiafu": {
+              "_": {
+                "auto": "",
+                "en": "Jiāfù",
+                "ko": "",
+                "zh_CN": "佳富小片",
+                "zh_TW": "佳富小片"
+              }
+            },
+            "nenke": {
+              "_": {
+                "auto": "",
+                "en": "Nènkè",
+                "ko": "",
+                "zh_CN": "嫩克小片",
+                "zh_TW": "嫩克小片"
+              }
+            },
+            "zhanhua": {
+              "_": {
+                "auto": "",
+                "en": "Zhànhuà",
+                "ko": "",
+                "zh_CN": "站话小片",
+                "zh_TW": "站話小片"
+              }
+            }
+          },
+          "jishen": {
+            "_": {
+              "auto": "",
+              "en": "Jíshěn",
+              "ko": "",
+              "zh_CN": "吉沈片",
+              "zh_TW": "吉瀋片"
+            },
+            "jiaoning": {
+              "_": {
+                "auto": "",
+                "en": "Jiāoníng",
+                "ko": "",
+                "zh_CN": "蛟宁小片",
+                "zh_TW": "蛟寧小片"
+              }
+            },
+            "tongxi": {
+              "_": {
+                "auto": "",
+                "en": "Tōngxī",
+                "ko": "",
+                "zh_CN": "通溪小片",
+                "zh_TW": "通溪小片"
+              }
+            },
+            "yanji": {
+              "_": {
+                "auto": "",
+                "en": "Yánjí",
+                "ko": "",
+                "zh_CN": "延吉小片",
+                "zh_TW": "延吉小片"
+              }
+            }
+          }
+        },
+        "southwest": {
+          "_": {
+            "auto": "",
+            "en": "Southwest",
+            "ko": "",
+            "zh_CN": "西南官话",
+            "zh_TW": "西南官話"
+          },
+          "cenjiang": {
+            "_": {
+              "auto": "",
+              "en": "Cénjiāng",
+              "ko": "",
+              "zh_CN": "岑江片",
+              "zh_TW": "岑江片"
+            }
+          },
+          "changhe": {
+            "_": {
+              "auto": "",
+              "en": "Chánghè",
+              "ko": "",
+              "zh_CN": "常鹤片",
+              "zh_TW": "常鶴片"
+            }
+          },
+          "chengyu": {
+            "_": {
+              "auto": "",
+              "en": "Chéngyú",
+              "ko": "",
+              "zh_CN": "成渝片",
+              "zh_TW": "成渝片"
+            }
+          },
+          "dianxi": {
+            "_": {
+              "auto": "",
+              "en": "Diānxī",
+              "ko": "",
+              "zh_CN": "滇西片",
+              "zh_TW": "滇西片"
+            }
+          },
+          "ebei": {
+            "_": {
+              "auto": "",
+              "en": "Èběi",
+              "ko": "",
+              "zh_CN": "鄂北片",
+              "zh_TW": "鄂北片"
+            }
+          },
+          "guanchi": {
+            "_": {
+              "auto": "",
+              "en": "Guànchì",
+              "ko": "",
+              "zh_CN": "灌赤片",
+              "zh_TW": "灌赤片"
+            },
+            "lichuan": {
+              "_": {
+                "auto": "",
+                "en": "Lìchuān",
+                "ko": "",
+                "zh_CN": "丽川小片",
+                "zh_TW": "麗川小片"
+              }
+            },
+            "minjiang": {
+              "_": {
+                "auto": "",
+                "en": "Mínjiāng",
+                "ko": "",
+                "zh_CN": "岷江小片",
+                "zh_TW": "岷江小片"
+              }
+            },
+            "renfu": {
+              "_": {
+                "auto": "",
+                "en": "Rénfù",
+                "ko": "",
+                "zh_CN": "仁富小片",
+                "zh_TW": "仁富小片"
+              }
+            },
+            "yamian": {
+              "_": {
+                "auto": "",
+                "en": "Yǎmián",
+                "ko": "",
+                "zh_CN": "雅棉小片",
+                "zh_TW": "雅棉小片"
+              }
+            }
+          },
+          "guiliu": {
+            "_": {
+              "auto": "",
+              "en": "Guìliǔ",
+              "ko": "",
+              "zh_CN": "桂柳片",
+              "zh_TW": "桂柳片"
+            }
+          },
+          "jiyong": {
+            "_": {
+              "auto": "",
+              "en": "Jíyǒng",
+              "ko": "",
+              "zh_CN": "吉永片",
+              "zh_TW": "吉永片"
+            }
+          },
+          "kungui": {
+            "_": {
+              "auto": "",
+              "en": "Kūnguì",
+              "ko": "",
+              "zh_CN": "昆貴片",
+              "zh_TW": "昆贵片"
+            }
+          },
+          "qianbei": {
+            "_": {
+              "auto": "",
+              "en": "Qiánběi",
+              "ko": "",
+              "zh_CN": "黔北片",
+              "zh_TW": "黔北片"
+            }
+          },
+          "qiannan": {
+            "_": {
+              "auto": "",
+              "en": "Qiánnán",
+              "ko": "",
+              "zh_CN": "黔南片",
+              "zh_TW": "黔南片"
+            }
+          },
+          "wutian": {
+            "_": {
+              "auto": "",
+              "en": "Wǔtiān",
+              "ko": "",
+              "zh_CN": "武天片",
+              "zh_TW": "武天片"
+            }
+          },
+          "xiangnan": {
+            "_": {
+              "auto": "",
+              "en": "Xiāngnán",
+              "ko": "",
+              "zh_CN": "湘南片",
+              "zh_TW": "湘南片"
+            }
+          }
+        }
+      },
+      "hakka": {
+        "_": {
+          "auto": "",
+          "en": "Hakka",
+          "ko": "객가어",
+          "zh_CN": "客语",
+          "zh_TW": "客語"
+        },
+        "huizhou": {
+          "_": {
+            "auto": "",
+            "en": "Huìzhōu",
+            "ko": "",
+            "zh_CN": "惠州片",
+            "zh_TW": "惠州片"
+          },
+          "hailu": {
+            "_": {
+              "auto": "Hoiliuk",
+              "en": "",
+              "ko": "",
+              "zh_CN": "海陸腔",
+              "zh_TW": "海陸腔"
+            }
+          }
+        },
+        "meixian": {
+          "_": {
+            "auto": "Moiyan",
+            "en": "Méixiàn",
+            "ko": "",
+            "zh_CN": "梅县片",
+            "zh_TW": "梅縣片"
+          }
+        },
+        "ninglong": {
+          "_": {
+            "auto": "",
+            "en": "Nínglóng",
+            "ko": "",
+            "zh_CN": "宁龙片",
+            "zh_TW": "寧龍片"
+          }
+        },
+        "tingzhou": {
+          "_": {
+            "auto": "",
+            "en": "Tīngzhōu",
+            "ko": "",
+            "zh_CN": "汀州片",
+            "zh_TW": "汀州片"
+          }
+        },
+        "tonggu": {
+          "_": {
+            "auto": "",
+            "en": "Tónggǔ",
+            "ko": "",
+            "zh_CN": "铜鼓片",
+            "zh_TW": "銅鼓片"
+          }
+        },
+        "unclassified": {
+          "_": {
+            "auto": "",
+            "en": "(unidentified)",
+            "ko": "",
+            "zh_CN": "(不分片)",
+            "zh_TW": "(不分片)"
+          }
+        },
+        "yuebei": {
+          "_": {
+            "auto": "",
+            "en": "Yuèběi",
+            "ko": "",
+            "zh_CN": "粤北片",
+            "zh_TW": "粵北片"
+          }
+        },
+        "yuetai": {
+          "_": {
+            "auto": "",
+            "en": "Yuètái",
+            "ko": "",
+            "zh_CN": "粤台片",
+            "zh_TW": "粵臺片"
+          },
+          "jiaying": {
+            "_": {
+              "auto": "",
+              "en": "Jiāyīng",
+              "ko": "",
+              "zh_CN": "嘉应",
+              "zh_TW": "嘉應"
+            },
+            "changle": {
+              "_": {
+                "auto": "",
+                "en": "Chǎnglè",
+                "ko": "",
+                "zh_CN": "长乐腔",
+                "zh_TW": "長樂腔"
+              }
+            },
+            "dabu": {
+              "_": {
+                "auto": "",
+                "en": "Dàbù",
+                "ko": "",
+                "zh_CN": "大埔腔",
+                "zh_TW": "大埔腔"
+              }
+            },
+            "nanjing": {
+              "_": {
+                "auto": "",
+                "en": "Nánjìng",
+                "ko": "",
+                "zh_CN": "南靖腔",
+                "zh_TW": "南靖腔"
+              }
+            },
+            "pinghe": {
+              "_": {
+                "auto": "",
+                "en": "Pínghé",
+                "ko": "",
+                "zh_CN": "平和腔",
+                "zh_TW": "平和腔"
+              }
+            },
+            "raoping": {
+              "_": {
+                "auto": "",
+                "en": "Ráopíng",
+                "ko": "",
+                "zh_CN": "饶平腔",
+                "zh_TW": "饒平腔"
+              }
+            },
+            "sixian": {
+              "_": {
+                "auto": "",
+                "en": "Sìxiàn",
+                "ko": "",
+                "zh_CN": "四县腔",
+                "zh_TW": "四縣腔"
+              }
+            },
+            "yongding": {
+              "_": {
+                "auto": "",
+                "en": "Yǒngdìng",
+                "ko": "",
+                "zh_CN": "永定腔",
+                "zh_TW": "永定腔"
+              }
+            },
+            "zhaoan": {
+              "_": {
+                "auto": "",
+                "en": "Zhàoān",
+                "ko": "",
+                "zh_CN": "诏安腔",
+                "zh_TW": "詔安腔"
+              }
+            }
+          },
+          "shaonan": {
+            "_": {
+              "auto": "",
+              "en": "Shàonán",
+              "ko": "",
+              "zh_CN": "绍南",
+              "zh_TW": "紹南"
+            }
+          },
+          "xinghua": {
+            "_": {
+              "auto": "",
+              "en": "Xìnghuá",
+              "ko": "",
+              "zh_CN": "兴华",
+              "zh_TW": "興華"
+            }
+          },
+          "xinhui": {
+            "_": {
+              "auto": "",
+              "en": "Xīnhuì",
+              "ko": "",
+              "zh_CN": "新惠",
+              "zh_TW": "新惠"
+            }
+          }
+        },
+        "yuezhong": {
+          "_": {
+            "auto": "",
+            "en": "Yuè zhōng",
+            "ko": "",
+            "zh_CN": "粤中片",
+            "zh_TW": "粵中片"
+          }
+        },
+        "yugui": {
+          "_": {
+            "auto": "",
+            "en": "Yúguì",
+            "ko": "",
+            "zh_CN": "於桂片",
+            "zh_TW": "于桂片"
+          }
+        }
+      },
+      "hui": {
+        "_": {
+          "auto": "",
+          "en": "Huizhou",
+          "ko": "후이어",
+          "zh_CN": "徽语",
+          "zh_TW": "徽語"
+        },
+        "jingzhan": {
+          "_": {
+            "auto": "",
+            "en": "Jīngzhàn",
+            "ko": "",
+            "zh_CN": "旌占",
+            "zh_TW": "旌占"
+          }
+        },
+        "jishe": {
+          "_": {
+            "auto": "",
+            "en": "Jīshè",
+            "ko": "",
+            "zh_CN": "绩歙",
+            "zh_TW": "績歙"
+          }
+        },
+        "qiwu": {
+          "_": {
+            "auto": "",
+            "en": "Qíwù",
+            "ko": "",
+            "zh_CN": "祁婺",
+            "zh_TW": "祁婺"
+          }
+        },
+        "xiuyi": {
+          "_": {
+            "auto": "",
+            "en": "Xiūyī",
+            "ko": "",
+            "zh_CN": "休黟",
+            "zh_TW": "休黟"
+          }
+        },
+        "yanzhou": {
+          "_": {
+            "auto": "",
+            "en": "Yánzhōu",
+            "ko": "",
+            "zh_CN": "严州",
+            "zh_TW": "嚴州"
+          }
+        }
+      },
+      "jin": {
+        "_": {
+          "auto": "",
+          "en": "Jìnyǔ",
+          "ko": "진어",
+          "zh_CN": "晋语",
+          "zh_TW": "晉語"
+        },
+        "bingzhou": {
+          "_": {
+            "auto": "",
+            "en": "Bìngzhōu",
+            "ko": "",
+            "zh_CN": "并州",
+            "zh_TW": "并州"
+          }
+        },
+        "dabao": {
+          "_": {
+            "auto": "",
+            "en": "Dàbāo",
+            "ko": "",
+            "zh_CN": "大包",
+            "zh_TW": "大包"
+          }
+        },
+        "hanxin": {
+          "_": {
+            "auto": "",
+            "en": "Hánxīn",
+            "ko": "",
+            "zh_CN": "邯新",
+            "zh_TW": "邯新"
+          },
+          "cizhangxiao": {
+            "_": {
+              "auto": "",
+              "en": "Cízhāng",
+              "ko": "",
+              "zh_CN": "慈漳小片",
+              "zh_TW": "慈漳小片"
+            }
+          },
+          "huoji": {
+            "_": {
+              "auto": "",
+              "en": "Huòjì",
+              "ko": "",
+              "zh_CN": "获济小片",
+              "zh_TW": "獲濟小片"
+            }
+          }
+        },
+        "luliang": {
+          "_": {
+            "auto": "",
+            "en": "Lǚliáng",
+            "ko": "",
+            "zh_CN": "吕梁",
+            "zh_TW": "呂梁"
+          },
+          "fenzhou": {
+            "_": {
+              "auto": "",
+              "en": "Fénzhōu",
+              "ko": "",
+              "zh_CN": "汾州小片",
+              "zh_TW": "汾州小片"
+            }
+          }
+        },
+        "shangdang": {
+          "_": {
+            "auto": "",
+            "en": "Shàngdǎng",
+            "ko": "",
+            "zh_CN": "上党",
+            "zh_TW": "上黨"
+          }
+        },
+        "wutai": {
+          "_": {
+            "auto": "",
+            "en": "Wǔtái",
+            "ko": "",
+            "zh_CN": "五台",
+            "zh_TW": "五台"
+          }
+        },
+        "zhanghu": {
+          "_": {
+            "auto": "",
+            "en": "Zhānghū",
+            "ko": "",
+            "zh_CN": "张呼",
+            "zh_TW": "張呼"
+          }
+        },
+        "zhiyan": {
+          "_": {
+            "auto": "",
+            "en": "Zhìyán",
+            "ko": "",
+            "zh_CN": "志延",
+            "zh_TW": "志延"
+          }
+        }
+      },
+      "min": {
+        "_": {
+          "auto": "",
+          "en": "Mǐn",
+          "ko": "민어",
+          "zh_CN": "闽语",
+          "zh_TW": "閩語"
+        },
+        "central": {
+          "_": {
+            "auto": "",
+            "en": "Central",
+            "ko": "민중어",
+            "zh_CN": "闽中",
+            "zh_TW": "閩中"
+          }
+        },
+        "eastern": {
+          "_": {
+            "auto": "",
+            "en": "Eastern",
+            "ko": "민동어",
+            "zh_CN": "闽东",
+            "zh_TW": "閩東"
+          },
+          "funing": {
+            "_": {
+              "auto": "",
+              "en": "Fúníng",
+              "ko": "",
+              "zh_CN": "福宁",
+              "zh_TW": "福寧"
+            }
+          }
+        },
+        "houguan": {
+          "_": {
+            "auto": "",
+            "en": "Hóuguān",
+            "ko": "",
+            "zh_CN": "侯官",
+            "zh_TW": "侯官"
+          }
+        },
+        "mihua": {
+          "_": {
+            "auto": "",
+            "en": "Mìhuà",
+            "ko": "",
+            "zh_CN": "密话",
+            "zh_TW": "密話"
+          }
+        },
+        "northern": {
+          "_": {
+            "auto": "",
+            "en": "Northern",
+            "ko": "민북어",
+            "zh_CN": "闽北",
+            "zh_TW": "閩北"
+          }
+        },
+        "puxian": {
+          "_": {
+            "auto": "",
+            "en": "Púxiān",
+            "ko": "보선어",
+            "zh_CN": "莆仙",
+            "zh_TW": "莆仙"
+          }
+        },
+        "qiongwen": {
+          "_": {
+            "alias": "Hainanese",
+            "auto": "",
+            "en": "Qióngwén",
+            "ko": "해남어",
+            "zh_CN": "琼文",
+            "zh_TW": "瓊文"
+          }
+        },
+        "shaojiang": {
+          "_": {
+            "auto": "",
+            "en": "Shàojiāng",
+            "ko": "",
+            "zh_CN": "邵将",
+            "zh_TW": "邵將"
+          }
+        },
+        "southern": {
+          "_": {
+            "auto": "",
+            "en": "Southern",
+            "ko": "",
+            "zh_CN": "闽南",
+            "zh_TW": "閩南"
+          },
+          "chaoshan": {
+            "_": {
+              "auto": "",
+              "en": "Húshàn",
+              "ko": "조주어",
+              "zh_CN": "湖汕片",
+              "zh_TW": "湖汕片"
+            }
+          },
+          "datian": {
+            "_": {
+              "auto": "",
+              "en": "Dàtián",
+              "ko": "",
+              "zh_CN": "大田片",
+              "zh_TW": "大田片"
+            }
+          },
+          "leizhou": {
+            "_": {
+              "auto": "",
+              "en": "Léizhōu",
+              "ko": "",
+              "zh_CN": "雷州片",
+              "zh_TW": "雷州片"
+            }
+          },
+          "quanzhang": {
+            "_": {
+              "auto": "",
+              "en": "Quánzhāng",
+              "ko": "천주어",
+              "zh_CN": "泉漳片",
+              "zh_TW": "泉漳片"
+            }
+          }
+        }
+      },
+      "ping": {
+        "_": {
+          "auto": "",
+          "en": "Píng",
+          "ko": "평어",
+          "zh_CN": "平语",
+          "zh_TW": "平語"
+        }
+      },
+      "wu": {
+        "_": {
+          "auto": "",
+          "en": "Wú",
+          "ko": "오어",
+          "zh_CN": "吴语",
+          "zh_TW": "吳語"
+        },
+        "chuqu": {
+          "_": {
+            "auto": "",
+            "en": "Chùqú",
+            "ko": "",
+            "zh_CN": "处衢片",
+            "zh_TW": "處衢片"
+          },
+          "chuzhou": {
+            "_": {
+              "auto": "",
+              "en": "Lìshuǐ",
+              "ko": "",
+              "zh_CN": "丽水小片",
+              "zh_TW": "麗水小片"
+            }
+          },
+          "longqu": {
+            "_": {
+              "auto": "",
+              "en": "Lóngqú",
+              "ko": "",
+              "zh_CN": "龍衢小片",
+              "zh_TW": "龙衢小片"
+            }
+          }
+        },
+        "oujiang": {
+          "_": {
+            "auto": "",
+            "en": "Ōujiāng",
+            "ko": "",
+            "zh_CN": "甌江片",
+            "zh_TW": "瓯江片"
+          }
+        },
+        "taihu": {
+          "_": {
+            "auto": "",
+            "en": "Tàihú",
+            "ko": "태호",
+            "zh_CN": "太湖片",
+            "zh_TW": "太湖片"
+          },
+          "hangzhou": {
+            "_": {
+              "auto": "",
+              "en": "Hángzhōu",
+              "ko": "항저우",
+              "zh_CN": "杭州小片",
+              "zh_TW": "杭州小片"
+            }
+          },
+          "linshao": {
+            "_": {
+              "auto": "",
+              "en": "Línshào",
+              "ko": "림소",
+              "zh_CN": "临绍小片",
+              "zh_TW": "臨紹小片"
+            }
+          },
+          "piling": {
+            "_": {
+              "auto": "",
+              "en": "Pílíng",
+              "ko": "피링",
+              "zh_CN": "毗陵小片",
+              "zh_TW": "毗陵小片"
+            }
+          },
+          "shaoxi": {
+            "_": {
+              "auto": "",
+              "en": "Sháoxī",
+              "ko": "초계",
+              "zh_CN": "苕溪小片",
+              "zh_TW": "苕溪小片"
+            }
+          },
+          "suhujia": {
+            "_": {
+              "auto": "",
+              "en": "Sū-hù-jiā",
+              "ko": "소호가",
+              "zh_CN": "苏沪嘉小片",
+              "zh_TW": "蘇滬嘉小片"
+            }
+          },
+          "yongjiang": {
+            "_": {
+              "auto": "",
+              "en": "Yǒngjiāng",
+              "ko": "용강",
+              "zh_CN": "甬江小片",
+              "zh_TW": "甬江小片"
+            }
+          }
+        },
+        "taizhou": {
+          "_": {
+            "auto": "",
+            "en": "Táizhōu",
+            "ko": "",
+            "zh_CN": "台州片",
+            "zh_TW": "台州片"
+          }
+        },
+        "wuzhou": {
+          "_": {
+            "auto": "",
+            "en": "Wùzhōu",
+            "ko": "우주",
+            "zh_CN": "婺州片",
+            "zh_TW": "婺州片"
+          }
+        },
+        "xuanzhou": {
+          "_": {
+            "auto": "",
+            "en": "Xuānzhōu",
+            "ko": "선주",
+            "zh_CN": "宣州片",
+            "zh_TW": "宣州片"
+          },
+          "shiling": {
+            "_": {
+              "auto": "",
+              "en": "Shílíng",
+              "ko": "",
+              "zh_CN": "石陵小片",
+              "zh_TW": "石陵小片"
+            }
+          },
+          "taigao": {
+            "_": {
+              "auto": "",
+              "en": "Tàigāo",
+              "ko": "",
+              "zh_CN": "太高小片",
+              "zh_TW": "太高小片"
+            }
+          },
+          "tongjing": {
+            "_": {
+              "auto": "",
+              "en": "Tóngjīng",
+              "ko": "",
+              "zh_CN": "銅涇小片",
+              "zh_TW": "铜泾小片"
+            }
+          }
+        }
+      },
+      "xiang": {
+        "_": {
+          "auto": "",
+          "en": "Xiāng",
+          "ko": "샹어",
+          "zh_CN": "湘语",
+          "zh_TW": "湘語"
+        },
+        "changyi": {
+          "_": {
+            "auto": "",
+            "en": "Zhǎngyì",
+            "ko": "",
+            "zh_CN": "长益",
+            "zh_TW": "長益"
+          }
+        },
+        "jishou": {
+          "_": {
+            "auto": "",
+            "en": "Jíshǒu",
+            "ko": "",
+            "zh_CN": "吉首",
+            "zh_TW": "吉首"
+          }
+        },
+        "loushao": {
+          "_": {
+            "auto": "",
+            "en": "Lóushào",
+            "ko": "",
+            "zh_CN": "娄邵",
+            "zh_TW": "婁邵"
+          }
+        },
+        "yongquan": {
+          "_": {
+            "auto": "",
+            "en": "Yǒngquán",
+            "ko": "",
+            "zh_CN": "永全",
+            "zh_TW": "永全"
+          }
+        }
+      },
+      "yue": {
+        "_": {
+          "auto": "",
+          "en": "Yuè",
+          "ko": "월어",
+          "zh_CN": "粤语",
+          "zh_TW": "粵語"
+        },
+        "danzhou": {
+          "_": {
+            "auto": "",
+            "en": "Dānzhōu",
+            "ko": "",
+            "zh_CN": "儋州话",
+            "zh_TW": "儋州話"
+          }
+        },
+        "gaoyang": {
+          "_": {
+            "auto": "",
+            "en": "Gāoyáng",
+            "ko": "",
+            "zh_CN": "高阳片",
+            "zh_TW": "高陽片"
+          }
+        },
+        "goulou": {
+          "_": {
+            "auto": "",
+            "en": "Gōulòu",
+            "ko": "",
+            "zh_CN": "勾漏片",
+            "zh_TW": "勾漏片"
+          }
+        },
+        "guangfu": {
+          "_": {
+            "auto": "",
+            "en": "Guǎngfǔ",
+            "ko": "",
+            "zh_CN": "广府片",
+            "zh_TW": "廣府片"
+          }
+        },
+        "qinlian": {
+          "_": {
+            "auto": "",
+            "en": "Qīnlián",
+            "ko": "",
+            "zh_CN": "钦廉片",
+            "zh_TW": "欽廉片"
+          }
+        },
+        "siyi": {
+          "_": {
+            "auto": "",
+            "en": "Sìyì",
+            "ko": "",
+            "zh_CN": "四邑片",
+            "zh_TW": "四邑片"
+          }
+        },
+        "wuhua": {
+          "_": {
+            "auto": "",
+            "en": "Wúhuà",
+            "ko": "",
+            "zh_CN": "吴化片",
+            "zh_TW": "吳化片"
+          }
+        },
+        "yongxun": {
+          "_": {
+            "auto": "",
+            "en": "Yōngxún",
+            "ko": "",
+            "zh_CN": "邕浔片",
+            "zh_TW": "邕潯片"
+          }
+        }
+      }
+    },
+    "taikadai": {
+      "_": {
+        "auto": "",
+        "en": "Tai-Kadai",
+        "ko": "",
+        "zh_CN": "",
+        "zh_TW": ""
+      },
+      "hlai": {
+        "_": {
+          "auto": "",
+          "en": "Hlai",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": ""
+        }
+      },
+      "kamsui": {
+        "_": {
+          "auto": "",
+          "en": "",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": ""
+        }
+      },
+      "kra": {
+        "_": {
+          "auto": "",
+          "en": "Kra",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": ""
+        }
+      },
+      "lakkja": {
+        "_": {
+          "auto": "",
+          "en": "Lakkja",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": ""
+        }
+      },
+      "ongbe": {
+        "_": {
+          "auto": "",
+          "en": "Ong Be",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": ""
+        }
+      },
+      "tai": {
+        "_": {
+          "auto": "",
+          "en": "Tai-Zhuang",
+          "ko": "",
+          "zh_CN": "",
+          "zh_TW": ""
+        },
+        "tai": {
+          "_": {
+            "auto": "",
+            "en": "Tai",
+            "ko": "",
+            "zh_CN": "",
+            "zh_TW": ""
+          },
+          "ahom": {
+            "_": {
+              "auto": "",
+              "en": "Ahom",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "phake": {
+            "_": {
+              "auto": "",
+              "en": "Phake",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          },
+          "shan": {
+            "_": {
+              "auto": "",
+              "en": "Shan",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            }
+          }
+        },
+        "zhuang": {
+          "_": {
+            "auto": "Vahcuengh",
+            "en": "Zhuang",
+            "ko": "壯語",
+            "zh_CN": "壮语",
+            "zh_TW": "壯語"
+          },
+          "north": {
+            "_": {
+              "auto": "",
+              "en": "Běizhuang",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            },
+            "guibei": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "桂北",
+                "zh_TW": ""
+              }
+            },
+            "guibian": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "桂边",
+                "zh_TW": ""
+              }
+            },
+            "hongshuihe": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "红水河",
+                "zh_TW": ""
+              }
+            },
+            "lianshan": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "",
+                "zh_TW": ""
+              }
+            },
+            "liujiang": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "柳江",
+                "zh_TW": ""
+              }
+            },
+            "pingguo": {
+              "_": {
+                "auto": "",
+                "en": "Pingguo",
+                "ko": "",
+                "zh_CN": "",
+                "zh_TW": ""
+              }
+            },
+            "qiubei": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "",
+                "zh_TW": ""
+              }
+            },
+            "yongbei": {
+              "_": {
+                "auto": "",
+                "en": "Yōngběi",
+                "ko": "",
+                "zh_CN": "邕北",
+                "zh_TW": ""
+              },
+              "binyang": {
+                "auto": "",
+                "en": "Binyang",
+                "ko": "",
+                "zh_CN": "",
+                "zh_TW": ""
+              },
+              "wuming": {
+                "_": {
+                  "auto": "",
+                  "en": "Wuming",
+                  "ko": "",
+                  "zh_CN": "",
+                  "zh_TW": ""
+                }
+              }
+            },
+            "youjiang": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "右江",
+                "zh_TW": ""
+              }
+            }
+          },
+          "south": {
+            "_": {
+              "auto": "",
+              "en": "Southern",
+              "ko": "",
+              "zh_CN": "",
+              "zh_TW": ""
+            },
+            "dejing": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "得靖",
+                "zh_TW": ""
+              }
+            },
+            "wenma": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "文马",
+                "zh_TW": ""
+              }
+            },
+            "yanguang": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "砚广",
+                "zh_TW": ""
+              }
+            },
+            "yongnan": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "邕南",
+                "zh_TW": ""
+              }
+            },
+            "zuojiang": {
+              "_": {
+                "auto": "",
+                "en": "",
+                "ko": "",
+                "zh_CN": "左江",
+                "zh_TW": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }
