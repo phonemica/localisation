@@ -1,3 +1,8 @@
+/*
+  Simple sorting of the object by key. Nothing Fancy, but will be
+  run on changes to keep things consistent across languages
+*/
+
 const fs = require('fs')
 const parseJson = require('parse-json');
 

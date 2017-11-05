@@ -1,0 +1,837 @@
+{
+	"home": {
+		"en": "Home",
+		"zh-tw": "首頁",
+		"zh-cn": "首页",
+		"ko": "홈"
+	},
+	"searchbox": {
+		"en": "Search",
+		"zh-tw": "搜尋",
+		"zh-cn": "搜索",
+		"ko": "검색",
+	},
+	"search_title": {
+		"en": "Search",
+		"zh-tw": "搜尋",
+		"zh-cn": "搜索",
+		"ko": "검색",
+	},
+	"map": {
+		"en": "Map",
+		"zh-tw": "<span class='uk-hidden-small'>方言</span>地圖",
+		"zh-cn": "<span class='uk-hidden-small'>方言</span>地图",
+		"ko": "지도"
+	},
+	"volunteers": {
+		"en": "Volunteers",
+		"zh-tw": "志愿者",
+		"zh-cn": "志工",
+		"ko": "지원자"
+	},
+	"blog": {
+		"en": "Blog",
+		"zh-tw": "網誌",
+		"zh-cn": "博客",
+		"ko": "블로그"
+	},
+	"support": {
+		"en": "Support the project",
+		"zh-tw": "支持我們",
+		"zh-cn": "支持我们",
+		"ko": "후원하기",
+		"url": "/support",
+		"id": "supportbtn"
+	},
+	"about": {
+		"en": "About",
+		"zh-tw": "關於<span class='uk-hidden-small'>我們</span>",
+		"zh-cn": "关于<span class='uk-hidden-small'>我们</span>",
+		"ko": "소개"
+	},
+	"aboutus": {
+		"en": "About Us",
+		"zh-tw": "關於我們",
+		"zh-cn": "关于我们",
+		"ko": "회사 소개"
+	},
+	"aboutsite": {
+		"en": "About the Site",
+		"zh-tw": "關於本網站",
+		"zh-cn": "关于本网站",
+		"ko": "사이트에 대하여"
+	},
+	"connect": {
+		"en": "Contact us",
+		"zh-tw": "aboutus",
+		"zh-cn": "联系我们",
+		"ko": "우리와 연락"
+	},
+	"upload": {
+		"en": "Upload",
+		"zh-tw": "我要上傳",
+		"zh-cn": "我要上传",
+		"ko": "업로드"
+	},
+	"browse": {
+		"en": "Browse",
+		"zh-tw": "瀏覽",
+		"zh-cn": "浏览",
+		"ko": "검색"
+	},
+	"browsenewest": {
+		"en": "Newest additions",
+		"zh-tw": "最新",
+		"zh-cn": "最新",
+		"ko": "최신 정보"
+	},
+	"browsefavourites": {
+		"en": "Our favourites",
+		"zh-tw": "我们最喜欢的",
+		"zh-cn": "我們最喜歡的",
+		"ko": "우리의 마음에 드는"
+	},
+	"browsemap": {
+		"en": "Map",
+		"zh-tw": "方言地圖",
+		"zh-cn": "方言地图",
+		"ko": "지도"
+	},
+	"mobilesearch": {
+		"en": "<i class='uk-icon-search'></i> Search",
+		"zh-tw": "<i class='uk-icon-search'></i> 搜尋",
+		"zh-cn": "<i class='uk-icon-search'></i> 搜索",
+		"ko": "<i class='uk-icon-search'></i> 검색"
+	},
+	"mapsearch": {
+		"en": "map search",
+		"zh-tw": "地圖搜尋",
+		"zh-cn": "地图搜索",
+		"ko": "지도 검색"
+	},
+},
+"greeting": {
+	"front": {
+		"en": "Hello ",
+		"zh-tw": "",
+		"zh-cn": "",
+		"ko": "안녕 ",
+		"id": "greeting_front"
+	},
+	"back": {
+		"en": "!",
+		"zh-tw": "，你好！",
+		"zh-cn": "，你好！",
+		"ko": "!",
+		"id": "greeting_back"
+	}
+},
+"signedin": {
+	"settings": {
+		"en": "User Settings",
+		"zh-tw": "帳號設置",
+		"zh-cn": "账号设置",
+		"ko": "설정",
+		"url": "/profile",
+		"id": "signedinbtn"
+	},
+	"profile": {
+		"en": "User profile",
+		"zh-tw": "用戶簡介",
+		"zh-cn": "用户简介",
+		"ko": "사용자 프로필"
+	},
+	"favourites": {
+		"en": "My favourites",
+		"zh-tw": "我最喜歡的",
+		"zh-cn": "我最喜欢的",
+		"ko": "마음에 드는"
+	},
+	"uploads": {
+		"en": "My uploads",
+		"zh-tw": "我上傳的故事",
+		"zh-cn": "我上传的故事",
+		"ko": "업로드"
+	},
+	"comments": {
+		"en": "My comments",
+		"zh-tw": "我的評論",
+		"zh-cn": "我的评论",
+		"ko": "리뷰"
+	},
+	"signout": {
+		"en": "sign out",
+		"zh-tw": "登出",
+		"zh-cn": "登出",
+		"ko": "로그아웃",
+		"url": "/signout",
+		"id": "signoutbtn"
+	}
+},
+"signedout": {
+	"signin": {
+		"en": "sign in",
+		"zh-tw": "登入",
+		"zh-cn": "登入",
+		"ko": "로그인",
+		"id": "signinbtn"
+	},
+	"lostpassword": {
+		"en": "lost password",
+		"zh-tw": "忘記密碼",
+		"zh-cn": "忘记密码",
+		"ko": "비밀번호재설정",
+		"url": "/password",
+		"id": "passwordbtn"
+	},
+	"register": {
+		"en": "register",
+		"zh-tw": "註冊",
+		"zh-cn": "注册",
+		"ko": "등록",
+		"url": "/register",
+		"id": "registerbtn"
+	},
+	"username": {
+		"en": "username",
+		"zh-tw": "帳號",
+		"zh-cn": "账号",
+		"ko": "아이디"
+	},
+	"password": {
+		"en": "password",
+		"zh-tw": "密碼",
+		"zh-cn": "密码",
+		"ko": "비밀번호"
+	}
+},
+"footer": {
+	"copyright": {
+		"en": "<img src='img/cc.png' id='cc'/> 2009-2015 乡音苑 Phonemica. Some rights reserved",
+		"zh-tw": "<img src='img/cc.png' id='cc'/> 2009-2015 乡音苑 Phonemica. 保留部份權利",
+		"zh-cn": "<img src='img/cc.png' id='cc'/> 2009-2015 乡音苑 Phonemica. 保留部份权利",
+		"ko": "<img src='img/cc.png' id='cc'/> 2009-2015 乡音苑 Phonemica. Some rights reserved"
+	},
+	"terms": {
+		"en": "Terms of Use",
+		"zh-tw": "使用條款",
+		"zh-cn": "使用條款",
+		"ko": "이용약관",
+		"url": "/terms",
+		"id": ""
+	},
+	"privacy": {
+		"en": "Privacy Policy",
+		"zh-tw": "隱私權政策",
+		"zh-cn": "隐私权政策",
+		"ko": "개인정보취급방침",
+		"url": "/privacy",
+		"id": ""
+	},
+	"help": {
+		"en": "Help",
+		"zh-tw": "幫助",
+		"zh-cn": "帮助",
+		"ko": "도움",
+		"url": "/help",
+		"id": ""
+	}
+},
+"controls": {
+	"play": {
+		"en": "play",
+		"zh-tw": "播放",
+		"zh-cn": "播放",
+		"ko": ""
+	},
+	"pause": {
+		"en": "pause",
+		"zh-tw": "暫停",
+		"zh-cn": "暂停",
+		"ko": ""
+	},
+	"stop": {
+		"en": "stop",
+		"zh-tw": "停止",
+		"zh-cn": "停止",
+		"ko": ""
+	},
+	"edit": {
+		"en": "edit",
+		"zh-tw": "編輯",
+		"zh-cn": "编辑",
+		"ko": ""
+	},
+	"delete": {
+		"en": "delete",
+		"zh-tw": "刪除",
+		"zh-cn": "删除",
+		"ko": ""
+	},
+	"save": {
+		"en": "save",
+		"zh-tw": "保存",
+		"zh-cn": "保存",
+		"ko": ""
+	},
+	"saved": {
+		"en": "Save successful!",
+		"zh-tw": "已保存！",
+		"zh-cn": "已保存！",
+		"ko": ""
+	},
+	"preview": {
+		"en": "preview",
+		"zh-tw": "試映",
+		"zh-cn": "试映",
+		"ko": ""
+	},
+	"cancel": {
+		"en": "cancel",
+		"zh-tw": "取消",
+		"zh-cn": "取消",
+		"ko": ""
+	},
+	"order": {
+		"en": "Order",
+		"zh-tw": "整理方式",
+		"zh-cn": "整理方式",
+		"ko": "배열하다"
+	},
+	"filter": {
+		"en": "Filter",
+		"zh-tw": "筛选",
+		"zh-cn": "筛选",
+		"ko": "한하다"
+	},
+	"name": {
+		"en": "Name",
+		"zh-tw": "姓名",
+		"zh-cn": "姓名",
+		"ko": "이름"
+	},
+	"hometown": {
+		"en": "Hometown",
+		"zh-tw": "老家",
+		"zh-cn": "老家",
+		"ko": "고향"
+	},
+	"language": {
+		"en": "Language",
+		"zh-tw": "方言",
+		"zh-cn": "方言",
+		"ko": "방언"
+	},
+	"family": {
+		"en": "Language Family",
+		"zh-tw": "語言系",
+		"zh-cn": "语言系",
+		"ko": "언어 교실"
+	}
+},
+"logo": {
+	"wordmark": {
+		"en": "Phonemica",
+		"zh-tw": "鄉音苑",
+		"zh-cn": "乡音苑",
+		"ko": "말모이",
+		"id": ""
+	},
+	"tagline": {
+		"en": "A panorama of local languages, through stories told by their speakers",
+		"zh-tw": "你我的方言故事，描繪各地方言全景",
+		"zh-cn": "你我的方言故事，描绘各地方言全景",
+		"ko": "A panorama of local languages, through stories told by their speakers"
+	}
+},
+"settings": {
+	"signinfirst": {
+		"en": "You must be signed in to view this page.",
+		"zh-tw": "必須登錄後才能看用戶目錄",
+		"zh-cn": "必须登录后才能看用户目录",
+		"ko": "",
+		"id": ""
+	},
+	"title": {
+		"en": "Account Settings",
+		"zh-tw": "帳戶設置",
+		"zh-cn": "帐户设置",
+		"ko": "Account Settings"
+	},
+	"pw_new": {
+		"en": "new password",
+		"zh-tw": "輸入新的密碼",
+		"zh-cn": "输入新的密码",
+		"ko": "new password"
+	},
+	"pw_new2": {
+		"en": "confirm new password",
+		"zh-tw": "再次輸入新密碼",
+		"zh-cn": "再次输入新密码",
+		"ko": "confirm new password"
+	},
+	"pw_current": {
+		"en": "current password",
+		"zh-tw": "當前密碼是必須要的",
+		"zh-cn": "当前密码是必须要的",
+		"ko": "비밀번호"
+	}
+},
+"ui": {
+	"language": {
+		"en": "en",
+		"zh-tw": "界面語言",
+		"zh-cn": "界面语言",
+		"ko": "UI 언어"
+	},
+},
+"register": {
+	"register": {
+		"en": "register",
+		"zh-tw": "註冊新帳號",
+		"zh-cn": "注册新账号",
+		"ko": "등록"
+	},
+	"username": {
+		"en": "username",
+		"zh-tw": "用戶名",
+		"zh-cn": "用户名",
+		"ko": "사용자 이름"
+	},
+	"nickname": {
+		"en": "nickname",
+		"zh-tw": "綽號",
+		"zh-cn": "绰号",
+		"ko": "별명"
+	},
+	"location": {
+		"en": "location",
+		"zh-tw": "居住地",
+		"zh-cn": "居住地",
+		"ko": "거주"
+	},
+	"bio": {
+		"en": "biography",
+		"zh-tw": "自我介紹",
+		"zh-cn": "自我介绍",
+		"ko": "소개"
+	},
+	"email": {
+		"en": "email",
+		"zh-tw": "電子郵箱",
+		"zh-cn": "电子邮箱",
+		"ko": "이메일"
+	},
+	"uilang": {
+		"en": "UI language",
+		"zh-tw": "界面語言",
+		"zh-cn": "界面语言",
+		"ko": "UI 언어"
+	},
+	"password": {
+		"en": "password",
+		"zh-tw": "密碼",
+		"zh-cn": "密码",
+		"ko": "비밀번호"
+	},
+	"password2": {
+		"en": "confirm password",
+		"zh-tw": "確認密碼",
+		"zh-cn": "确认密码",
+		"ko": "비밀번호 확인"
+	},
+	"robot": {
+		"en": "Are you a robot or spammer?",
+		"zh-tw": "您是機器人嗎",
+		"zh-cn": "您是机器人吗",
+		"ko": "당신은 로봇이 할 수 있습니다"
+	},
+	"yes": {
+		"en": "yes",
+		"zh-tw": "是",
+		"zh-cn": "是",
+		"ko": "있다"
+	},
+	"no": {
+		"en": "no",
+		"zh-tw": "否",
+		"zh-cn": "否",
+		"ko": "아니"
+	},
+	"agree": {
+		"en": "I agree to these terms.",
+		"zh-tw": "我同意。",
+		"zh-cn": "我同意。",
+		"ko": "나는 동의한다."
+	},
+	"badboth": {
+		"en": "Please choose a valid username and email address.",
+		"zh-tw": "。",
+		"zh-cn": "。",
+		"ko": "나는 ."
+	},
+	"bademail": {
+		"en": "That email address is not valid. Please double-check it.",
+		"zh-tw": "您輸入的電子郵箱不對。請再看一看",
+		"zh-cn": "您输入的电子邮箱不对。请再看一看",
+		"ko": "That email address is not valid. Please double-check it."
+	},
+	"badusername": {
+		"en": "That username is already in use. Please choose another.",
+		"zh-tw": "您輸入的帳號已經存在",
+		"zh-cn": "您输入的账号已经存在",
+		"ko": "That username is already in use. Please choose another."
+	},
+	"terms": {
+		"en": "<h3>Terms of Use</h3>By using this site, you agree that you will:<br><ul><li>Only submit content that you own the rights to</li>  <li>Transfer the rights for submitted content to Phonemica </li>  <li>NOT submit content that violates the laws of thejurisdiction(s) you reside in</li></ul>At the same time, we want to make clear that Phonemica is creating apublic good:<br><br><div style='margin-left: 40px;'>All recordings onPhonemica are made available for public use under a Creative Commonscopyright license: <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'>Attribution-NonCommercial-ShareAlikeCC BY-NC-SA</a>.<br></div><br>So why do we need you to transfer rights to us, if we're just going tomake the content freely available? Because we're not lawyers and wecan't afford them. We can't run the risk of legal action. So it's a lotcleaner if we have ownership and then permit other people to use thecontent.<br><br>If you're a lawyer who specializes in this sort of thing and would liketo donate your time to help us come up with a better solution, we'd behappy to hear from you.",
+		"zh-tw": "<h3>使用條款</h3>　　進入本網站的用戶，須同意將上傳至本網站或在本網站上發表的所有內容——包括但不局限於筆錄、翻譯、評論、錄音和視頻等，其版權歸本網站所有（所有上傳的內容不得有版權糾紛）；不得上傳任何違反法律的內容，否則後果自負。<br><br>　　　　同時，所有本網站的內容，包括錄音、筆錄、評論<br>　　　　和博客等也都能被大家共享（<a target='_blank' href='http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh'>具體條款參見</a>）。<br><br>　　我們要求擁有本網站上所有內容的所有權和共享權，是因為考慮到萬一將來我們出書或CD的時候，不至於惹上官司。<br><br>　　如果您碰巧是位律師，並且想在這方面更好地幫助我們，不勝歡迎！",
+		"zh-cn": "<h3>使用条款</h3>　　进入本网站的用户，须同意将上传至本网站或在本网站上发表的所有内容——包括但不局限于笔录、翻译、评论、录音和视频等，其版权归本网站所有（所有上传的内容不得有版权纠纷）；不得上传任何违反法律的内容，否则后果自负。<br><br>　　　　同时，所有本网站的内容，包括录音、笔录、评论<br>　　　　和博客等也都能被大家共享（<a target='_blank' href='http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh'>具体条款参见</a>）。<br><br>　　我们要求拥有本网站上所有内容的所有权和共享权，是因为考虑到万一将来我们出书或CD的时候，不至于惹上官司。<br><br>　　如果您碰巧是位律师，并且想在这方面更好地帮助我们，不胜欢迎！",
+		"ko": "<h3>Terms of Use</h3>By using this site, you agree that you will:<br><ul><li>Only submit content that you own the rights to</li>  <li>Transfer the rights for submitted content to Phonemica </li>  <li>NOT submit content that violates the laws of thejurisdiction(s) you reside in</li></ul>At the same time, we want to make clear that Phonemica is creating apublic good:<br><br><div style='margin-left: 40px;'>All recordings onPhonemica are made available for public use under a Creative Commonscopyright license: <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'>Attribution-NonCommercial-ShareAlikeCC BY-NC-SA</a>.<br></div><br>So why do we need you to transfer rights to us, if we're just going tomake the content freely available? Because we're not lawyers and wecan't afford them. We can't run the risk of legal action. So it's a lotcleaner if we have ownership and then permit other people to use thecontent.<br><br>If you're a lawyer who specializes in this sort of thing and would liketo donate your time to help us come up with a better solution, we'd behappy to hear from you."
+	}
+},
+"add_new_storyteller": {
+	"title": {
+		"en": "Add a new storyteller",
+		"zh-tw": "添加新的講述者",
+		"zh-cn": "添加新的讲述者",
+		"ko": "…",
+		"id": ""
+	},
+	"note": {
+		"en": "This page is to add a new story teller to the site. ",
+		"zh-tw": "本頁面用於添加新的講述者信息。",
+		"zh-cn": "本页面用于添加新的讲述者信息。",
+		"ko": "…",
+		"id": ""
+	},
+	"addstorybutton": {
+		"en": "Click here if you want to add a new story to an existing storyteller instead",
+		"zh-tw": "（如想給已有的講述者上傳新的錄音，請點擊這裡。）",
+		"zh-cn": "（如想给已有的讲述者上传新的录音，请点击这里。）",
+		"ko": "…",
+		"id": ""
+	},
+	"name": {
+		"en": "name",
+		"zh-tw": "名字",
+		"zh-cn": "名字",
+		"ko": "…",
+		"id": ""
+	},
+	"birthyear": {
+		"en": "birth year",
+		"zh-tw": "出生年份",
+		"zh-cn": "出生年份",
+		"ko": "…",
+		"id": ""
+	},
+	"sex": {
+		"en": "sex",
+		"zh-tw": "性別",
+		"zh-cn": "性别",
+		"ko": "…",
+		"id": ""
+	},
+	"photo": {
+		"en": "upload a photo",
+		"zh-tw": "上傳照片",
+		"zh-cn": "上传照片",
+		"ko": "…",
+		"id": ""
+	},
+	"muyu": {
+		"en": "native language",
+		"zh-tw": "母語",
+		"zh-cn": "母语",
+		"ko": "…",
+		"id": ""
+	},
+	"hometown": {
+		"en": "Hometown",
+		"zh-tw": "長大的地方",
+		"zh-cn": "长大的地方",
+		"ko": "…",
+		"id": ""
+	},
+	"clickmap": {
+		"en": "Click on the map to confirm the location (zoom in to the location where the speaker grew up, then click once to put a flag on the correct location)",
+		"zh-tw": "請在地圖上確認地點（即講述者長大的地方，可先放大地圖找出準確位置，點擊左鍵一次，地圖上即可出現位置標識）",
+		"zh-cn": "请在地图上确认地点（即讲述者长大的地方，可先放大地图找出准确位置，点击左键一次，地图上即可出现位置标识）",
+		"ko": "…",
+		"id": ""
+	},
+	"finishedtitle": {
+		"en": "finished?",
+		"zh-tw": "",
+		"zh-cn": "",
+		"ko": "…",
+		"id": ""
+	},
+	"finishednote": {
+		"en": "Save the changes to move on to the next step.",
+		"zh-tw": "",
+		"zh-cn": "",
+		"ko": "…",
+		"id": ""
+	},
+},
+"upload_new_story": {
+	"title": {
+		"en": "Upload a new story told by ",
+		"zh-tw": "上傳",
+		"zh-cn": "上传",
+		"ko": "…",
+		"id": ""
+	},
+	"title_after": {
+		"en": "",
+		"zh-tw": "的新錄音",
+		"zh-cn": "的新录音",
+		"ko": "…",
+		"id": ""
+	},
+	"note": {
+		"en": "",
+		"zh-tw": "",
+		"zh-cn": "",
+		"ko": "",
+		"id": ""
+	},
+	"storytitle": {
+		"en": "story title",
+		"zh-tw": "故事標題",
+		"zh-cn": "故事标题",
+		"ko": "…",
+		"id": ""
+	},
+	"date": {
+		"en": "recording date",
+		"zh-tw": "錄音日期",
+		"zh-cn": "录音日期",
+		"ko": "…",
+		"id": ""
+	},
+	"dialect": {
+		"en": "dialect",
+		"zh-tw": "方言",
+		"zh-cn": "方言",
+		"ko": "…",
+		"id": ""
+	}
+},
+"manage_page": {
+	"addtitle": {
+		"en": "Add a new storyteller",
+		"zh-tw": "添加新的講述者",
+		"zh-cn": "添加新的讲述者",
+		"ko": "…",
+		"id": ""
+	},
+	"addnote": {
+		"en": "To upload a recording, you first need to put the storyteller in our system. That way there's someone to link all their stories to.",
+		"zh-tw": "上傳錄音時，需要先添加錄音講述者的信息",
+		"zh-cn": "上传录音时，需要先添加录音讲述者的信息",
+		"ko": "…",
+		"id": ""
+	},
+	"commentnumber": {
+		"en": "comments",
+		"zh-tw": "個評論",
+		"zh-cn": "个评论",
+		"ko": "…",
+		"id": ""
+	},
+	"managestories": {
+		"en": "stories",
+		"zh-tw": "故事",
+		"zh-cn": "故事",
+		"ko": "…",
+		"id": ""
+	},
+	"addbutton": {
+		"en": "Click here to add a new storyteller to the system.",
+		"zh-tw": "點擊這裡添加新的講述者",
+		"zh-cn": "点击这里添加新的讲述者",
+		"ko": "…",
+		"id": ""
+	},
+	"managetitle": {
+		"en": "Manage existing storytellers",
+		"zh-tw": "管理已有的講述者",
+		"zh-cn": "管理已有的讲述者",
+		"ko": "…",
+		"id": ""
+	},
+	"managenote": {
+		"en": "The following people are speakers you've added to the site. Here you can update their info, change photographs or upload more stories told by the same people.",
+		"zh-tw": "以下是你已添加的講述者信息。你可以在這裡更改信息，更換圖像，或者上傳他的更多錄音。",
+		"zh-cn": "以下是你已添加的讲述者信息。你可以在这里更改信息，更换图像，或者上传他的更多录音。",
+		"ko": "…",
+		"id": ""
+	},
+	"name": {
+		"en": "name",
+		"zh-tw": "名字",
+		"zh-cn": "名字",
+		"ko": "…",
+		"id": ""
+	},
+	"birthyear": {
+		"en": "birth year",
+		"zh-tw": "出生年份",
+		"zh-cn": "出生年份",
+		"ko": "…",
+		"id": ""
+	},
+	"sex": {
+		"en": "sex",
+		"zh-tw": "性別",
+		"zh-cn": "性别",
+		"ko": "…",
+		"id": ""
+	},
+	"muyu": {
+		"en": "native language",
+		"zh-tw": "母語",
+		"zh-cn": "母语",
+		"ko": "…",
+		"id": ""
+	},
+	"location": {
+		"en": "location",
+		"zh-tw": "長大的地方",
+		"zh-cn": "长大的地方",
+		"ko": "…",
+		"id": ""
+	},
+	"savebutton": {
+		"en": "Save changes",
+		"zh-tw": "保存更改",
+		"zh-cn": "保存更改",
+		"ko": "…",
+		"id": ""
+	},
+	"bigreduploadbutton": {
+		"en": "UPLOAD A NEW STORY",
+		"zh-tw": "點擊這裡上傳新錄音",
+		"zh-cn": "点击这里上传新录音",
+		"ko": "…",
+		"id": ""
+	}
+},
+"frontpage": {
+	"language_family": {
+		"en": "View",
+		"zh-tw": "语言系",
+		"zh-cn": "語言系",
+		"ko": "어족"
+	},
+	"newestrecordings": {
+		"en": "newest recordings",
+		"zh-tw": "最新上传的故事",
+		"zh-cn": "最新上传的故事",
+		"ko": "…"
+	},
+	"left_title": {
+		"en": "About",
+		"zh-tw": "關於鄉音苑",
+		"zh-cn": "关于乡音苑",
+		"ko": "?"
+	},
+	"left_text": {
+		"en": "Phonemica is a platform for stories told in local vernaculars. Stories are contributed by our users, who record, upload and transcribe regional lore: nursery rhymes & childhood games, preparation of local foods, humorous anecdotes, local history, and much more.<br/><br/>If you have a friend or relative who is a good storyteller, you too can contribute. You can also transcribe and translate stories on the site. Just register, go to a recording in a dialect you understand, and click on the transcript below to transcribe. Phonemica is a community project; we need your help to grow.",
+		"zh-tw": "<p>鄉音苑是一個方言故事平臺。故事錄音由我們的網友志願提供，他們錄製、上傳，並轉錄和編輯各種極具地方特色的方言內容：兒歌/童謠、個人經歷、地方特色飲食、幽默故事、地方歷史、民間故事、風俗習慣、等等等等，不一而足。</p><p>如果您有朋友或親戚很善於講故事，您也可以錄製併發給我們。您也可以在網站轉錄或者翻譯講述的內容。您只要註冊後，打開一個您能聽懂的錄音，在播放條下面的文字記錄區就可以隨意點擊編輯了。鄉音苑是大家的平臺，需要大家的支持才能成長。</p>",
+		"zh-cn": "<p>乡音苑是一个方言故事平台。故事录音由我们的网友志愿提供，他们录制、上传，并转录和编辑各种极具地方特色的方言内容：儿歌/童谣、个人经历、地方特色饮食、幽默故事、地方历史、民间故事、风俗习惯、等等等等，不一而足。</p><p>如果您有朋友或亲戚很善于讲故事，您也可以录制并发给我们。您也可以在网站转录或者翻译讲述的内容。您只要注册后，打开一个您能听懂的录音，在播放条下面的文字记录区就可以随意点击编辑了。乡音苑是大家的平台，需要大家的支持才能成长。</p>",
+		"ko": "…"
+	},
+	"centre_title": {
+		"en": "Support",
+		"zh-tw": "支持",
+		"zh-cn": "支持",
+		"ko": "…"
+	},
+	"centre_text": {
+		"en": "<p>We greatly appreciate contributions to help us cover hosting and maintenance costs.</p><p>Individual contributions can be made to:</p>",
+		"zh-tw": "<p>我們非常歡迎並感謝朋友們對我們進行資助，以便獲得網站服務器租用和日常維護所需的費用。個人資助者請匯款至：</p>",
+		"zh-cn": "<p>我们非常欢迎并感谢朋友们对我们进行资助，以便获得网站服务器租用和日常维护所需的费用。个人资助者请汇款至：</p>",
+		"ko": "…"
+	},
+	"right_title": {
+		"en": "Recent edits",
+		"zh-tw": "最新的编辑",
+		"zh-cn": "最新的編輯",
+		"ko": "…"
+	},
+	"contact": {
+		"en": "Contact us",
+		"zh-tw": "聯繫我們",
+		"zh-cn": "联系我们",
+		"ko": "…"
+	}
+},
+"submissionnotes": {
+	"didntclickmap": {
+		"en": "You must click on the map to confirm your location. Please go back and click on your city location on the map, then re-submit the form.",
+		"zh-tw": "請務必先在地圖上確定你填寫的地點位置。請退回到上一頁，在地圖上找到你填寫的地點位置（越精確越好），點擊左鍵一次，然後再提交。",
+		"zh-cn": "请务必先在地图上确定你填写的地点位置。请退回到上一页，在地图上找到你填写的地点位置（越精确越好），点击左键一次，然后再提交。",
+		"ko": "…"
+	}
+},
+"mowerlabels": {
+	"b": {
+		"en": "Dialectal transcript",
+		"zh-tw": "方言直錄",
+		"zh-cn": "方言直录",
+		"ko": ""
+	},
+	"p": {
+		"en": "Romanization",
+		"zh-tw": "註音",
+		"zh-cn": "注音",
+		"ko": ""
+	},
+	"i": {
+		"en": "IPA",
+		"zh-tw": "國際音標",
+		"zh-cn": "国际音标",
+		"ko": ""
+	},
+	"h": {
+		"en": "Mandarin translation",
+		"zh-tw": "普通話翻譯",
+		"zh-cn": "普通话翻译",
+		"ko": ""
+	},
+	"e": {
+		"en": "English translation",
+		"zh-tw": "英文翻譯",
+		"zh-cn": "英文翻译",
+		"ko": ""
+	},
+	"message": {
+		"en": "No one has created any segments for this recording yet. Click on the waveform image above to add a new phrase.",
+		"zh-tw": "這一段錄音需要切成一節一節的小段才能進行文字記錄的工作。創制新節，請您在上面的波形圖單擊",
+		"zh-cn": "这一段录音需要切成一节一节的小段才能进行文字记录的工作。创制新节，请您在上面的波形图单击",
+		"ko": ""
+	}
+},
+"managecontrols": {
+	"delete": {
+		"en": "Delete this story",
+		"zh-tw": "刪除這個故事",
+		"zh-cn": "删除这个故事",
+		"ko": "…"
+	},
+	"confirmdelete": {
+		"en": "Are you sure you want to delete this story?\nThis is your last chance to cancel.",
+		"zh-tw": "您確定要刪除這個故事嗎？這是你最後的機會取消。",
+		"zh-cn": "您确定要删除这个故事吗？这是你最后的机会取消。",
+		"ko": "…"
+	},
+	"rightserror": {
+		"en": "You don't have sufficient rights to do this. Make sure the file you are trying to delete is your own.",
+		"zh-tw": "",
+		"zh-cn": "",
+		"ko": "…"
+	}
+}

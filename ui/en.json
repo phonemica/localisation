@@ -1,137 +1,137 @@
 {
-	"sitename": "鄉音苑",
+	"sitename": "乡音苑",
 	"nav": {
-		"dialectmap": "方言地圖",
-		"upload": "上傳",
-		"home": "首頁",
-		"manage": "管理",
-		"menu": "菜單",
+		"dialectmap": "map",
+		"upload": "upload",
+		"home": "home",
+		"manage": "manage",
+		"menu": "menu",
 		"login": {
-			"_": "登錄",
-			"username": "用戶名",
-			"password": "密碼",
-			"forgotpassword": "我忘記密碼"
+			"_": "sign in",
+			"username": "username",
+			"password": "password",
+			"forgotpassword": "forgot password"
 		},
 		"logout": {
-			"_": "登出",
-			"signedinas": "登錄為"
+			"_": "sign out",
+			"signedinas": "signed in as "
 		},
 		"register": {
-			"_": "註冊",
-			"clickto": "點擊這裡註冊"
+			"_": "register",
+			"clickto": "click here to register"
 		},
 		"locale": {
-			"menu": "界面語言",
-			"en": "英文",
-			"ko": "韓文",
-			"my": "緬甸語",
-			"zh_CN": "中國大陸，新加坡",
-			"zh_HK": "香港",
-			"zh_SG": "新加坡",
-			"zh_TW": "臺灣，香港，澳門"
+			"menu": "interface language",
+			"en": "English",
+			"ko": "Korean",
+			"my": "Burmese",
+			"zh-cn": "Simplified Chinese (China)",
+			"zh-hk": "Traditional Chinese (Hong Kong)",
+			"zh-sg": "Simplified Chinese (Singapore)",
+			"zh-tw": "Traditional Chinese (Taiwan)"
 		},
 		"search": {
 			"_": "search",
-			"general": "搜索",
-			"language": "方言搜索",
-			"location": "地名搜索",
-			"transctipt": "地名搜索"
+			"general": "search",
+			"language": "language search",
+			"location": "location search",
+			"transctipt": "transcript search"
 		}
 	},
 	"lang": {
 		"sinitic": {
-			"desc": "官話、粵語、客語、吳語等",
-			"_": "漢語系",
+			"desc": "Mandarin, Cantonese etc",
+			"_": "Sinitic",
 			"guanhua": {
-				"desc": "包括普通話",
-				"_": "官話"
+				"desc": " ",
+				"_": "Mandarin"
 			},
 			"wu": {
-				"desc": "上海、蘇州、溫州等",
-				"_": "吳語"
+				"desc": "incl. Shanghainese",
+				"_": "Wu"
 			},
 			"jin": {
-				"desc": "陝西話",
-				"_": "晉語"
+				"desc": "",
+				"_": "Jin"
 			},
 			"yue": {
-				"desc": "廣東、澳門、香港等",
-				"_": "粵語"
+				"desc": "incl. Cantonese",
+				"_": "Yue"
 			},
 			"hakka": {
-				"desc": "也稱為客家話",
-				"_": "客語"
+				"desc": "",
+				"_": "Hakka"
 			},
 			"min": {
-				"desc": "福建話、臺灣話、潮州話",
-				"_": "閩語"
+				"desc": "Hokkien, Taiwanese, Teochew etc",
+				"_": "Min"
 			},
 			"hui": {
-				"desc": "也稱為徽州話、安徽當地方言",
-				"_": "徽語"
+				"desc": "spoken in Anhui",
+				"_": "Huizhou"
 			},
 			"gan": {
 				"desc": "",
-				"_": "贛語"
+				"_": "Gan"
 			},
 			"xiang": {
-				"desc": "包括長沙方言",
-				"_": "湘語"
+				"desc": "incl. Changsha",
+				"_": "Xiang"
 			},
 			"waxiang": {
-				"desc": "也稱為鄉話",
-				"_": "瓦鄉"
+				"desc": "",
+				"_": "Waxiang"
 			}
 		},
 		"hmongmien": {
 			"_": "Hmong-Mien"
 		},
 		"tibetoburman": {
-			"desc": "藏語、緬語、彝語等",
-			"_": "藏緬語系"
+			"desc": "Tibetan, Burmese etc.",
+			"_": "Tibeto-Burman"
 		},
 		"lolo": {
-			"_": "彝語支",
-			"desc": "Lolo ／ Ngwi",
+			"_": "Lolo ／ Ngwi",
+			"desc": "",
 			"yi": {
-				"_": "彝語、諾蘇語",
+				"_": "Yi",
 				"desc": "ꆈꌠꉙ"
 			}
 		},
 		"sal": {
-			"_": "彝語支",
-			"desc": "也稱為北那噶",
+			"_": "Sal",
+			"desc": "incl. Northern Naga",
 			"jingpo": {
-				"_": "景頗語",
-				"desc": "也稱為克欽語"
+				"_": "Jingpaw",
+				"desc": "a.k.a. Singpho, Kachin"
 			},
 			"tangsa": {
-				"_": "冢子語",
+				"_": "Tangsa",
 				"-": "တန်ရှန်း",
-				"desc": "也稱為當薩語"
+				"desc": ""
 			}
 		},
 		"tai": {
-			"_": "壯侗語系",
-			"desc": "傣語、壯語等、撣語",
+			"_": "Tai-Kadai",
+			"desc": "",
 			"zhuang": {
-				"_": "壯語",
+				"_": "Zhuang",
 				"desc": "Vahcuengh"
 			},
 			"tai": {
-				"_": "傣語",
-				"desc": "包括泰國話、撣語",
+				"_": "Tai",
+				"desc": "incl. Thai, Shan",
 				"shan": {
 					"-": "လိၵ်ႈတ"
 				}
 			}
 		},
 		"nandao": {
-			"_": "南島語",
-			"desc": "Austronesian",
+			"_": "Austronesian",
+			"desc": "",
 			"atayal": {
-				"_": "泰雅語",
-				"desc": "Atayal",
+				"_": "Atayal",
+				"desc": "",
 				"matuuwal": {
 					"_": "Matu'uwal"
 				}
@@ -140,39 +140,39 @@
 	},
 	"home": {
 		"about": {
-			"title": "關於鄉音苑",
+			"title": "About Us",
 			"_": ["鄉音苑是一個方言故事平臺。故事錄音由我們的網友志願提供，他們錄製、上傳，並轉錄和編輯各種極具地方特色的方言內容：兒歌/童謠、個人經歷、地方特色飲食、幽默故事、地方歷史、民間故事、風俗習慣、等等等等，不一而足。", "如果您有朋友或親戚很善於講故事，您也可以錄製併發給我們。您也可以在網站轉錄或者翻譯講述的內容。您只要註冊後，打開一個您能聽懂的錄音，在播放條下面的文字記錄區就可以隨意點擊編輯了。鄉音苑是大家的平臺，需要大家的支持才能成長。"]
 		},
 		"support": {
-			"title": "支持",
+			"title": "Support",
 			"_": ["我們非常歡迎並感謝朋友們對我們進行資助，以便獲得網站服務器租用和日常維護所需的費用。個人資助者請匯款至：", "alipay: siyuanzhi@gmail.com"]
 		},
 		"connect": {
-			"title": "聯繫我們",
-			"_": ["電郵：yhilan.ko@gmail.com"]
+			"title": "Connect",
+			"_": ["email: yhilan.ko@gmail.com"]
 		},
 		"activity": {
-			"title": "最新的編輯"
+			"title": "Recent edits"
 		}
 	},
 	"transcript": {
 		"placeholders": {
 			"fangyan": "方言直錄",
-			"guoyu": "普通話",
-			"roman": "羅馬字",
-			"ipa": "國際音標",
-			"english": "英文翻譯"
+			"guoyu": "mandarin",
+			"roman": "romanisation",
+			"ipa": "IPA",
+			"english": "English"
 		}
 	},
 	"entry": {
-		"commentcount": "評論",
-		"recentcomments": "最新評論"
+		"commentcount": "comments",
+		"recentcomments": "Recent comments"
 	},
 	"controls": {
 		"audio": {
-			"play": "放音",
-			"pause": "暫停",
-			"stop": "停止"
+			"play": "play",
+			"pause": "pause",
+			"stop": "stop"
 		}
 	},
 	"addspeaker": {
@@ -189,7 +189,7 @@
 		"intro": ["Use this form to edit the storyteller's information"]
 	},
 	"terms": {
-		"title": "服務條款",
+		"title": "Terms of Use",
 		"body": [{
 				"p": [
 					"本服務條款是您與鄉音苑網絡之間的協議，並在必要的時候進行修訂，且無需另行通知。修訂後的條款一旦在網頁上公佈即有效代替原來的服務條款。"
@@ -235,7 +235,7 @@
 		]
 	},
 	"privacy": {
-		"title": "服務條款",
+		"title": "Privacy Policy",
 		"body": [{
 				"p": ["We value your privacy. This page outlines what information is collected from users and visitors to this site."]
 			},
@@ -262,28 +262,28 @@
 		]
 	},
 	"registration": {
-		"title": "註冊",
-		"subtitle": "新帳號",
-		"username": "用戶名",
-		"asciionly": "註冊的用戶名只能爲數字、小寫英文字母和 “_”。其他特殊字符不可以使用",
+		"title": "Register",
+		"subtitle": "a new account",
+		"username": "username",
+		"asciionly": "usernames must be alphanumeric but can include '_'",
 		"nameistaken": "This username is already taken",
-		"nick": "綽號／顯示名稱",
-		"email": "電郵地址",
+		"nick": "nickname",
+		"email": "email address",
 		"emailinvalid": "must use a valid email address",
-		"password": "密碼",
-		"passwordagain": "確認密碼",
+		"password": "password",
+		"passwordagain": "confirm password",
 		"badpassword": "The passwords do not match",
-		"locale": "本地環境",
-		"robot": "您是機器人嗎？",
-		"yes": "是",
-		"no": "否",
-		"location": "國家、地區",
-		"required": "必要",
+		"locale": "site language for menus",
+		"robot": "Are you a robot?",
+		"yes": "yes",
+		"no": "no",
+		"location": "location",
+		"required": "required",
 		"success": {
-			"title": "註冊成功！",
+			"title": "Success!",
 			"top":[
-				"恭喜您。您的鄉音苑帳戶已註冊成功。",
-				"您註冊的帳號為："
+				"Congratulations. You have successfully registered.",
+				"Your registered username:"
 			],
 			"body": [{
 				"p": [
@@ -293,18 +293,18 @@
 	},
 	"footer": {
 		"license": "署名，非商業性使用，相同方式共享 4.0 國際",
-		"terms": "使用條款",
-		"privacypolicy": "隱私權政策",
-		"rights": "保留部份權利",
+		"terms": "Terms of Use",
+		"privacypolicy": "Privacy Policy",
+		"rights": "Some rights reserved",
 		"git": {
-			"mainrepo": "項目倉庫",
-			"localisationrepo": "本地化倉庫"
+			"mainrepo": "main repo",
+			"localisationrepo": "localisation"
 		}
 	},
 	"error": {
 		"fourohfour": {
-			"name": "404錯誤",
-			"description": "抱歉，找不到你想查找的網頁"
+			"name": "404",
+			"description": "Sorry. The page you are looking for does not exist."
 		}
 	}
 }

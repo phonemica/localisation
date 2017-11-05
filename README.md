@@ -6,11 +6,15 @@ This repo is pulled in its entirety to the `/locales` directory on the server.
 
 ## Directory Structure
 
+### `/docs`
+
+Documentation on the localisation project.
+
 ### `/ui/`
 
 This directory contains almost all localised terms and texts. Each localisation gets its own `.json` file, which should be identical in structure to every other localisations file.
 
-The keys for each node in the JSON file reflect the structure of the site, and each is given a name meant to make clear to editors what the given text is referring to. 
+The keys for each node in the JSON file reflect the structure of the site, and each is given a name meant to make clear to editors what the given text is referring to.
 
 The easiest way to contribute new localisations is to simply copy one of the existing files, rename it to the ISO 639-1 language code, and start translating. Using Spanish as an example, the steps are as follows:
 
