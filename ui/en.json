@@ -21,7 +21,7 @@
 			"clickto": "click here to register"
 		},
 		"locale": {
-			"menu": "interface language",
+			"menu": "Change UI language",
 			"en": "English",
 			"ko": "Korean",
 			"my": "Burmese",
@@ -261,9 +261,13 @@
 			}
 		]
 	},
+	"settings": {
+		"title": "Settings",
+		"subtitle": " for your account"
+	},
 	"registration": {
 		"title": "Register",
-		"subtitle": "a new account",
+		"subtitle": " a new account",
 		"username": "username",
 		"asciionly": "usernames must be alphanumeric but can include '_'",
 		"nameistaken": "This username is already taken",
@@ -281,14 +285,25 @@
 		"required": "required",
 		"success": {
 			"title": "Success!",
-			"top":[
+			"top": [
 				"Congratulations. You have successfully registered.",
 				"Your registered username:"
 			],
 			"body": [{
 				"p": [
-					"To sign in, click the menu icon (<i class='fa fa-navicon' id='menuicon' aria-hidden='true'></i>) in the top right corner. There you can add your username and password to sign in."]
+					"To sign in, click the menu icon (<i class='fa fa-navicon' id='menuicon' aria-hidden='true'></i>) in the top right corner. There you can add your username and password to sign in."
+				]
 			}]
+		}
+	},
+	"storyteller": {
+		"add": {
+			"title": "add storyteller",
+			"contents": ""
+		},
+		"edit": {
+			"title": "edit storyteller",
+			"contents": ""
 		}
 	},
 	"footer": {
@@ -302,9 +317,17 @@
 		}
 	},
 	"error": {
+		"notsignedin": {
+			"name": ["Oops", "Dang", "Shoot", "Bummer", "Shucks"],
+			"description": "You must be signed in to do this"
+		},
 		"fourohfour": {
 			"name": "404",
 			"description": "Sorry. The page you are looking for does not exist."
+		},
+		"fivehundred": {
+			"name": "500錯誤",
+			"description": "抱歉，服務器瘋掉了"
 		}
 	}
 }

@@ -305,6 +305,10 @@
 		"fourohfour": {
 			"name": "404錯誤",
 			"description": "抱歉，找不到你想查找的網頁"
+		},
+		"fivehundred": {
+			"name": "500錯誤",
+			"description": "抱歉，服務器瘋掉了"
 		}
 	}
 }

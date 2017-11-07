@@ -245,18 +245,25 @@
 					"When registering for an account with this site, we request a verifiable email address in order to reduce spam and automated registrations. This email address also serves as a point of contact in case such a need arise. To date no such need has ever arisen, but we like to know it's there.",
 					"We also monitor usage data on the site through Google Analytics in order to better understand traffic and usage patterns. We do not store this information. The privacy policy for Google Analytics is available at [support.google.com/analytics/answer/6004245?hl=en](http://support.google.com/analytics/answer/6004245?hl=en)",
 					"If you contact us and provide us with information, we may keep a record of that correspondence and information",
-					"We do not record any personal identifying information beyond what is provided as names by users of the site. The only information we possess is whatever information is publicly visible on the site."
+					"We do not record any personal identifying information beyond what is provided as names by users of the site. The only information we possess is whatever information is publicly visible on the site.",
+					"We do not track your location beyond the information provided by Google Analytics."
 				]
 			}, {
 				"h": "What we share",
 				"p": [
-					"Unless required by law, we will not share, sell or distribute any personal information you provide to us without your consent."
+					"Unless required by law, we will not share, sell or distribute any personal information you provide to us without your consent. We do not sell your data."
 				]
 			}, {
 				"h": "Cookies",
 				"p": [
 					"We use cookies to allow a consistent experience between visits of the site. When you sign in to the website, a cookie is created to hold basic session information. This allows you to not need to sign in again upon very subsequent visit. This cookie remains on your computer after you close your browser and may be used by your browser on subsequent visits to our websites. No personally identifying information is stored in this cookie beyond your username.",
 					"If you do not wish to have cookies placed on your computers, please set your browsers to refuse cookies before visiting our websites and using our services."
+				]
+			}, {
+				"h": "Advertising",
+				"p": [
+					"We do not sell advertising space on the site to third party advertisers.",
+					"If you see ads on the site, let us know."
 				]
 			}
 		]
@@ -281,14 +288,25 @@
 		"required": "必要",
 		"success": {
 			"title": "註冊成功！",
-			"top":[
+			"top": [
 				"恭喜您。您的鄉音苑帳戶已註冊成功。",
 				"您註冊的帳號為："
 			],
 			"body": [{
 				"p": [
-					"To sign in, click the menu icon (<i class='fa fa-navicon' id='menuicon' aria-hidden='true'></i>) in the top right corner. There you can add your username and password to sign in."]
+					"To sign in, click the menu icon (<i class='fa fa-navicon' id='menuicon' aria-hidden='true'></i>) in the top right corner. There you can add your username and password to sign in."
+				]
 			}]
+		}
+	},
+	"storyteller": {
+		"add": {
+			"title": "add storyteller",
+			"contents": ""
+		},
+		"edit": {
+			"title": "edit storyteller",
+			"contents": ""
 		}
 	},
 	"footer": {
@@ -302,9 +320,17 @@
 		}
 	},
 	"error": {
+		"notsignedin": {
+			"name": ["哎呀！", "唷喂！", "哇靠", "哎呦！"],
+			"description": "您先得登錄"
+		},
 		"fourohfour": {
 			"name": "404錯誤",
 			"description": "抱歉，找不到你想查找的網頁"
+		},
+		"fivehundred": {
+			"name": "500錯誤",
+			"description": "抱歉，服務器瘋掉了"
 		}
 	}
 }
