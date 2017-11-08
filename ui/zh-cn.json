@@ -29,9 +29,22 @@
     "recentcomments": "最新评论"
   },
   "error": {
+    "fivehundred": {
+      "description": "抱歉，服务器疯掉了",
+      "name": "500错误"
+    },
     "fourohfour": {
       "description": "抱歉，找不到你想查找的网页",
       "name": "404错误"
+    },
+    "notsignedin": {
+      "description": "您先得登录",
+      "name": [
+        "哎呀！",
+        "唷喂！",
+        "哇靠",
+        "哎呦！"
+      ]
     }
   },
   "footer": {
@@ -93,8 +106,8 @@
       "desc": "Austronesian"
     },
     "sal": {
-      "_": "北那噶",
-      "desc": "",
+      "_": "彝语支",
+      "desc": "也称为北那噶",
       "jingpo": {
         "_": "景颇语",
         "desc": "也称为克钦语"
@@ -220,13 +233,14 @@
           "When registering for an account with this site, we request a verifiable email address in order to reduce spam and automated registrations. This email address also serves as a point of contact in case such a need arise. To date no such need has ever arisen, but we like to know it's there.",
           "We also monitor usage data on the site through Google Analytics in order to better understand traffic and usage patterns. We do not store this information. The privacy policy for Google Analytics is available at [support.google.com/analytics/answer/6004245?hl=en](http://support.google.com/analytics/answer/6004245?hl=en)",
           "If you contact us and provide us with information, we may keep a record of that correspondence and information",
-          "We do not record any personal identifying information beyond what is provided as names by users of the site. The only information we possess is whatever information is publicly visible on the site."
+          "We do not record any personal identifying information beyond what is provided as names by users of the site. The only information we possess is whatever information is publicly visible on the site.",
+          "We do not track your location beyond the information provided by Google Analytics."
         ]
       },
       {
         "h": "What we share",
         "p": [
-          "Unless required by law, we will not share, sell or distribute any personal information you provide to us without your consent."
+          "Unless required by law, we will not share, sell or distribute any personal information you provide to us without your consent. We do not sell your data."
         ]
       },
       {
@@ -234,6 +248,13 @@
         "p": [
           "We use cookies to allow a consistent experience between visits of the site. When you sign in to the website, a cookie is created to hold basic session information. This allows you to not need to sign in again upon very subsequent visit. This cookie remains on your computer after you close your browser and may be used by your browser on subsequent visits to our websites. No personally identifying information is stored in this cookie beyond your username.",
           "If you do not wish to have cookies placed on your computers, please set your browsers to refuse cookies before visiting our websites and using our services."
+        ]
+      },
+      {
+        "h": "Advertising",
+        "p": [
+          "We do not sell advertising space on the site to third party advertisers.",
+          "If you see ads on the site, let us know."
         ]
       }
     ],
@@ -273,6 +294,16 @@
     "yes": "是"
   },
   "sitename": "乡音苑",
+  "storyteller": {
+    "add": {
+      "contents": "",
+      "title": "add storyteller"
+    },
+    "edit": {
+      "contents": "",
+      "title": "edit storyteller"
+    }
+  },
   "terms": {
     "body": [
       {
@@ -329,16 +360,6 @@
       "guoyu": "普通话",
       "ipa": "国际音标",
       "roman": "罗马字"
-    }
-  },
-  "storyteller": {
-    "add": {
-      "contents": "",
-      "title": ""
-    },
-    "edit": {
-      "contents": "",
-      "title": ""
     }
   }
 }

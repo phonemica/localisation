@@ -1,336 +1,365 @@
 {
-	"sitename": "鄉音苑",
-	"nav": {
-		"dialectmap": "方言地圖",
-		"upload": "上傳",
-		"home": "首頁",
-		"manage": "管理",
-		"menu": "菜單",
-		"login": {
-			"_": "登錄",
-			"username": "用戶名",
-			"password": "密碼",
-			"forgotpassword": "我忘記密碼"
-		},
-		"logout": {
-			"_": "登出",
-			"signedinas": "登錄為"
-		},
-		"register": {
-			"_": "註冊",
-			"clickto": "點擊這裡註冊"
-		},
-		"locale": {
-			"menu": "界面語言",
-			"en": "英文",
-			"ko": "韓文",
-			"my": "緬甸語",
-			"zh_CN": "中國大陸，新加坡",
-			"zh_HK": "香港",
-			"zh_SG": "新加坡",
-			"zh_TW": "臺灣，香港，澳門"
-		},
-		"search": {
-			"_": "search",
-			"general": "搜索",
-			"language": "方言搜索",
-			"location": "地名搜索",
-			"transctipt": "地名搜索"
-		}
-	},
-	"languagemenu": {
-		"sinitic": {
-			"desc": "官話、粵語、客語、吳語等",
-			"_": "漢語系",
-			"guanhua": {
-				"desc": "包括普通話",
-				"_": "官話"
-			},
-			"wu": {
-				"desc": "上海、蘇州、溫州等",
-				"_": "吳語"
-			},
-			"jin": {
-				"desc": "陝西話",
-				"_": "晉語"
-			},
-			"yue": {
-				"desc": "廣東、澳門、香港等",
-				"_": "粵語"
-			},
-			"hakka": {
-				"desc": "也稱為客家話",
-				"_": "客語"
-			},
-			"min": {
-				"desc": "福建話、臺灣話、潮州話",
-				"_": "閩語"
-			},
-			"hui": {
-				"desc": "也稱為徽州話、安徽當地方言",
-				"_": "徽語"
-			},
-			"gan": {
-				"desc": "",
-				"_": "贛語"
-			},
-			"xiang": {
-				"desc": "包括長沙方言",
-				"_": "湘語"
-			},
-			"waxiang": {
-				"desc": "也稱為鄉話",
-				"_": "瓦鄉"
-			}
-		},
-		"hmongmien": {
-			"_": "Hmong-Mien"
-		},
-		"tibetoburman": {
-			"desc": "藏語、緬語、彝語等",
-			"_": "藏緬語系"
-		},
-		"lolo": {
-			"_": "彝語支",
-			"desc": "Lolo ／ Ngwi",
-			"yi": {
-				"_": "彝語、諾蘇語",
-				"desc": "ꆈꌠꉙ"
-			}
-		},
-		"sal": {
-			"_": "彝語支",
-			"desc": "也稱為北那噶",
-			"jingpo": {
-				"_": "景頗語",
-				"desc": "也稱為克欽語"
-			},
-			"tangsa": {
-				"_": "冢子語",
-				"-": "တန်ရှန်း",
-				"desc": "也稱為當薩語"
-			}
-		},
-		"tai": {
-			"_": "壯侗語系",
-			"desc": "傣語、壯語等、撣語",
-			"zhuang": {
-				"_": "壯語",
-				"desc": "Vahcuengh"
-			},
-			"tai": {
-				"_": "傣語",
-				"desc": "包括泰國話、撣語",
-				"shan": {
-					"-": "လိၵ်ႈတ"
-				}
-			}
-		},
-		"nandao": {
-			"_": "南島語",
-			"desc": "Austronesian",
-			"atayal": {
-				"_": "泰雅語",
-				"desc": "Atayal",
-				"matuuwal": {
-					"_": "Matu'uwal"
-				}
-			}
-		}
-	},
-	"home": {
-		"about": {
-			"title": "關於鄉音苑",
-			"_": ["鄉音苑是一個方言故事平臺。故事錄音由我們的網友志願提供，他們錄製、上傳，並轉錄和編輯各種極具地方特色的方言內容：兒歌/童謠、個人經歷、地方特色飲食、幽默故事、地方歷史、民間故事、風俗習慣、等等等等，不一而足。", "如果您有朋友或親戚很善於講故事，您也可以錄製併發給我們。您也可以在網站轉錄或者翻譯講述的內容。您只要註冊後，打開一個您能聽懂的錄音，在播放條下面的文字記錄區就可以隨意點擊編輯了。鄉音苑是大家的平臺，需要大家的支持才能成長。"]
-		},
-		"support": {
-			"title": "支持",
-			"_": ["我們非常歡迎並感謝朋友們對我們進行資助，以便獲得網站服務器租用和日常維護所需的費用。個人資助者請匯款至：", "alipay: siyuanzhi@gmail.com"]
-		},
-		"connect": {
-			"title": "聯繫我們",
-			"_": ["電郵：yhilan.ko@gmail.com"]
-		},
-		"activity": {
-			"title": "最新的編輯"
-		}
-	},
-	"transcript": {
-		"placeholders": {
-			"fangyan": "方言直錄",
-			"guoyu": "普通話",
-			"roman": "羅馬字",
-			"ipa": "國際音標",
-			"english": "英文翻譯"
-		}
-	},
-	"entry": {
-		"commentcount": "評論",
-		"recentcomments": "最新評論"
-	},
-	"controls": {
-		"audio": {
-			"play": "放音",
-			"pause": "暫停",
-			"stop": "停止"
-		}
-	},
-	"addspeaker": {
-		"intro": ["Before we can upload a story, we need to say something about the person telling the story. Please answer these questions to add your storyteller to the system.", "This is about the person speaking in the recording. If you are uploading a story told to you by someone else, this should be that person's information"],
-		"name": "What is the storyteller's name?",
-		"pseudonym": "You may use a pseudonym",
-		"dob": "What year was the storyteller born?",
-		"sex": "What is the storyteller's sex?",
-		"hometown": "Where is the storyteller from?",
-		"language": "Do you know which language/dialect this is?",
-		"clickmaptoselect": "點擊地圖以選擇您的位置"
-	},
-	"editspeaker": {
-		"intro": ["Use this form to edit the storyteller's information"]
-	},
-	"terms": {
-		"title": "服務條款",
-		"body": [{
-				"p": [
-					"本服務條款是您與鄉音苑網絡之間的協議，並在必要的時候進行修訂，且無需另行通知。修訂後的條款一旦在網頁上公佈即有效代替原來的服務條款。"
-				]
-			},
-			{
-				"h": "本網站的使用",
-				"p": [
-					"您在使用鄉音苑之前需要註冊賬戶。在充分閱讀了《隱私策略》和《服務條款》後提交必要的信息完成註冊。 ",
-					"鄉音苑網絡因此獲取的與您個人及您企業/團隊相關的任何信息均將依照《隱私策略》中的相關條款安全使用。 使用鄉音苑是免費的。"
-				]
-			},
-			{
-				"h": "知識產權聲明",
-				"p": [
-					"未經鄉音苑網絡、用戶或相關權利人書面許可， 任何人不得以任何形式進行使用或創造相關衍生作品。本網站內容包括鄉音苑網絡所有或控制下的內容和第三方所有或控制下，並授權鄉音苑網絡使用的內容。您同意遵守所有適用本網站的版權保護法律法規，以及所有本網站包含的補充性的版權說明或限制。本網站的內容均由相應的機構/個人上傳、維護。對於本站內容的任何使用請遵守內容所附帶的授權協議。如不清楚相應的授權協議請詢問上傳該內容的機構/個人或鄉音苑管理員。"
-				]
-			},
-			{
-				"h": "數據所有權",
-				"p": [
-					"任何在鄉音苑上註冊的賬號上傳的內容的版權均歸上傳者所有，上傳者承擔所有被上傳內容的版權責任。鄉音苑網絡有權在其擁有的網站上，展示上傳者上傳到本網站公共區域的內容。"
-				]
-			},
-			{
-				"h": "個人信息的保護",
-				"p": [
-					"鄉音苑網絡尊重訪問本網站的任何個人的隱私信息。當您訪問本網站的時候可能被要求提供您個人的基本資料(如姓名、電子郵件、電話號碼等)，您可以自行選擇是否提供。對於您提供的個人信息，鄉音苑將根據相關法律進行保密並嚴格保管，不會將這些信息以任何方式提供或展示給任何第三方。",
-					"對於用戶將個人密碼告知他人或與他人共享註冊帳號所導致的任何個人資料泄露，丟失、被盜用或被篡改等,本網站不負任何責任"
-				]
-			},
-			{
-				"h": "不可抗力及免責",
-				"p": [
-					"您理解並同意，在使用本服務的過程中，可能會遇到不可抗力等風險因素，使本服務發生中斷。 不可抗力是指不能預見、不能克服並不能避免且對一方或雙方造成重大影響的客觀事件，包括但不限於自然災害如洪水、地震、瘟疫流行和風暴等以及社會事件如戰爭、動亂、政府行爲等。", "出現上述情況時，鄉音苑網絡將努力在第一時間與相關單位配合，及時進行修復，但是由此給您造成的損失，鄉音苑網絡在法律允許的範圍內免責。"
-				]
-			}, {
-				"h": "生效與終止",
-				"p": [
-					"使用扣釘網絡的服務即視爲您已閱讀本協議並接受本協議的約束。扣釘網絡有權在必要時修改本協議條款，您可以在相關服務頁面查閱最新版本的協議條款。本協議條款變更後，如果您繼續使用扣釘網絡提供的軟件或服務，即視爲您已接受修改後的協議。 如果您不接受修改後的協議，應當停止使用扣釘網絡提供的軟件或服務。扣釘網絡可能會對服務內容進行變更，也可能會中斷、中止或終止服務。"
-				]
-			}
-		]
-	},
-	"privacy": {
-		"title": "服務條款",
-		"body": [{
-				"p": ["We value your privacy. This page outlines what information is collected from users and visitors to this site."]
-			},
-			{
-				"h": "What we collect",
-				"p": [
-					"When registering for an account with this site, we request a verifiable email address in order to reduce spam and automated registrations. This email address also serves as a point of contact in case such a need arise. To date no such need has ever arisen, but we like to know it's there.",
-					"We also monitor usage data on the site through Google Analytics in order to better understand traffic and usage patterns. We do not store this information. The privacy policy for Google Analytics is available at [support.google.com/analytics/answer/6004245?hl=en](http://support.google.com/analytics/answer/6004245?hl=en)",
-					"If you contact us and provide us with information, we may keep a record of that correspondence and information",
-					"We do not record any personal identifying information beyond what is provided as names by users of the site. The only information we possess is whatever information is publicly visible on the site.",
-					"We do not track your location beyond the information provided by Google Analytics."
-				]
-			}, {
-				"h": "What we share",
-				"p": [
-					"Unless required by law, we will not share, sell or distribute any personal information you provide to us without your consent. We do not sell your data."
-				]
-			}, {
-				"h": "Cookies",
-				"p": [
-					"We use cookies to allow a consistent experience between visits of the site. When you sign in to the website, a cookie is created to hold basic session information. This allows you to not need to sign in again upon very subsequent visit. This cookie remains on your computer after you close your browser and may be used by your browser on subsequent visits to our websites. No personally identifying information is stored in this cookie beyond your username.",
-					"If you do not wish to have cookies placed on your computers, please set your browsers to refuse cookies before visiting our websites and using our services."
-				]
-			}, {
-				"h": "Advertising",
-				"p": [
-					"We do not sell advertising space on the site to third party advertisers.",
-					"If you see ads on the site, let us know."
-				]
-			}
-		]
-	},
-	"registration": {
-		"title": "註冊",
-		"subtitle": "新帳號",
-		"username": "用戶名",
-		"asciionly": "註冊的用戶名只能爲數字、小寫英文字母和 “_”。其他特殊字符不可以使用",
-		"nameistaken": "This username is already taken",
-		"nick": "綽號／顯示名稱",
-		"email": "電郵地址",
-		"emailinvalid": "must use a valid email address",
-		"password": "密碼",
-		"passwordagain": "確認密碼",
-		"badpassword": "The passwords do not match",
-		"locale": "本地環境",
-		"robot": "您是機器人嗎？",
-		"yes": "是",
-		"no": "否",
-		"location": "國家、地區",
-		"required": "必要",
-		"success": {
-			"title": "註冊成功！",
-			"top": [
-				"恭喜您。您的鄉音苑帳戶已註冊成功。",
-				"您註冊的帳號為："
-			],
-			"body": [{
-				"p": [
-					"To sign in, click the menu icon (<i class='fa fa-navicon' id='menuicon' aria-hidden='true'></i>) in the top right corner. There you can add your username and password to sign in."
-				]
-			}]
-		}
-	},
-	"storyteller": {
-		"add": {
-			"title": "add storyteller",
-			"contents": ""
-		},
-		"edit": {
-			"title": "edit storyteller",
-			"contents": ""
-		}
-	},
-	"footer": {
-		"license": "署名，非商業性使用，相同方式共享 4.0 國際",
-		"terms": "使用條款",
-		"privacypolicy": "隱私權政策",
-		"rights": "保留部份權利",
-		"git": {
-			"mainrepo": "項目倉庫",
-			"localisationrepo": "本地化倉庫"
-		}
-	},
-	"error": {
-		"notsignedin": {
-			"name": ["哎呀！", "唷喂！", "哇靠", "哎呦！"],
-			"description": "您先得登錄"
-		},
-		"fourohfour": {
-			"name": "404錯誤",
-			"description": "抱歉，找不到你想查找的網頁"
-		},
-		"fivehundred": {
-			"name": "500錯誤",
-			"description": "抱歉，服務器瘋掉了"
-		}
-	}
+  "addspeaker": {
+    "clickmaptoselect": "點擊地圖以選擇您的位置",
+    "dob": "What year was the storyteller born?",
+    "hometown": "Where is the storyteller from?",
+    "intro": [
+      "Before we can upload a story, we need to say something about the person telling the story. Please answer these questions to add your storyteller to the system.",
+      "This is about the person speaking in the recording. If you are uploading a story told to you by someone else, this should be that person's information"
+    ],
+    "language": "Do you know which language/dialect this is?",
+    "name": "What is the storyteller's name?",
+    "pseudonym": "You may use a pseudonym",
+    "sex": "What is the storyteller's sex?"
+  },
+  "controls": {
+    "audio": {
+      "pause": "暫停",
+      "play": "放音",
+      "stop": "停止"
+    }
+  },
+  "editspeaker": {
+    "intro": [
+      "Use this form to edit the storyteller's information"
+    ]
+  },
+  "entry": {
+    "commentcount": "評論",
+    "recentcomments": "最新評論"
+  },
+  "error": {
+    "fivehundred": {
+      "description": "抱歉，服務器瘋掉了",
+      "name": "500錯誤"
+    },
+    "fourohfour": {
+      "description": "抱歉，找不到你想查找的網頁",
+      "name": "404錯誤"
+    },
+    "notsignedin": {
+      "description": "您先得登錄",
+      "name": [
+        "哎呀！",
+        "唷喂！",
+        "哇靠",
+        "哎呦！"
+      ]
+    }
+  },
+  "footer": {
+    "git": {
+      "localisationrepo": "本地化倉庫",
+      "mainrepo": "項目倉庫"
+    },
+    "license": "署名，非商業性使用，相同方式共享 4.0 國際",
+    "privacypolicy": "隱私權政策",
+    "rights": "保留部份權利",
+    "terms": "使用條款"
+  },
+  "home": {
+    "about": {
+      "_": [
+        "鄉音苑是一個方言故事平臺。故事錄音由我們的網友志願提供，他們錄製、上傳，並轉錄和編輯各種極具地方特色的方言內容：兒歌/童謠、個人經歷、地方特色飲食、幽默故事、地方歷史、民間故事、風俗習慣、等等等等，不一而足。",
+        "如果您有朋友或親戚很善於講故事，您也可以錄製併發給我們。您也可以在網站轉錄或者翻譯講述的內容。您只要註冊後，打開一個您能聽懂的錄音，在播放條下面的文字記錄區就可以隨意點擊編輯了。鄉音苑是大家的平臺，需要大家的支持才能成長。"
+      ],
+      "title": "關於鄉音苑"
+    },
+    "activity": {
+      "title": "最新的編輯"
+    },
+    "connect": {
+      "_": [
+        "電郵：yhilan.ko@gmail.com"
+      ],
+      "title": "聯繫我們"
+    },
+    "support": {
+      "_": [
+        "我們非常歡迎並感謝朋友們對我們進行資助，以便獲得網站服務器租用和日常維護所需的費用。個人資助者請匯款至：",
+        "alipay: siyuanzhi@gmail.com"
+      ],
+      "title": "支持"
+    }
+  },
+  "languagemenu": {
+    "hmongmien": {
+      "_": "Hmong-Mien"
+    },
+    "lolo": {
+      "_": "彝語支",
+      "desc": "Lolo ／ Ngwi",
+      "yi": {
+        "_": "彝語、諾蘇語",
+        "desc": "ꆈꌠꉙ"
+      }
+    },
+    "nandao": {
+      "_": "南島語",
+      "atayal": {
+        "_": "泰雅語",
+        "desc": "Atayal",
+        "matuuwal": {
+          "_": "Matu'uwal"
+        }
+      },
+      "desc": "Austronesian"
+    },
+    "sal": {
+      "_": "彝語支",
+      "desc": "也稱為北那噶",
+      "jingpo": {
+        "_": "景頗語",
+        "desc": "也稱為克欽語"
+      },
+      "tangsa": {
+        "-": "တန်ရှန်း",
+        "_": "冢子語",
+        "desc": "也稱為當薩語"
+      }
+    },
+    "sinitic": {
+      "_": "漢語系",
+      "desc": "官話、粵語、客語、吳語等",
+      "gan": {
+        "_": "贛語",
+        "desc": ""
+      },
+      "guanhua": {
+        "_": "官話",
+        "desc": "包括普通話"
+      },
+      "hakka": {
+        "_": "客語",
+        "desc": "也稱為客家話"
+      },
+      "hui": {
+        "_": "徽語",
+        "desc": "也稱為徽州話、安徽當地方言"
+      },
+      "jin": {
+        "_": "晉語",
+        "desc": "陝西話"
+      },
+      "min": {
+        "_": "閩語",
+        "desc": "福建話、臺灣話、潮州話"
+      },
+      "waxiang": {
+        "_": "瓦鄉",
+        "desc": "也稱為鄉話"
+      },
+      "wu": {
+        "_": "吳語",
+        "desc": "上海、蘇州、溫州等"
+      },
+      "xiang": {
+        "_": "湘語",
+        "desc": "包括長沙方言"
+      },
+      "yue": {
+        "_": "粵語",
+        "desc": "廣東、澳門、香港等"
+      }
+    },
+    "tai": {
+      "_": "壯侗語系",
+      "desc": "傣語、壯語等、撣語",
+      "tai": {
+        "_": "傣語",
+        "desc": "包括泰國話、撣語",
+        "shan": {
+          "-": "လိၵ်ႈတ"
+        }
+      },
+      "zhuang": {
+        "_": "壯語",
+        "desc": "Vahcuengh"
+      }
+    },
+    "tibetoburman": {
+      "_": "藏緬語系",
+      "desc": "藏語、緬語、彝語等"
+    }
+  },
+  "nav": {
+    "dialectmap": "方言地圖",
+    "home": "首頁",
+    "locale": {
+      "en": "英文",
+      "ko": "韓文",
+      "menu": "界面語言",
+      "my": "緬甸語",
+      "zh_CN": "中國大陸，新加坡",
+      "zh_HK": "香港",
+      "zh_SG": "新加坡",
+      "zh_TW": "臺灣，香港，澳門"
+    },
+    "login": {
+      "_": "登錄",
+      "forgotpassword": "我忘記密碼",
+      "password": "密碼",
+      "username": "用戶名"
+    },
+    "logout": {
+      "_": "登出",
+      "signedinas": "登錄為"
+    },
+    "manage": "管理",
+    "menu": "菜單",
+    "register": {
+      "_": "註冊",
+      "clickto": "點擊這裡註冊"
+    },
+    "search": {
+      "_": "search",
+      "general": "搜索",
+      "language": "方言搜索",
+      "location": "地名搜索",
+      "transctipt": "地名搜索"
+    },
+    "upload": "上傳"
+  },
+  "privacy": {
+    "body": [
+      {
+        "p": [
+          "We value your privacy. This page outlines what information is collected from users and visitors to this site."
+        ]
+      },
+      {
+        "h": "What we collect",
+        "p": [
+          "When registering for an account with this site, we request a verifiable email address in order to reduce spam and automated registrations. This email address also serves as a point of contact in case such a need arise. To date no such need has ever arisen, but we like to know it's there.",
+          "We also monitor usage data on the site through Google Analytics in order to better understand traffic and usage patterns. We do not store this information. The privacy policy for Google Analytics is available at [support.google.com/analytics/answer/6004245?hl=en](http://support.google.com/analytics/answer/6004245?hl=en)",
+          "If you contact us and provide us with information, we may keep a record of that correspondence and information",
+          "We do not record any personal identifying information beyond what is provided as names by users of the site. The only information we possess is whatever information is publicly visible on the site.",
+          "We do not track your location beyond the information provided by Google Analytics."
+        ]
+      },
+      {
+        "h": "What we share",
+        "p": [
+          "Unless required by law, we will not share, sell or distribute any personal information you provide to us without your consent. We do not sell your data."
+        ]
+      },
+      {
+        "h": "Cookies",
+        "p": [
+          "We use cookies to allow a consistent experience between visits of the site. When you sign in to the website, a cookie is created to hold basic session information. This allows you to not need to sign in again upon very subsequent visit. This cookie remains on your computer after you close your browser and may be used by your browser on subsequent visits to our websites. No personally identifying information is stored in this cookie beyond your username.",
+          "If you do not wish to have cookies placed on your computers, please set your browsers to refuse cookies before visiting our websites and using our services."
+        ]
+      },
+      {
+        "h": "Advertising",
+        "p": [
+          "We do not sell advertising space on the site to third party advertisers.",
+          "If you see ads on the site, let us know."
+        ]
+      }
+    ],
+    "title": "服務條款"
+  },
+  "registration": {
+    "asciionly": "註冊的用戶名只能爲數字、小寫英文字母和 “_”。其他特殊字符不可以使用",
+    "badpassword": "The passwords do not match",
+    "email": "電郵地址",
+    "emailinvalid": "must use a valid email address",
+    "locale": "本地環境",
+    "location": "國家、地區",
+    "nameistaken": "This username is already taken",
+    "nick": "綽號／顯示名稱",
+    "no": "否",
+    "password": "密碼",
+    "passwordagain": "確認密碼",
+    "required": "必要",
+    "robot": "您是機器人嗎？",
+    "subtitle": "新帳號",
+    "success": {
+      "body": [
+        {
+          "p": [
+            "To sign in, click the menu icon (<i class='fa fa-navicon' id='menuicon' aria-hidden='true'></i>) in the top right corner. There you can add your username and password to sign in."
+          ]
+        }
+      ],
+      "title": "註冊成功！",
+      "top": [
+        "恭喜您。您的鄉音苑帳戶已註冊成功。",
+        "您註冊的帳號為："
+      ]
+    },
+    "title": "註冊",
+    "username": "用戶名",
+    "yes": "是"
+  },
+  "sitename": "鄉音苑",
+  "storyteller": {
+    "add": {
+      "contents": "",
+      "title": "add storyteller"
+    },
+    "edit": {
+      "contents": "",
+      "title": "edit storyteller"
+    }
+  },
+  "terms": {
+    "body": [
+      {
+        "p": [
+          "本服務條款是您與鄉音苑網絡之間的協議，並在必要的時候進行修訂，且無需另行通知。修訂後的條款一旦在網頁上公佈即有效代替原來的服務條款。"
+        ]
+      },
+      {
+        "h": "本網站的使用",
+        "p": [
+          "您在使用鄉音苑之前需要註冊賬戶。在充分閱讀了《隱私策略》和《服務條款》後提交必要的信息完成註冊。 ",
+          "鄉音苑網絡因此獲取的與您個人及您企業/團隊相關的任何信息均將依照《隱私策略》中的相關條款安全使用。 使用鄉音苑是免費的。"
+        ]
+      },
+      {
+        "h": "知識產權聲明",
+        "p": [
+          "未經鄉音苑網絡、用戶或相關權利人書面許可， 任何人不得以任何形式進行使用或創造相關衍生作品。本網站內容包括鄉音苑網絡所有或控制下的內容和第三方所有或控制下，並授權鄉音苑網絡使用的內容。您同意遵守所有適用本網站的版權保護法律法規，以及所有本網站包含的補充性的版權說明或限制。本網站的內容均由相應的機構/個人上傳、維護。對於本站內容的任何使用請遵守內容所附帶的授權協議。如不清楚相應的授權協議請詢問上傳該內容的機構/個人或鄉音苑管理員。"
+        ]
+      },
+      {
+        "h": "數據所有權",
+        "p": [
+          "任何在鄉音苑上註冊的賬號上傳的內容的版權均歸上傳者所有，上傳者承擔所有被上傳內容的版權責任。鄉音苑網絡有權在其擁有的網站上，展示上傳者上傳到本網站公共區域的內容。"
+        ]
+      },
+      {
+        "h": "個人信息的保護",
+        "p": [
+          "鄉音苑網絡尊重訪問本網站的任何個人的隱私信息。當您訪問本網站的時候可能被要求提供您個人的基本資料(如姓名、電子郵件、電話號碼等)，您可以自行選擇是否提供。對於您提供的個人信息，鄉音苑將根據相關法律進行保密並嚴格保管，不會將這些信息以任何方式提供或展示給任何第三方。",
+          "對於用戶將個人密碼告知他人或與他人共享註冊帳號所導致的任何個人資料泄露，丟失、被盜用或被篡改等,本網站不負任何責任"
+        ]
+      },
+      {
+        "h": "不可抗力及免責",
+        "p": [
+          "您理解並同意，在使用本服務的過程中，可能會遇到不可抗力等風險因素，使本服務發生中斷。 不可抗力是指不能預見、不能克服並不能避免且對一方或雙方造成重大影響的客觀事件，包括但不限於自然災害如洪水、地震、瘟疫流行和風暴等以及社會事件如戰爭、動亂、政府行爲等。",
+          "出現上述情況時，鄉音苑網絡將努力在第一時間與相關單位配合，及時進行修復，但是由此給您造成的損失，鄉音苑網絡在法律允許的範圍內免責。"
+        ]
+      },
+      {
+        "h": "生效與終止",
+        "p": [
+          "使用扣釘網絡的服務即視爲您已閱讀本協議並接受本協議的約束。扣釘網絡有權在必要時修改本協議條款，您可以在相關服務頁面查閱最新版本的協議條款。本協議條款變更後，如果您繼續使用扣釘網絡提供的軟件或服務，即視爲您已接受修改後的協議。 如果您不接受修改後的協議，應當停止使用扣釘網絡提供的軟件或服務。扣釘網絡可能會對服務內容進行變更，也可能會中斷、中止或終止服務。"
+        ]
+      }
+    ],
+    "title": "服務條款"
+  },
+  "transcript": {
+    "placeholders": {
+      "english": "英文翻譯",
+      "fangyan": "方言直錄",
+      "guoyu": "普通話",
+      "ipa": "國際音標",
+      "roman": "羅馬字"
+    }
+  }
 }
