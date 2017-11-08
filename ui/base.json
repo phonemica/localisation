@@ -14,9 +14,9 @@
   },
   "controls": {
     "audio": {
-      "pause": "pause",
-      "play": "play",
-      "stop": "stop"
+      "pause": "暫停",
+      "play": "放音",
+      "stop": "停止"
     }
   },
   "editspeaker": {
@@ -25,8 +25,8 @@
     ]
   },
   "entry": {
-    "commentcount": "comments",
-    "recentcomments": "Recent comments"
+    "commentcount": "評論",
+    "recentcomments": "最新評論"
   },
   "error": {
     "fivehundred": {
@@ -34,29 +34,28 @@
       "name": "500錯誤"
     },
     "fourohfour": {
-      "description": "Sorry. The page you are looking for does not exist.",
-      "name": "404"
+      "description": "抱歉，找不到你想查找的網頁",
+      "name": "404錯誤"
     },
     "notsignedin": {
-      "description": "You must be signed in to do this",
+      "description": "您先得登錄",
       "name": [
-        "Oops",
-        "Dang",
-        "Shoot",
-        "Bummer",
-        "Shucks"
+        "哎呀！",
+        "唷喂！",
+        "哇靠",
+        "哎呦！"
       ]
     }
   },
   "footer": {
     "git": {
-      "localisationrepo": "localisation",
-      "mainrepo": "main repo"
+      "localisationrepo": "本地化倉庫",
+      "mainrepo": "項目倉庫"
     },
     "license": "署名，非商業性使用，相同方式共享 4.0 國際",
-    "privacypolicy": "Privacy Policy",
-    "rights": "Some rights reserved",
-    "terms": "Terms of Use"
+    "privacypolicy": "隱私權政策",
+    "rights": "保留部份權利",
+    "terms": "使用條款"
   },
   "home": {
     "about": {
@@ -64,23 +63,23 @@
         "鄉音苑是一個方言故事平臺。故事錄音由我們的網友志願提供，他們錄製、上傳，並轉錄和編輯各種極具地方特色的方言內容：兒歌/童謠、個人經歷、地方特色飲食、幽默故事、地方歷史、民間故事、風俗習慣、等等等等，不一而足。",
         "如果您有朋友或親戚很善於講故事，您也可以錄製併發給我們。您也可以在網站轉錄或者翻譯講述的內容。您只要註冊後，打開一個您能聽懂的錄音，在播放條下面的文字記錄區就可以隨意點擊編輯了。鄉音苑是大家的平臺，需要大家的支持才能成長。"
       ],
-      "title": "About Us"
+      "title": "關於鄉音苑"
     },
     "activity": {
-      "title": "Recent edits"
+      "title": "最新的編輯"
     },
     "connect": {
       "_": [
-        "email: yhilan.ko@gmail.com"
+        "電郵：yhilan.ko@gmail.com"
       ],
-      "title": "Connect"
+      "title": "聯繫我們"
     },
     "support": {
       "_": [
         "我們非常歡迎並感謝朋友們對我們進行資助，以便獲得網站服務器租用和日常維護所需的費用。個人資助者請匯款至：",
         "alipay: siyuanzhi@gmail.com"
       ],
-      "title": "Support"
+      "title": "支持"
     }
   },
   "languagemenu": {
@@ -88,138 +87,138 @@
       "_": "Hmong-Mien"
     },
     "lolo": {
-      "_": "Lolo ／ Ngwi",
-      "desc": "",
+      "_": "彝語支",
+      "desc": "Lolo ／ Ngwi",
       "yi": {
-        "_": "Yi",
+        "_": "彝語、諾蘇語",
         "desc": "ꆈꌠꉙ"
       }
     },
     "nandao": {
-      "_": "Austronesian",
+      "_": "南島語",
       "atayal": {
-        "_": "Atayal",
-        "desc": "",
+        "_": "泰雅語",
+        "desc": "Atayal",
         "matuuwal": {
           "_": "Matu'uwal"
         }
       },
-      "desc": ""
+      "desc": "Austronesian"
     },
     "sal": {
-      "_": "Sal",
-      "desc": "incl. Northern Naga",
+      "_": "彝語支",
+      "desc": "也稱為北那噶",
       "jingpo": {
-        "_": "Jingpaw",
-        "desc": "a.k.a. Singpho, Kachin"
+        "_": "景頗語",
+        "desc": "也稱為克欽語"
       },
       "tangsa": {
         "-": "တန်ရှန်း",
-        "_": "Tangsa",
-        "desc": ""
+        "_": "冢子語",
+        "desc": "也稱為當薩語"
       }
     },
     "sinitic": {
-      "_": "Sinitic",
-      "desc": "Mandarin, Cantonese etc",
+      "_": "漢語系",
+      "desc": "官話、粵語、客語、吳語等",
       "gan": {
-        "_": "Gan",
+        "_": "贛語",
         "desc": ""
       },
       "guanhua": {
-        "_": "Mandarin",
-        "desc": " "
+        "_": "官話",
+        "desc": "包括普通話"
       },
       "hakka": {
-        "_": "Hakka",
-        "desc": ""
+        "_": "客語",
+        "desc": "也稱為客家話"
       },
       "hui": {
-        "_": "Huizhou",
-        "desc": "spoken in Anhui"
+        "_": "徽語",
+        "desc": "也稱為徽州話、安徽當地方言"
       },
       "jin": {
-        "_": "Jin",
-        "desc": ""
+        "_": "晉語",
+        "desc": "陝西話"
       },
       "min": {
-        "_": "Min",
-        "desc": "Hokkien, Taiwanese, Teochew etc"
+        "_": "閩語",
+        "desc": "福建話、臺灣話、潮州話"
       },
       "waxiang": {
-        "_": "Waxiang",
-        "desc": ""
+        "_": "瓦鄉",
+        "desc": "也稱為鄉話"
       },
       "wu": {
-        "_": "Wu",
-        "desc": "incl. Shanghainese"
+        "_": "吳語",
+        "desc": "上海、蘇州、溫州等"
       },
       "xiang": {
-        "_": "Xiang",
-        "desc": "incl. Changsha"
+        "_": "湘語",
+        "desc": "包括長沙方言"
       },
       "yue": {
-        "_": "Yue",
-        "desc": "incl. Cantonese"
+        "_": "粵語",
+        "desc": "廣東、澳門、香港等"
       }
     },
     "tai": {
-      "_": "Tai-Kadai",
-      "desc": "",
+      "_": "壯侗語系",
+      "desc": "傣語、壯語等、撣語",
       "tai": {
-        "_": "Tai",
-        "desc": "incl. Thai, Shan",
+        "_": "傣語",
+        "desc": "包括泰國話、撣語",
         "shan": {
           "-": "လိၵ်ႈတ"
         }
       },
       "zhuang": {
-        "_": "Zhuang",
+        "_": "壯語",
         "desc": "Vahcuengh"
       }
     },
     "tibetoburman": {
-      "_": "Tibeto-Burman",
-      "desc": "Tibetan, Burmese etc."
+      "_": "藏緬語系",
+      "desc": "藏語、緬語、彝語等"
     }
   },
   "nav": {
-    "dialectmap": "map",
-    "home": "home",
+    "dialectmap": "方言地圖",
+    "home": "首頁",
     "locale": {
-      "en": "English",
-      "ko": "Korean",
-      "menu": "Change UI language",
-      "my": "Burmese",
-      "zh-cn": "Simplified Chinese (China)",
-      "zh-hk": "Traditional Chinese (Hong Kong)",
-      "zh-sg": "Simplified Chinese (Singapore)",
-      "zh-tw": "Traditional Chinese (Taiwan)"
+      "en": "英文",
+      "ko": "韓文",
+      "menu": "界面語言",
+      "my": "緬甸語",
+      "zh_CN": "中國大陸，新加坡",
+      "zh_HK": "香港",
+      "zh_SG": "新加坡",
+      "zh_TW": "臺灣，香港，澳門"
     },
     "login": {
-      "_": "sign in",
-      "forgotpassword": "forgot password",
-      "password": "password",
-      "username": "username"
+      "_": "登錄",
+      "forgotpassword": "我忘記密碼",
+      "password": "密碼",
+      "username": "用戶名"
     },
     "logout": {
-      "_": "sign out",
-      "signedinas": "signed in as "
+      "_": "登出",
+      "signedinas": "登錄為"
     },
-    "manage": "manage",
-    "menu": "menu",
+    "manage": "管理",
+    "menu": "菜單",
     "register": {
-      "_": "register",
-      "clickto": "click here to register"
+      "_": "註冊",
+      "clickto": "點擊這裡註冊"
     },
     "search": {
       "_": "search",
-      "general": "search",
-      "language": "language search",
-      "location": "location search",
-      "transctipt": "transcript search"
+      "general": "搜索",
+      "language": "方言搜索",
+      "location": "地名搜索",
+      "transctipt": "地名搜索"
     },
-    "upload": "upload"
+    "upload": "上傳"
   },
   "privacy": {
     "body": [
@@ -234,13 +233,14 @@
           "When registering for an account with this site, we request a verifiable email address in order to reduce spam and automated registrations. This email address also serves as a point of contact in case such a need arise. To date no such need has ever arisen, but we like to know it's there.",
           "We also monitor usage data on the site through Google Analytics in order to better understand traffic and usage patterns. We do not store this information. The privacy policy for Google Analytics is available at [support.google.com/analytics/answer/6004245?hl=en](http://support.google.com/analytics/answer/6004245?hl=en)",
           "If you contact us and provide us with information, we may keep a record of that correspondence and information",
-          "We do not record any personal identifying information beyond what is provided as names by users of the site. The only information we possess is whatever information is publicly visible on the site."
+          "We do not record any personal identifying information beyond what is provided as names by users of the site. The only information we possess is whatever information is publicly visible on the site.",
+          "We do not track your location beyond the information provided by Google Analytics."
         ]
       },
       {
         "h": "What we share",
         "p": [
-          "Unless required by law, we will not share, sell or distribute any personal information you provide to us without your consent."
+          "Unless required by law, we will not share, sell or distribute any personal information you provide to us without your consent. We do not sell your data."
         ]
       },
       {
@@ -249,25 +249,32 @@
           "We use cookies to allow a consistent experience between visits of the site. When you sign in to the website, a cookie is created to hold basic session information. This allows you to not need to sign in again upon very subsequent visit. This cookie remains on your computer after you close your browser and may be used by your browser on subsequent visits to our websites. No personally identifying information is stored in this cookie beyond your username.",
           "If you do not wish to have cookies placed on your computers, please set your browsers to refuse cookies before visiting our websites and using our services."
         ]
+      },
+      {
+        "h": "Advertising",
+        "p": [
+          "We do not sell advertising space on the site to third party advertisers.",
+          "If you see ads on the site, let us know."
+        ]
       }
     ],
-    "title": "Privacy Policy"
+    "title": "服務條款"
   },
   "registration": {
-    "asciionly": "usernames must be alphanumeric but can include '_'",
+    "asciionly": "註冊的用戶名只能爲數字、小寫英文字母和 “_”。其他特殊字符不可以使用",
     "badpassword": "The passwords do not match",
-    "email": "email address",
+    "email": "電郵地址",
     "emailinvalid": "must use a valid email address",
-    "locale": "site language for menus",
-    "location": "location",
+    "locale": "本地環境",
+    "location": "國家、地區",
     "nameistaken": "This username is already taken",
-    "nick": "nickname",
-    "no": "no",
-    "password": "password",
-    "passwordagain": "confirm password",
-    "required": "required",
-    "robot": "Are you a robot?",
-    "subtitle": " a new account",
+    "nick": "綽號／顯示名稱",
+    "no": "否",
+    "password": "密碼",
+    "passwordagain": "確認密碼",
+    "required": "必要",
+    "robot": "您是機器人嗎？",
+    "subtitle": "新帳號",
     "success": {
       "body": [
         {
@@ -276,21 +283,17 @@
           ]
         }
       ],
-      "title": "Success!",
+      "title": "註冊成功！",
       "top": [
-        "Congratulations. You have successfully registered.",
-        "Your registered username:"
+        "恭喜您。您的鄉音苑帳戶已註冊成功。",
+        "您註冊的帳號為："
       ]
     },
-    "title": "Register",
-    "username": "username",
-    "yes": "yes"
+    "title": "註冊",
+    "username": "用戶名",
+    "yes": "是"
   },
-  "settings": {
-    "subtitle": " for your account",
-    "title": "Settings"
-  },
-  "sitename": "乡音苑",
+  "sitename": "鄉音苑",
   "storyteller": {
     "add": {
       "contents": "",
@@ -348,15 +351,15 @@
         ]
       }
     ],
-    "title": "Terms of Use"
+    "title": "服務條款"
   },
   "transcript": {
     "placeholders": {
-      "english": "English",
+      "english": "英文翻譯",
       "fangyan": "方言直錄",
-      "guoyu": "mandarin",
-      "ipa": "IPA",
-      "roman": "romanisation"
+      "guoyu": "普通話",
+      "ipa": "國際音標",
+      "roman": "羅馬字"
     }
   }
 }

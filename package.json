@@ -1,0 +1,26 @@
+{
+  "name": "localisation",
+  "version": "1.0.0",
+  "description": "This repos hosts all the localisation (i18n) files for the site. Any suggested changes should be made as merge requests. Merged requests will become visible on-site.",
+  "main": "detection.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phonemica/localisation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phonemica/localisation/issues"
+  },
+  "homepage": "https://github.com/phonemica/localisation#readme",
+  "dependencies": {
+    "clear": "0.0.1",
+    "parse-json": "^4.0.0"
+  }
+}

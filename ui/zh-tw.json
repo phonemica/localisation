@@ -38,7 +38,7 @@
 			"transctipt": "地名搜索"
 		}
 	},
-	"lang": {
+	"languagemenu": {
 		"sinitic": {
 			"desc": "官話、粵語、客語、吳語等",
 			"_": "漢語系",

@@ -1,6 +1,7 @@
 /*
-  Checks which language codes have localisations available and chooses
-  one based on priority of browser's language settings
+  This script is to determine the user's preferred locale
+  and assign the best one based on those for which
+  localisation has been done
 */
 
 const fs = require('fs');
@@ -8,7 +9,7 @@ const fs = require('fs');
 let headers = parseLocales('en-GB,es-US;q=0.8,zh-SG;q=0.6,zh-TW;q=0.4,es'); // sample
 
 let possible = [];
-fs. readdir('../xyy/localisation/translations', function(err, items) {
+fs. readdir('../xyy/localisation/ui', function(err, items) {
   let ext = 'json';
   for (let i in items) {
     items[i] = items[i].replace('.'+ext,'');

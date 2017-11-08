@@ -1,191 +1,261 @@
 {
-	"xiangyinyuan": "말모이",
-	"fangyanditu": "지도",
-	"nav": {
-		"upload": "上传",
-		"manage": "管理",
-		"login": {
-			"_":"로그인",
-			"username":"아이디",
-			"password":"비밀번호",
-			"lostpassword":"비밀번호재설정"
-		},
-		"logout":{
-			"_":"로그아웃"
-		},
-		"register": "등록",
-		"local": {
-			"menu": "UI 언어",
-			"en": "英文",
-			"ko": "韩文",
-			"my": "缅甸语",
-			"zh_CN": "中国大陆",
-			"zh_HK": "",
-			"zh_SG": "新加坡",
-			"zh_TW": ""
-		},
-		"search": {
-			"_": "검색",
-			"language": "方言搜索",
-			"location": "지도 검색",
-			"transctipt": "地名搜索"
-		},
-	},
-	"lang": {
-		"sinitic": {
-			"desc": "官话、粤语、客语、吴语等",
-			"_": "汉语系",
-			"guanhua": {
-				"desc": "包括普通话",
-				"_": "官话"
-			},
-			"wu": {
-				"desc": "上海、苏州、温州等",
-				"_": "吴语"
-			},
-			"jin": {
-				"desc": "陕西话",
-				"_": "晋语"
-			},
-			"yue": {
-				"desc": "广东、澳门、香港等",
-				"_": "粤语"
-			},
-			"hakka": {
-				"desc": "也称为客家话",
-				"_": "客语"
-			},
-			"min": {
-				"desc": "福建话、台湾话、潮州话",
-				"_": "闽语"
-			},
-			"hui": {
-				"desc": "也称为徽州话、安徽当地方言",
-				"_": "徽语"
-			},
-			"gan": {
-				"desc": "",
-				"_": "赣语"
-			},
-			"xiang": {
-				"desc": "包括长沙方言",
-				"_": "湘语"
-			},
-			"waxiang": {
-				"desc": "也称为乡话",
-				"_": "瓦乡"
-			}
-		},
-		"hmongmien": {
-			"_": "몽몐어족"
-		},
-		"tibetoburman": {
-			"desc": "藏语、缅语、彝语等",
-			"_": "藏缅语系"
-		},
-		"lolo": {
-			"_": "彝语支",
-			"desc": "Lolo ／ Ngwi",
-			"yi": {
-				"_": "彝语、诺苏语",
-				"desc": "ꆈꌠꉙ"
-			}
-		},
-		"sal": {
-			"_": "彝语支",
-			"desc": "也称为北那噶",
-			"jingpo": {
-				"_": "景颇语",
-				"desc": "也称为克钦语"
-			},
-			"tangsa": {
-				"_": "冢子语",
-				"-": "တန်ရှန်း",
-				"desc": "也称为当萨语"
-			}
-		},
-		"tai": {
-			"_": "壮侗语系",
-			"desc": "傣语、壮语等、掸语",
-			"zhuang": {
-				"_": "壮语",
-				"desc": "Vahcuengh"
-			},
-			"tai": {
-				"_": "傣语",
-				"desc": "包括泰国话、掸语",
-				"shan": {
-					"-": "လိၵ်ႈတ"
-				}
-			}
-		},
-		"nandao": {
-			"_": "南岛语",
-			"desc": "Austronesian",
-			"atayal": {
-				"_": "泰雅语",
-				"desc": "Atayal",
-				"matuuwal": {
-					"_": "Matu'uwal"
-				}
-			}
-		}
-	},
-	"home": {
-		"about": {
-			"title": "소개",
-			"_": ["乡音苑是一个方言故事平台。故事录音由我们的网友志愿提供，他们录制、上传，并转录和编辑各种极具地方特色的方言内容：儿歌/童谣、个人经历、地方特色饮食、幽默故事、地方历史、民间故事、风俗习惯、等等等等，不一而足。", "如果您有朋友或亲戚很善于讲故事，您也可以录制并发给我们。您也可以在网站转录或者翻译讲述的内容。您只要注册后，打开一个您能听懂的录音，在播放条下面的文字记录区就可以随意点击编辑了。乡音苑是大家的平台，需要大家的支持才能成长。"]
-		},
-		"support": {
-			"title": "후원하기",
-			"_": ["我们非常欢迎并感谢朋友们对我们进行资助，以便获得网站服务器租用和日常维护所需的费用。个人资助者请汇款至：", "alipay: siyuanzhi@gmail.com"]
-		},
-		"connect": {
-			"title": "우리와 연락",
-			"_": ["电邮：yhilan.ko@gmail.com"]
-		},
-		"activity": {
-			"title": "最新的编辑"
-		}
-	},
-	"transcript": {
-		"placeholders": {
-			"fangyan": "方言直录",
-			"guoyu": "普通话",
-			"roman": "罗马字",
-			"ipa": "国际音标",
-			"english": "英文翻译"
-		}
-	},
-	"entry": {
-		"commentcount": "리뷰",
-		"comments": "리뷰",
-		"recentcomments": "最新评论"
-	},
-	"controls": {
-		"audio": {
-			"play": "放音",
-			"pause": "暂停",
-			"stop": "停止"
-		}
-	},
-	"addspeaker": {
-		"intro":["Before we can upload a story, we need to say something about the person telling the story. Please answer these questions to add your storyteller to the system.","This is about the person speaking in the recording. If you are uploading a story told to you by someone else, this should be that person's information"],
-		"name": "What is the storyteller's name?",
-		"pseudonym": "You may use a pseudonym",
-		"dob": "What year was the storyteller born?",
-		"sex": "What is the storyteller's sex?",
-		"hometown": "Where is the storyteller from?",
-		"language": "Do you know which language/dialect this is?",
-		"clickmaptoselect":"点击地图以选择您的位置"
-	},
-	"editspeaker": {
-		"intro":["Use this form to edit the storyteller's information"]
-	},
-	"footer": {
-		"license": "　署名 - 非商业性使用 - 相同方式共享 4.0 国际",
-		"terms": "이용약관",
-		"privacypolicy": "개인정보취급방침",
-		"rights": "保留部份权利"
-	}
+  "addspeaker": {
+    "clickmaptoselect": "点击地图以选择您的位置",
+    "dob": "What year was the storyteller born?",
+    "hometown": "Where is the storyteller from?",
+    "intro": [
+      "Before we can upload a story, we need to say something about the person telling the story. Please answer these questions to add your storyteller to the system.",
+      "This is about the person speaking in the recording. If you are uploading a story told to you by someone else, this should be that person's information"
+    ],
+    "language": "Do you know which language/dialect this is?",
+    "name": "What is the storyteller's name?",
+    "pseudonym": "You may use a pseudonym",
+    "sex": "What is the storyteller's sex?"
+  },
+  "controls": {
+    "audio": {
+      "pause": "暂停",
+      "play": "放音",
+      "stop": "停止"
+    }
+  },
+  "editspeaker": {
+    "intro": [
+      "Use this form to edit the storyteller's information"
+    ]
+  },
+  "entry": {
+    "commentcount": "리뷰",
+    "comments": "리뷰",
+    "recentcomments": "最新评论"
+  },
+  "fangyanditu": "지도",
+  "footer": {
+    "license": "　署名 - 非商业性使用 - 相同方式共享 4.0 国际",
+    "privacypolicy": "개인정보취급방침",
+    "rights": "保留部份权利",
+    "terms": "이용약관"
+  },
+  "home": {
+    "about": {
+      "_": [
+        "乡音苑是一个方言故事平台。故事录音由我们的网友志愿提供，他们录制、上传，并转录和编辑各种极具地方特色的方言内容：儿歌/童谣、个人经历、地方特色饮食、幽默故事、地方历史、民间故事、风俗习惯、等等等等，不一而足。",
+        "如果您有朋友或亲戚很善于讲故事，您也可以录制并发给我们。您也可以在网站转录或者翻译讲述的内容。您只要注册后，打开一个您能听懂的录音，在播放条下面的文字记录区就可以随意点击编辑了。乡音苑是大家的平台，需要大家的支持才能成长。"
+      ],
+      "title": "소개"
+    },
+    "activity": {
+      "title": "最新的编辑"
+    },
+    "connect": {
+      "_": [
+        "电邮：yhilan.ko@gmail.com"
+      ],
+      "title": "우리와 연락"
+    },
+    "support": {
+      "_": [
+        "我们非常欢迎并感谢朋友们对我们进行资助，以便获得网站服务器租用和日常维护所需的费用。个人资助者请汇款至：",
+        "alipay: siyuanzhi@gmail.com"
+      ],
+      "title": "후원하기"
+    }
+  },
+  "languagemenu": {
+    "hmongmien": {
+      "_": "몽몐어족"
+    },
+    "lolo": {
+      "_": "彝语支",
+      "desc": "Lolo ／ Ngwi",
+      "yi": {
+        "_": "彝语、诺苏语",
+        "desc": "ꆈꌠꉙ"
+      }
+    },
+    "nandao": {
+      "_": "南岛语",
+      "atayal": {
+        "_": "泰雅语",
+        "desc": "Atayal",
+        "matuuwal": {
+          "_": "Matu'uwal"
+        }
+      },
+      "desc": "Austronesian"
+    },
+    "sal": {
+      "_": "彝语支",
+      "desc": "也称为北那噶",
+      "jingpo": {
+        "_": "景颇语",
+        "desc": "也称为克钦语"
+      },
+      "tangsa": {
+        "-": "တန်ရှန်း",
+        "_": "冢子语",
+        "desc": "也称为当萨语"
+      }
+    },
+    "sinitic": {
+      "_": "汉语系",
+      "desc": "官话、粤语、客语、吴语等",
+      "gan": {
+        "_": "赣语",
+        "desc": ""
+      },
+      "guanhua": {
+        "_": "官话",
+        "desc": "包括普通话"
+      },
+      "hakka": {
+        "_": "客语",
+        "desc": "也称为客家话"
+      },
+      "hui": {
+        "_": "徽语",
+        "desc": "也称为徽州话、安徽当地方言"
+      },
+      "jin": {
+        "_": "晋语",
+        "desc": "陕西话"
+      },
+      "min": {
+        "_": "闽语",
+        "desc": "福建话、台湾话、潮州话"
+      },
+      "waxiang": {
+        "_": "瓦乡",
+        "desc": "也称为乡话"
+      },
+      "wu": {
+        "_": "吴语",
+        "desc": "上海、苏州、温州等"
+      },
+      "xiang": {
+        "_": "湘语",
+        "desc": "包括长沙方言"
+      },
+      "yue": {
+        "_": "粤语",
+        "desc": "广东、澳门、香港等"
+      }
+    },
+    "tai": {
+      "_": "壮侗语系",
+      "desc": "傣语、壮语等、掸语",
+      "tai": {
+        "_": "傣语",
+        "desc": "包括泰国话、掸语",
+        "shan": {
+          "-": "လိၵ်ႈတ"
+        }
+      },
+      "zhuang": {
+        "_": "壮语",
+        "desc": "Vahcuengh"
+      }
+    },
+    "tibetoburman": {
+      "_": "藏缅语系",
+      "desc": "藏语、缅语、彝语等"
+    }
+  },
+  "nav": {
+    "local": {
+      "en": "英文",
+      "ko": "韩文",
+      "menu": "UI 언어",
+      "my": "缅甸语",
+      "zh_CN": "中国大陆",
+      "zh_HK": "",
+      "zh_SG": "新加坡",
+      "zh_TW": ""
+    },
+    "login": {
+      "_": "로그인",
+      "lostpassword": "비밀번호재설정",
+      "password": "비밀번호",
+      "username": "아이디"
+    },
+    "logout": {
+      "_": "로그아웃"
+    },
+    "manage": "管理",
+    "register": "등록",
+    "search": {
+      "_": "검색",
+      "language": "方言搜索",
+      "location": "지도 검색",
+      "transctipt": "地名搜索"
+    },
+    "upload": "上传"
+  },
+  "transcript": {
+    "placeholders": {
+      "english": "英文翻译",
+      "fangyan": "方言直录",
+      "guoyu": "普通话",
+      "ipa": "国际音标",
+      "roman": "罗马字"
+    }
+  },
+  "xiangyinyuan": "말모이",
+  "error": {
+    "fivehundred": {
+      "description": "",
+      "name": ""
+    },
+    "fourohfour": {
+      "description": "",
+      "name": ""
+    },
+    "notsignedin": {
+      "description": "",
+      "name": []
+    }
+  },
+  "privacy": {
+    "body": [],
+    "title": ""
+  },
+  "registration": {
+    "asciionly": "",
+    "badpassword": "",
+    "email": "",
+    "emailinvalid": "",
+    "locale": "",
+    "location": "",
+    "nameistaken": "",
+    "nick": "",
+    "no": "",
+    "password": "",
+    "passwordagain": "",
+    "required": "",
+    "robot": "",
+    "subtitle": "",
+    "success": {
+      "body": [],
+      "title": "",
+      "top": []
+    },
+    "title": "",
+    "username": "",
+    "yes": ""
+  },
+  "sitename": "",
+  "storyteller": {
+    "add": {
+      "contents": "",
+      "title": ""
+    },
+    "edit": {
+      "contents": "",
+      "title": ""
+    }
+  },
+  "terms": {
+    "body": [],
+    "title": ""
+  }
 }
